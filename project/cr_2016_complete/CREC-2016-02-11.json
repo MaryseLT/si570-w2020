@@ -1,0 +1,37 @@
+{
+  "title": "Congressional Record Volume 162, Issue 25, (February 11, 2016)",
+  "collectionCode": "CREC",
+  "collectionName": "Congressional Record",
+  "category": "Proceedings of Congress and General Congressional Publications",
+  "dateIssued": "2016-02-11",
+  "detailsLink": "https://www.govinfo.gov/app/details/CREC-2016-02-11",
+  "granulesLink": "https://api.govinfo.gov/packages/CREC-2016-02-11/granules?offset=0&pageSize=100",
+  "packageId": "CREC-2016-02-11",
+  "download": {
+    "pdfLink": "https://api.govinfo.gov/packages/CREC-2016-02-11/pdf",
+    "pdfHouseLink": "https://api.govinfo.gov/packages/CREC-2016-02-11/pdf/house",
+    "pdfExtensionsLink": "https://api.govinfo.gov/packages/CREC-2016-02-11/pdf/extensions",
+    "pdfSenateLink": "https://api.govinfo.gov/packages/CREC-2016-02-11/pdf/senate",
+    "pdfDailyDigestLink": "https://api.govinfo.gov/packages/CREC-2016-02-11/pdf/dailydigest",
+    "modsLink": "https://api.govinfo.gov/packages/CREC-2016-02-11/mods",
+    "premisLink": "https://api.govinfo.gov/packages/CREC-2016-02-11/premis",
+    "zipLink": "https://api.govinfo.gov/packages/CREC-2016-02-11/zip"
+  },
+  "branch": "legislative",
+  "pages": "266",
+  "governmentAuthor1": "Congress",
+  "suDocClassNumber": "X 1.1/A:X/A.",
+  "documentType": "CREC",
+  "congress": "114",
+  "session": "2",
+  "volume": "162",
+  "issue": "25",
+  "bookCount": "1",
+  "publisher": "U.S. Government Publishing Office",
+  "otherIdentifier": {
+    "migrated-doc-id": "CR11FE16",
+    "ils-system-id": "000568013",
+    "stock-number": "752-002-00000-2"
+  },
+  "lastModified": "2019-07-10T19:04:19Z"
+}

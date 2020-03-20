@@ -1,0 +1,8 @@
+project/outputs
+labs
+project/cache
+project/images
+*.pyc
+sem docs.lnk
+project/private_keys.py
+project/proj_proposal.md

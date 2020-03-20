@@ -1,0 +1,43 @@
+{
+  "title": "Congressional Record Volume 163, Issue 76, (May 3, 2017)",
+  "collectionCode": "CREC",
+  "collectionName": "Congressional Record",
+  "category": "Proceedings of Congress and General Congressional Publications",
+  "dateIssued": "2017-05-03",
+  "detailsLink": "https://www.govinfo.gov/app/details/CREC-2017-05-03",
+  "granulesLink": "https://api.govinfo.gov/packages/CREC-2017-05-03/granules?offset=0&pageSize=100",
+  "packageId": "CREC-2017-05-03",
+  "download": {
+    "pdf-bk3Link": "https://api.govinfo.gov/packages/CREC-2017-05-03/pdf-bk3",
+    "pdfLink": "https://api.govinfo.gov/packages/CREC-2017-05-03/pdf",
+    "pdfHouseLink": "https://api.govinfo.gov/packages/CREC-2017-05-03/pdf/house",
+    "pdfHouse-bk2Link": "https://api.govinfo.gov/packages/CREC-2017-05-03/pdf/house-bk2",
+    "pdfHouse-bk3Link": "https://api.govinfo.gov/packages/CREC-2017-05-03/pdf/house-bk3",
+    "pdfExtensionsLink": "https://api.govinfo.gov/packages/CREC-2017-05-03/pdf/extensions",
+    "pdf-bk2Link": "https://api.govinfo.gov/packages/CREC-2017-05-03/pdf-bk2",
+    "pdfSenateLink": "https://api.govinfo.gov/packages/CREC-2017-05-03/pdf/senate",
+    "pdfDailyDigest-bk1Link": "https://api.govinfo.gov/packages/CREC-2017-05-03/pdf/dailydigest-bk1",
+    "pdfDailyDigestLink": "https://api.govinfo.gov/packages/CREC-2017-05-03/pdf/dailydigest",
+    "pdfDailyDigest-bk2Link": "https://api.govinfo.gov/packages/CREC-2017-05-03/pdf/dailydigest-bk2",
+    "modsLink": "https://api.govinfo.gov/packages/CREC-2017-05-03/mods",
+    "premisLink": "https://api.govinfo.gov/packages/CREC-2017-05-03/premis",
+    "zipLink": "https://api.govinfo.gov/packages/CREC-2017-05-03/zip"
+  },
+  "branch": "legislative",
+  "pages": "2252",
+  "governmentAuthor1": "Congress",
+  "suDocClassNumber": "X 1.1/A:X/A.",
+  "documentType": "CREC",
+  "congress": "115",
+  "session": "1",
+  "volume": "163",
+  "issue": "76",
+  "bookCount": "3",
+  "publisher": "U.S. Government Publishing Office",
+  "otherIdentifier": {
+    "migrated-doc-id": "CR03MY17",
+    "ils-system-id": "000568013",
+    "stock-number": "752-002-00000-2"
+  },
+  "lastModified": "2019-07-09T12:01:21Z"
+}
