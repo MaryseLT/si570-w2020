@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<congressionalRecord> <!-- Root Element -->
+
+    <crIssue> <!-- 1st Class -->
+        <date></date>
+        <volume></volume>
+        <number></number>
+        <pages>
+            <pageStart></pageStart>
+            <pageEnd></pageEnd>
+        </pages>
+    </crIssue>
+
+    <congressPerson> <!-- 2nd Class -->
+        <firstName></firstName>
+        <lastName></lastName>
+        <chamber></chamber>
+        <state></state>
+        <partyAffliation></partyAffliation>
+    </congressPerson>
+
+    <document> <!-- 3rd Class -->
+        <type></type>
+        <title></title>
+        <topic></topic>
+        <author></author>
+        <crSection></crSection>
+        <relevance></relevance>
+        <text></text>
+    </document>
+
+</congressionalRecord>
