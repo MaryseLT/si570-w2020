@@ -2,76 +2,102 @@
 
 <congressionalRecord> <!-- Root Element -->
 
-    <crIssue> <!-- 1st Class --> <!-- Example 1 -->
-        <date>2016-09-08</date>
-        <volume>162</volume>
-        <number>135</number>
-        <pages>
-            <pageStart>HR5177</pageStart>
-            <pageEnd>HR5177</pageEnd>
-        </pages>
-    </crIssue>
+    <crIssues>
+        <crIssue crId="CREC-2016-09-08"> <!-- 1st Class --> <!-- Example 1 -->
+            <date>2016-09-08</date>
+            <volume>162</volume>
+            <number>135</number>
+            <pages>
+                <pageStart>HR5177</pageStart>
+                <pageEnd>HR5177</pageEnd>
+            </pages>
 
-    <congressPerson> <!-- 2nd Class -->
-        <firstName>Jared</firstName>
-        <lastName>Polis</lastName>
-        <chamber>House of Representatives</chamber>
-        <state>CO</state>
-        <partyAffliation>Democrat</partyAffliation>
-    </congressPerson>
+            <document docId="CREC-2016-09-08-01"> <!-- 3rd Class -->
+                <type>Speech</type>
+                <title>Comprehensive Immigration Reform</title>
+                <topic>Immigration Reform</topic>
+                <author personId="jared_polis_house_co_democrat">Jared Polis</author>
+                <crSection>House</crSection>
+                <text>
+                    <p>(Mr. POLIS asked and was given permission to address the House for 1 minute and to revise and extend his remarks.)</p>
+                    <p>Mr. POLIS. Mr. Speaker, I rise today to call upon the House of Representatives to address our broken immigration system, one that serves our national security poorly, one that inhibits the ability of law enforcement to keep our communities safe and replace it with comprehensive immigration reform so we know who is here, so that people who are here illegally will be required to register and get right with the law and pay a fine, that we provide a pathway to citizenship for people who are here and playing a productive role in our economy, and that we can make sure that parents aren't taken away forcibly from their American citizen children.</p>
+                    <p> It has been scored by the Congressional Budget Office that immigration reform would reduce our budget deficit by over $200 billion. There are people here today working, Mr. Speaker, and we don't even know if they are paying taxes. We need to make sure that everybody who works in our country pays their just share of taxes, fulfills their responsibilities as legal residents or as citizens of our country, and the only way that we can do that is through congressional action.</p>
+                    <p> I am proud to support comprehensive immigration reform. I call upon Speaker Ryan and the Republican majority to put a bill forward that secures our border, reduces our deficit, and provides a way that people are required to get right with the law and have workplace authentication.</p>
+                </text>
+            </document>
 
-    <document> <!-- 3rd Class -->
-        <type>Speech</type>
-        <title>Comprehensive Immigration Reform</title>
-        <topic>Immigration Reform</topic>
-        <author>Jared Polis</author>
-        <crSection>House</crSection>
-        <relevance></relevance>
-        <text>
-            <p>(Mr. POLIS asked and was given permission to address the House for 1 minute and to revise and extend his remarks.)</p>
-            <p>Mr. POLIS. Mr. Speaker, I rise today to call upon the House of Representatives to address our broken immigration system, one that serves our national security poorly, one that inhibits the ability of law enforcement to keep our communities safe and replace it with comprehensive immigration reform so we know who is here, so that people who are here illegally will be required to register and get right with the law and pay a fine, that we provide a pathway to citizenship for people who are here and playing a productive role in our economy, and that we can make sure that parents aren't taken away forcibly from their American citizen children.</p>
-            <p> It has been scored by the Congressional Budget Office that immigration reform would reduce our budget deficit by over $200 billion. There are people here today working, Mr. Speaker, and we don't even know if they are paying taxes. We need to make sure that everybody who works in our country pays their just share of taxes, fulfills their responsibilities as legal residents or as citizens of our country, and the only way that we can do that is through congressional action.</p>
-            <p> I am proud to support comprehensive immigration reform. I call upon Speaker Ryan and the Republican majority to put a bill forward that secures our border, reduces our deficit, and provides a way that people are required to get right with the law and have workplace authentication.</p>
-        </text>
-    </document>
+        </crIssue>
 
-    <crIssue> <!-- 1st Class --> <!-- Example 2 -->
-        <date>2016-12-01</date>
-        <volume>162</volume>
-        <number>173</number>
-        <pages>
-            <pageStart>E1575</pageStart>
-            <pageEnd>E1575</pageEnd>
-        </pages>
-    </crIssue>
+        <crIssue crId="CREC-2016-12-01"> <!-- 1st Class --> <!-- Example 2 -->
+            <date>2016-12-01</date>
+            <volume>162</volume>
+            <number>173</number>
+            <pages>
+                <pageStart>E1575</pageStart>
+                <pageEnd>E1575</pageEnd>
+            </pages>
 
-    <congressPerson> <!-- 2nd Class -->
-        <firstName>Dina</firstName>
-        <lastName>Titus</lastName>
-        <chamber>House of Representatives</chamber>
-        <state>NV</state>
-        <partyAffliation>Democrat</partyAffliation>
-    </congressPerson>
+            <document docId="CREC-2016-12-01-01"> <!-- 3rd Class -->
+                <type>Speech</type>
+                <title>Celebrating The Dreamers</title>
+                <topic>Immigration Reform</topic>
+                <author personId="dina_titus_house_nv_democrat">Dina Titus</author>
+                <crSection>Extension of Remarks</crSection>
+                <text>
+                    <p>Ms. TITUS. Mr. Speaker, my office was overwhelmed with phone calls in the days following the election.</p>
+                    <p>DACA recipients, their friends, and their family were afraid: Will I be deported, they asked. Will my cousin be deported? Will my friends be deported?</p>
+                    <p>I know these questions were not just being uttered in Southern Nevada. People were asking them in living rooms, kitchens, restaurants, schools, and countless other places across the country.</p>
+                    <p>For our DREAMers and their loved ones, the fear and anxiety will continue if we don't responsibly act to reform our broken immigration system.</p>
+                    <p>Since the election we've heard very little from the incoming administration about what's actually going to happen once President Obama leaves office.</p>
+                    <p>That is why I recently held an immigration advocacy roundtable with local community leaders like The Legal Aid Center of Southern Nevada, UNLV, the Latin Chamber of Commerce, and other local officials.</p>
+                    <p>We wanted to let families know that despite the uncertainty, we are here to help them.</p>
+                    <p>Together, we want to change the tone that we heard from Donald Trump during the election.</p>
+                    <p>After months of disgraceful speeches about walls and deportations, Trump and his administration must now deal with the gravity of the situation.</p>
+                    <p>It's time they acquaint themselves with the young men and women who have been able to work, go to school, contribute to the tax base, and live life without fear of being thrown out of the country they call home.</p>
+                </text>
+            </document>
 
-    <document> <!-- 3rd Class -->
-        <type>Speech</type>
-        <title>Celebrating The Dreamers</title>
-        <topic>Immigration Reform</topic>
-        <author>Dina Titus</author>
-        <crSection>Extension of Remarks</crSection>
-        <relevance></relevance>
-        <text>
-            <p>Ms. TITUS. Mr. Speaker, my office was overwhelmed with phone calls in the days following the election.</p>
-            <p>DACA recipients, their friends, and their family were afraid: Will I be deported, they asked. Will my cousin be deported? Will my friends be deported?</p>
-            <p>I know these questions were not just being uttered in Southern Nevada. People were asking them in living rooms, kitchens, restaurants, schools, and countless other places across the country.</p>
-            <p>For our DREAMers and their loved ones, the fear and anxiety will continue if we don't responsibly act to reform our broken immigration system.</p>
-            <p>Since the election we've heard very little from the incoming administration about what's actually going to happen once President Obama leaves office.</p>
-            <p>That is why I recently held an immigration advocacy roundtable with local community leaders like The Legal Aid Center of Southern Nevada, UNLV, the Latin Chamber of Commerce, and other local officials.</p>
-            <p>We wanted to let families know that despite the uncertainty, we are here to help them.</p>
-            <p>Together, we want to change the tone that we heard from Donald Trump during the election.</p>
-            <p>After months of disgraceful speeches about walls and deportations, Trump and his administration must now deal with the gravity of the situation.</p>
-            <p>It's time they acquaint themselves with the young men and women who have been able to work, go to school, contribute to the tax base, and live life without fear of being thrown out of the country they call home.</p>
-        </text>
-    </document>
+        </crIssue>
+
+    </crIssues>
+
+    <congressPeople>
+        <congressPerson personId="jared_polis_house_co_democrat"> <!-- 2nd Class -->
+            <firstName>Jared</firstName>
+            <lastName>Polis</lastName>
+            <chamber>House of Representatives</chamber>
+            <state>CO</state>
+            <partyAffliation>Democrat</partyAffliation>
+        </congressPerson>
+
+        <congressPerson personId="dina_titus_house_nv_democrat"> <!-- 2nd Class -->
+            <firstName>Dina</firstName>
+            <lastName>Titus</lastName>
+            <chamber>House of Representatives</chamber>
+            <state>NV</state>
+            <partyAffliation>Democrat</partyAffliation>
+        </congressPerson>
+
+    </congressPeople>
+
+    <topics>
+
+        <topic topicId="001">
+            <label>Immigration</label>
+
+            <expressions>
+                <expression regEx="[Ii]mmigrat.*" totalFreq=24,159 />
+                <expression regEx="pathway to citizenship" totalFreq=581/>
+                <expression regEx="DACA|Deferred Action for Childhood Arrivals" totalFreq=1,402/>
+            </expressions>
+
+            <documents>
+                <document docId="CREC-2016-09-08-01" docFreq=5 relevance=7.18 />
+                <document docId="CREC-2016-12-01-01" docFreq=3 relevance=4.31 />
+            </documents>
+
+        </topic>
+
+    </topics>
 
 </congressionalRecord>

@@ -2,7 +2,7 @@
 
 <congressionalRecord> <!-- Root Element -->
 
-    <crIssue> <!-- 1st Class -->
+    <crIssue crId=""> <!-- 1st Class -->
         <date></date>
         <volume></volume>
         <number></number>
@@ -10,24 +10,39 @@
             <pageStart></pageStart>
             <pageEnd></pageEnd>
         </pages>
+
+        <document docId=""> <!-- 3rd Class -->
+            <type></type>
+            <title></title>
+            <topic></topic>
+            <author personId=""></author>
+            <crSection></crSection>
+            <relevance></relevance>
+            <text></text>
+        </document>
+
     </crIssue>
 
-    <congressPerson> <!-- 2nd Class -->
-        <firstName></firstName>
-        <lastName></lastName>
-        <chamber></chamber>
-        <state></state>
-        <partyAffliation></partyAffliation>
+    <congressPeople>
+        <congressPerson personId=""> <!-- 2nd Class -->
+            <firstName></firstName>
+            <lastName></lastName>
+            <chamber></chamber>
+            <state></state>
+            <partyAffliation></partyAffliation>
+        </congressPerson>
     </congressPerson>
 
-    <document> <!-- 3rd Class -->
-        <type></type>
-        <title></title>
-        <topic></topic>
-        <author></author>
-        <crSection></crSection>
-        <relevance></relevance>
-        <text></text>
-    </document>
+    <topics>
+        <topic topicId="">
+            <label></label>
+            <expressions>
+                <expression regEx="" totalFreq= ></expression>
+            </expressions>
+            <documents>
+                <document docId="" docFreq= relevance= ></document>
+            </documents>
+        </topic>
+    </topics>
 
 </congressionalRecord>
