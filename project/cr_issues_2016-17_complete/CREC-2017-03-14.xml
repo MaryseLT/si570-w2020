@@ -1,0 +1,3655 @@
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" ID="P0b002ee193fb195b">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+  <roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+  <roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <role>
+  <roleTerm authority="marcrelator" type="text">author</roleTerm>
+  <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>CREC</collectionCode>
+ <category>Proceedings of Congress and General Congressional Publications</category>
+ <waisDatabaseName>2017_record</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2017-03-15</dateIngested>
+</extension>
+<titleInfo>
+ <title>Congressional Record</title>
+ <partNumber>Vol. 163, no. 44</partNumber>
+</titleInfo>
+<location>
+ <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-03-14</url>
+ <url displayLabel="PDF rendition" access="raw object">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14.pdf</url>
+</location>
+<part type="issue">
+ <extent unit="pages">
+  <start>S1783</start>
+  <end>S1807</end>
+</extent>
+ <extent unit="pages">
+  <start>D281</start>
+  <end>D284</end>
+</extent>
+</part>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2017-03-14</dateIssued>
+ <issuance>continuing</issuance>
+ <frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>58 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-03-14</identifier>
+<identifier type="local">P0b002ee193fb195b</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr14mr17</identifier>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2017-03-15</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2019-04-14</recordChangeDate>
+ <recordIdentifier source="DGPO">CREC-2017-03-14</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+ <docClass>CREC</docClass>
+ <accessId>CREC-2017-03-14</accessId>
+ <volume>163</volume>
+ <issue>44</issue>
+ <congress>115</congress>
+ <session>1</session>
+ <bookCount>1</bookCount>
+</extension>
+<relatedItem type="constituent" ID="id-CREC-2017-03-14-pt1-PgD281" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-03-14/CREC-2017-03-14-pt1-PgD281/mods.xml">
+ <titleInfo>
+  <title>Daily Digest/Senate</title>
+  <partName>Daily Digest</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgD281.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c0e</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgD281.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c2a</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. D281</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgD281</identifier>
+ <identifier type="former granule identifier">cr14mr17-3</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgD281</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgD281.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgD281.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>D281</start>
+   <end>D281</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. D281</identifier>
+ <extension>
+  <searchTitle>Daily Digest/Senate; Congressional Record Vol. 163, No. 44</searchTitle>
+  <granuleClass>DAILYDIGEST</granuleClass>
+  <accessId>CREC-2017-03-14-pt1-PgD281</accessId>
+  <subGranuleClass>DDSCHAMBER</subGranuleClass>
+  <pagePrefix>D</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-03-14</granuleDate>
+  <bill congress="115" context="OTHER" number="42" type="HJRES"></bill>
+  <bill congress="115" context="OTHER" number="616" type="S"></bill>
+  <bill congress="115" context="OTHER" number="629" type="S"></bill>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Joint Resolution 42 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.J. Res. 42</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 616 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 616</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 629 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 629</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-03-14-pt1-PgD281-2" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-03-14/CREC-2017-03-14-pt1-PgD281-2/mods.xml">
+ <titleInfo>
+  <title>Daily Digest/Senate Committee Meetings</title>
+  <partName>Daily Digest</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgD281-2.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2f09</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgD281-2.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c41</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. D281</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgD281-2</identifier>
+ <identifier type="former granule identifier">cr14mr17-4</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgD281-2</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgD281-2.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgD281-2.htm</url>
+</location>
+ <physicalDescription>
+  <extent>2 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>D281</start>
+   <end>D282</end>
+</extent>
+</part>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>Senate</namePart>
+  <namePart>Committee on Armed Services</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>Senate</namePart>
+  <namePart>Committee on Banking, Housing, and Urban Affairs</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>Senate</namePart>
+  <namePart>Committee on Commerce, Science, and Transportation</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>Senate</namePart>
+  <namePart>Committee on Energy and Natural Resources</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>Senate</namePart>
+  <namePart>Committee on Finance</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>Senate</namePart>
+  <namePart>Select Committee on Intelligence</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. D281</identifier>
+ <extension>
+  <searchTitle>Daily Digest/Senate Committee Meetings; Congressional Record Vol. 163, No. 44</searchTitle>
+  <granuleClass>DAILYDIGEST</granuleClass>
+  <accessId>CREC-2017-03-14-pt1-PgD281-2</accessId>
+  <subGranuleClass>DDSCMEETINGS</subGranuleClass>
+  <pagePrefix>D</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-03-14</granuleDate>
+  <congCommittee authorityId="ssas00" chamber="S" congress="115" type="S">
+                           <name type="authority-standard">Committee on Armed Services</name>
+                           <name type="authority-short">Armed Services</name>
+                    </congCommittee>
+  <congCommittee authorityId="ssbk00" chamber="S" congress="115" type="S">
+                           <name type="authority-standard">Committee on Banking, Housing, and Urban Affairs</name>
+                           <name type="authority-short">Banking, Housing, and Urban Affairs</name>
+                    </congCommittee>
+  <congCommittee authorityId="sscm00" chamber="S" congress="115" type="S">
+                           <name type="authority-standard">Committee on Commerce, Science, and Transportation</name>
+                           <name type="authority-short">Commerce, Science, and Transportation</name>
+                    </congCommittee>
+  <congCommittee authorityId="sseg00" chamber="S" congress="115" type="S">
+                           <name type="authority-standard">Committee on Energy and Natural Resources</name>
+                           <name type="authority-short">Energy and Natural Resources</name>
+                    </congCommittee>
+  <congCommittee authorityId="ssfi00" chamber="S" congress="115" type="S">
+                           <name type="authority-standard">Committee on Finance</name>
+                           <name type="authority-short">Finance</name>
+                    </congCommittee>
+  <congCommittee authorityId="slin00" chamber="S" congress="115" type="L">
+                           <name type="authority-standard">Select Committee on Intelligence</name>
+                           <name type="authority-short">Intelligence (Select)</name>
+                    </congCommittee>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-03-14-pt1-PgD282" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-03-14/CREC-2017-03-14-pt1-PgD282/mods.xml">
+ <titleInfo>
+  <title>Daily Digest/House of Representatives</title>
+  <partName>Daily Digest</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgD282.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c14</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgD282.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c34</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. D282</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgD282</identifier>
+ <identifier type="former granule identifier">cr14mr17-5</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgD282</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgD282.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgD282.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>D282</start>
+   <end>D282</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. D282</identifier>
+ <extension>
+  <searchTitle>Daily Digest/House of Representatives; Congressional Record Vol. 163, No. 44</searchTitle>
+  <granuleClass>DAILYDIGEST</granuleClass>
+  <accessId>CREC-2017-03-14-pt1-PgD282</accessId>
+  <subGranuleClass>DDHCHAMBER</subGranuleClass>
+  <pagePrefix>D</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-03-14</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-03-14-pt1-PgD282-2" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-03-14/CREC-2017-03-14-pt1-PgD282-2/mods.xml">
+ <titleInfo>
+  <title>Daily Digest/House Committee Meetings</title>
+  <partName>Daily Digest</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgD282-2.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c1a</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgD282-2.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c36</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. D282</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgD282-2</identifier>
+ <identifier type="former granule identifier">cr14mr17-6</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgD282-2</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgD282-2.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgD282-2.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>D282</start>
+   <end>D282</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. D282</identifier>
+ <extension>
+  <searchTitle>Daily Digest/House Committee Meetings; Congressional Record Vol. 163, No. 44</searchTitle>
+  <granuleClass>DAILYDIGEST</granuleClass>
+  <accessId>CREC-2017-03-14-pt1-PgD282-2</accessId>
+  <subGranuleClass>DDHCMEETINGS</subGranuleClass>
+  <pagePrefix>D</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-03-14</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-03-14-pt1-PgD282-3" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-03-14/CREC-2017-03-14-pt1-PgD282-3/mods.xml">
+ <titleInfo>
+  <title>Daily Digest/COMMITTEE MEETINGS FOR 2017-03-15</title>
+  <partName>Daily Digest</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgD282-3.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c22</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgD282-3.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c37</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. D282</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgD282-3</identifier>
+ <identifier type="former granule identifier">cr14mr17-7</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgD282-3</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgD282-3.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgD282-3.htm</url>
+</location>
+ <physicalDescription>
+  <extent>2 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>D282</start>
+   <end>D283</end>
+</extent>
+</part>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>Senate</namePart>
+  <namePart>Committee on Appropriations</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>House of Representatives</namePart>
+  <namePart>Committee on Armed Services</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>Senate</namePart>
+  <namePart>Committee on Banking, Housing, and Urban Affairs</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>Senate</namePart>
+  <namePart>Committee on Commerce, Science, and Transportation</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>Senate</namePart>
+  <namePart>Committee on Environment and Public Works</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>Senate</namePart>
+  <namePart>Committee on Foreign Relations</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>Senate</namePart>
+  <namePart>Committee on Homeland Security and Governmental Affairs</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>House of Representatives</namePart>
+  <namePart>Committee on the Judiciary</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>House of Representatives</namePart>
+  <namePart>Committee on Veterans&apos; Affairs</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>House of Representatives</namePart>
+  <namePart>Permanent Select Committee on Intelligence</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>House of Representatives</namePart>
+  <namePart>Committee on Energy and Commerce</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>House of Representatives</namePart>
+  <namePart>Committee on Natural Resources</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>House of Representatives</namePart>
+  <namePart>Committee on Rules</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>House of Representatives</namePart>
+  <namePart>Committee on Ways and Means</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>Senate</namePart>
+  <namePart>Committee on Human Resources</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. D282</identifier>
+ <extension>
+  <searchTitle>Daily Digest/COMMITTEE MEETINGS FOR 2017-03-15; Congressional Record Vol. 163, No. 44</searchTitle>
+  <granuleClass>DAILYDIGEST</granuleClass>
+  <accessId>CREC-2017-03-14-pt1-PgD282-3</accessId>
+  <subGranuleClass>DDCOMMITTEEMEETINGS</subGranuleClass>
+  <pagePrefix>D</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <granuleDate>2017-03-14</granuleDate>
+  <bill congress="115" context="OTHER" number="21" type="S"></bill>
+  <bill congress="115" context="OTHER" number="34" type="S"></bill>
+  <bill congress="115" context="OTHER" number="188" type="S"></bill>
+  <bill congress="115" context="OTHER" number="218" type="S"></bill>
+  <bill congress="115" context="OTHER" number="274" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="317" type="S"></bill>
+  <bill congress="115" context="OTHER" number="366" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="500" type="S"></bill>
+  <bill congress="115" context="OTHER" number="1181" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="1259" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="1367" type="HR"></bill>
+  <congCommittee authorityId="ssap00" chamber="S" congress="115" type="S">
+                           <name type="authority-standard">Committee on Appropriations</name>
+                           <name type="authority-short">Appropriations</name>
+                    </congCommittee>
+  <congCommittee authorityId="hsas00" chamber="H" congress="115" type="S">
+                           <name type="authority-standard">Committee on Armed Services</name>
+                           <name type="authority-short">Armed Services</name>
+                    </congCommittee>
+  <congCommittee authorityId="ssbk00" chamber="S" congress="115" type="S">
+                           <name type="authority-standard">Committee on Banking, Housing, and Urban Affairs</name>
+                           <name type="authority-short">Banking, Housing, and Urban Affairs</name>
+                    </congCommittee>
+  <congCommittee authorityId="sscm00" chamber="S" congress="115" type="S">
+                           <name type="authority-standard">Committee on Commerce, Science, and Transportation</name>
+                           <name type="authority-short">Commerce, Science, and Transportation</name>
+                    </congCommittee>
+  <congCommittee authorityId="ssev00" chamber="S" congress="115" type="S">
+                           <name type="authority-standard">Committee on Environment and Public Works</name>
+                           <name type="authority-short">Environment and Public Works</name>
+                    </congCommittee>
+  <congCommittee authorityId="ssfr00" chamber="S" congress="115" type="S">
+                           <name type="authority-standard">Committee on Foreign Relations</name>
+                           <name type="authority-short">Foreign Relations</name>
+                    </congCommittee>
+  <congCommittee authorityId="ssga00" chamber="S" congress="115" type="S">
+                           <name type="authority-standard">Committee on Homeland Security and Governmental Affairs</name>
+                           <name type="authority-short">Homeland Security and Governmental Affairs</name>
+                    </congCommittee>
+  <congCommittee authorityId="hsju00" chamber="H" congress="115" type="S">
+                           <name type="authority-standard">Committee on the Judiciary</name>
+                           <name type="authority-short">Judiciary</name>
+                    </congCommittee>
+  <congCommittee authorityId="hsvr00" chamber="H" congress="115" type="S">
+                           <name type="authority-standard">Committee on Veterans&apos; Affairs</name>
+                           <name type="authority-short">Veterans&apos; Affairs</name>
+                    </congCommittee>
+  <congCommittee authorityId="hlig00" chamber="H" congress="115" type="L">
+                           <name type="authority-standard">Permanent Select Committee on Intelligence</name>
+                           <name type="authority-short">Intelligence (Permanent Select)</name>
+                    </congCommittee>
+  <congCommittee authorityId="hsif00" chamber="H" congress="115" type="S">
+                           <name type="authority-standard">Committee on Energy and Commerce</name>
+                           <name type="authority-short">Energy and Commerce</name>
+                    </congCommittee>
+  <congCommittee authorityId="hsii00" chamber="H" congress="115" type="S">
+                           <name type="authority-standard">Committee on Natural Resources</name>
+                           <name type="authority-short">Natural Resources</name>
+                    </congCommittee>
+  <congCommittee authorityId="hsru00" chamber="H" congress="115" type="S">
+                           <name type="authority-standard">Committee on Rules</name>
+                           <name type="authority-short">Rules</name>
+                    </congCommittee>
+  <congCommittee authorityId="hswm00" chamber="H" congress="115" type="S">
+                           <name type="authority-standard">Committee on Ways and Means</name>
+                           <name type="authority-short">Ways and Means</name>
+                    </congCommittee>
+  <congCommittee authorityId="sshr00" chamber="S" congress="96" type="S">
+                           <name type="authority-standard">Committee on Human Resources</name>
+                           <name type="authority-short">Human Resources</name>
+                    </congCommittee>
+  <USCode title="5">
+                           <chapter number="8"></chapter>
+                    </USCode>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 21 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 21</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 34 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 34</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 188 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 188</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 218 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 218</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 274 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 274</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 317 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 317</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 366 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 366</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 500 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 500</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 1181 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 1181</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 1259 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 1259</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 1367 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 1367</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Code</title>
+   <partNumber>Title 5 Chapter 8</partNumber>
+</titleInfo>
+  <identifier type="USC citation">5 U.S.C. Chapter 8</identifier>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-03-14-pt1-PgD283" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-03-14/CREC-2017-03-14-pt1-PgD283/mods.xml">
+ <titleInfo>
+  <title>Daily Digest/Next Meeting of the SENATE + Next Meeting of the HOUSE OF REPRESENTATIVES + Other End Matter</title>
+  <partName>Daily Digest</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgD283.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2f08</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgD283.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c3e</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. D283</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgD283</identifier>
+ <identifier type="former granule identifier">cr14mr17-8</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgD283</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgD283.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgD283.htm</url>
+</location>
+ <physicalDescription>
+  <extent>2 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>D283</start>
+   <end>D284</end>
+</extent>
+</part>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart></namePart>
+  <namePart>Joint Committee on Printing</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. D283</identifier>
+ <extension>
+  <searchTitle>Daily Digest/Next Meeting of the SENATE + Next Meeting of the HOUSE OF REPRESENTATIVES + Other End Matter; Congressional Record Vol. 163, No. 44</searchTitle>
+  <granuleClass>DAILYDIGEST</granuleClass>
+  <accessId>CREC-2017-03-14-pt1-PgD283</accessId>
+  <subGranuleClass>DDENDMATTER</subGranuleClass>
+  <pagePrefix>D</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-03-14</granuleDate>
+  <congCommittee authorityId="jspr00" chamber="J" congress="115" type="J">
+                           <name type="authority-standard">Joint Committee on Printing</name>
+                           <name type="authority-short">Joint Printing</name>
+                    </congCommittee>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-03-14-pt1-PgS1783" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1783/mods.xml">
+ <titleInfo>
+  <title>House of Representatives</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1783.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c1f</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1783.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c25</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S1783</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1783</identifier>
+ <identifier type="former granule identifier">cr14mr17-10</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1783</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1783.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1783.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S1783</start>
+   <end>S1783</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. S1783</identifier>
+ <extension>
+  <searchTitle>House of Representatives; Congressional Record Vol. 163, No. 44</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-03-14-pt1-PgS1783</accessId>
+  <subGranuleClass>CALLTOORDER</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-03-14</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-03-14-pt1-PgS1783-2" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1783-2/mods.xml">
+ <titleInfo>
+  <title>PRAYER</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1783-2.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2f0f</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1783-2.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c40</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S1783</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1783-2</identifier>
+ <identifier type="former granule identifier">cr14mr17-11</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1783-2</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1783-2.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1783-2.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S1783</start>
+   <end>S1783</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. S1783</identifier>
+ <extension>
+  <searchTitle>PRAYER; Congressional Record Vol. 163, No. 44</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-03-14-pt1-PgS1783-2</accessId>
+  <subGranuleClass>PRAYER</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-03-14</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-03-14-pt1-PgS1783-3" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1783-3/mods.xml">
+ <titleInfo>
+  <title>PLEDGE OF ALLEGIANCE</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1783-3.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c0d</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1783-3.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c3c</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S1783</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1783-3</identifier>
+ <identifier type="former granule identifier">cr14mr17-12</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1783-3</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1783-3.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1783-3.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S1783</start>
+   <end>S1783</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. S1783</identifier>
+ <extension>
+  <searchTitle>PLEDGE OF ALLEGIANCE; Congressional Record Vol. 163, No. 44</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-03-14-pt1-PgS1783-3</accessId>
+  <subGranuleClass>PLEDGE</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-03-14</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-03-14-pt1-PgS1783-4" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1783-4/mods.xml">
+ <titleInfo>
+  <title>RECOGNITION OF THE MAJORITY LEADER</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1783-4.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c1c</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1783-4.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c38</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S1783</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1783-4</identifier>
+ <identifier type="former granule identifier">cr14mr17-13</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1783-4</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1783-4.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1783-4.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S1783</start>
+   <end>S1783</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. S1783</identifier>
+ <extension>
+  <searchTitle>RECOGNITION OF THE MAJORITY LEADER; Congressional Record Vol. 163, No. 44</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-03-14-pt1-PgS1783-4</accessId>
+  <subGranuleClass>ALLOTHER</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-03-14</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-03-14-pt1-PgS1783-5" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1783-5/mods.xml">
+ <titleInfo>
+  <title>CONGRESSIONAL REVIEW ACT RESOLUTION</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1783-5.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2f07</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1783-5.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c33</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S1783</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1783-5</identifier>
+ <identifier type="former granule identifier">cr14mr17-14</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1783-5</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1783-5.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1783-5.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S1783</start>
+   <end>S1783</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>Mitch McConnell</namePart>
+  <affiliation>United States Senate</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. S1783</identifier>
+ <extension>
+  <searchTitle>CONGRESSIONAL REVIEW ACT RESOLUTION; Congressional Record Vol. 163, No. 44</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-03-14-pt1-PgS1783-5</accessId>
+  <subGranuleClass>ALLOTHER</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-03-14</granuleDate>
+  <congMember authorityId="1395" bioGuideId="M000355" chamber="S" congress="115" gpoId="8254" party="R" role="SPEAKING" state="KY">
+                           <name type="parsed">Mr. McCONNELL</name>
+                           <name type="authority-fnf">Mitch McConnell</name>
+                           <name type="authority-lnf">McConnell, Mitch</name>
+                    </congMember>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-03-14-pt1-PgS1783-6" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1783-6/mods.xml">
+ <titleInfo>
+  <title>REPEALING AND REPLACING OBAMACARE</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1783-6.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c13</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1783-6.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c31</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S1783</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1783-6</identifier>
+ <identifier type="former granule identifier">cr14mr17-15</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1783-6</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1783-6.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1783-6.htm</url>
+</location>
+ <physicalDescription>
+  <extent>2 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S1783</start>
+   <end>S1784</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>Mitch McConnell</namePart>
+  <affiliation>United States Senate</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. S1783</identifier>
+ <extension>
+  <searchTitle>REPEALING AND REPLACING OBAMACARE; Congressional Record Vol. 163, No. 44</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-03-14-pt1-PgS1783-6</accessId>
+  <subGranuleClass>ALLOTHER</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-03-14</granuleDate>
+  <congMember authorityId="1395" bioGuideId="M000355" chamber="S" congress="115" gpoId="8254" party="R" role="SPEAKING" state="KY">
+                           <name type="parsed">Mr. McCONNELL</name>
+                           <name type="authority-fnf">Mitch McConnell</name>
+                           <name type="authority-lnf">McConnell, Mitch</name>
+                    </congMember>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-03-14-pt1-PgS1784" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1784/mods.xml">
+ <titleInfo>
+  <title>RESERVATION OF LEADER TIME</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1784.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c1d</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1784.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c30</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S1784</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1784</identifier>
+ <identifier type="former granule identifier">cr14mr17-16</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1784</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1784.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1784.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S1784</start>
+   <end>S1784</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. S1784</identifier>
+ <extension>
+  <searchTitle>RESERVATION OF LEADER TIME; Congressional Record Vol. 163, No. 44</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-03-14-pt1-PgS1784</accessId>
+  <subGranuleClass>ALLOTHER</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-03-14</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-03-14-pt1-PgS1784-2" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1784-2/mods.xml">
+ <titleInfo>
+  <title>CONCLUSION OF MORNING BUSINESS</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1784-2.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c18</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1784-2.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c3d</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S1784</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1784-2</identifier>
+ <identifier type="former granule identifier">cr14mr17-17</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1784-2</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1784-2.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1784-2.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S1784</start>
+   <end>S1784</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. S1784</identifier>
+ <extension>
+  <searchTitle>CONCLUSION OF MORNING BUSINESS; Congressional Record Vol. 163, No. 44</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-03-14-pt1-PgS1784-2</accessId>
+  <subGranuleClass>SCONBUSINESS</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-03-14</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-03-14-pt1-PgS1784-3" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1784-3/mods.xml">
+ <titleInfo>
+  <title>DISAPPROVING A RULE SUBMITTED BY THE DEPARTMENT OF LABOR</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1784-3.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c0c</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1784-3.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c29</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S1784</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1784-3</identifier>
+ <identifier type="former granule identifier">cr14mr17-18</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1784-3</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1784-3.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1784-3.htm</url>
+</location>
+ <physicalDescription>
+  <extent>16 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S1784</start>
+   <end>S1799</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>Mitch McConnell</namePart>
+  <affiliation>United States Senate</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <name type="personal">
+  <namePart>Richard J. Durbin</namePart>
+  <affiliation>United States Senate</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <name type="personal">
+  <namePart>Chuck Grassley</namePart>
+  <affiliation>United States Senate</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <name type="personal">
+  <namePart>Mike Lee</namePart>
+  <affiliation>United States Senate</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <name type="personal">
+  <namePart>Ben Sasse</namePart>
+  <affiliation>United States Senate</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <name type="personal">
+  <namePart>Chris Van Hollen</namePart>
+  <affiliation>United States Senate</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <name type="personal">
+  <namePart>Debbie Stabenow</namePart>
+  <affiliation>United States Senate</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <name type="personal">
+  <namePart>Charles E. Schumer</namePart>
+  <affiliation>United States Senate</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <name type="personal">
+  <namePart>Brian Schatz</namePart>
+  <affiliation>United States Senate</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <name type="personal">
+  <namePart>John Cornyn</namePart>
+  <affiliation>United States Senate</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <name type="personal">
+  <namePart>Sheldon Whitehouse</namePart>
+  <affiliation>United States Senate</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <name type="personal">
+  <namePart>Orrin G. Hatch</namePart>
+  <affiliation>United States Senate</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <name type="personal">
+  <namePart>Ron Wyden</namePart>
+  <affiliation>United States Senate</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <name type="personal">
+  <namePart>Richard Burr</namePart>
+  <affiliation>United States Senate</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. S1784</identifier>
+ <identifier type="congressional vote number">SENATE Rollcall Vote No.87(115th Congress)</identifier>
+ <extension>
+  <searchTitle>DISAPPROVING A RULE SUBMITTED BY THE DEPARTMENT OF LABOR; Congressional Record Vol. 163, No. 44</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-03-14-pt1-PgS1784-3</accessId>
+  <subGranuleClass>ALLOTHER</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-03-14</granuleDate>
+  <congVote chamber="SENATE" congress="115" nocount="48" number="87" nvcount="1" yescount="51">
+                           <result>The joint resolution (H.J. Res. 42) was passed.</result>
+                           <dailyDigestCategory1>Measures Passed</dailyDigestCategory1>
+                           <dailyDigestCategory2>Department of Labor Rule</dailyDigestCategory2>
+                           <dailyDigestSummary>&lt;P/&gt;By 51 yeas to 48 nays (Vote No. 87), Senate passed H.J. Res. 42, disapproving the rule submitted by the Department of Labor relating to drug testing of unemployment compensation applicants.</dailyDigestSummary>
+                           <inDailyDigest>true</inDailyDigest>
+                           <congMember authorityId="1695" bioGuideId="A000360" chamber="S" congress="115" gpoId="8304" party="R" role="VOTED YES" state="TN">
+                                <name type="parsed">Alexander</name>
+                                <name type="authority-fnf">Lamar Alexander</name>
+                                <name type="authority-lnf">Alexander, Lamar</name>
+                        </congMember>
+                           <congMember authorityId="1881" bioGuideId="B001261" chamber="S" congress="115" gpoId="8300" party="R" role="VOTED YES" state="WY">
+                                <name type="parsed">Barrasso</name>
+                                <name type="authority-fnf">John Barrasso</name>
+                                <name type="authority-lnf">Barrasso, John</name>
+                        </congMember>
+                           <congMember authorityId="1464" bioGuideId="B000575" chamber="S" congress="115" gpoId="8313" party="R" role="VOTED YES" state="MO">
+                                <name type="parsed">Blunt</name>
+                                <name type="authority-fnf">Roy Blunt</name>
+                                <name type="authority-lnf">Blunt, Roy</name>
+                        </congMember>
+                           <congMember authorityId="1687" bioGuideId="B001236" chamber="S" congress="115" gpoId="8247" party="R" role="VOTED YES" state="AR">
+                                <name type="parsed">Boozman</name>
+                                <name type="authority-fnf">John Boozman</name>
+                                <name type="authority-lnf">Boozman, John</name>
+                        </congMember>
+                           <congMember authorityId="153" bioGuideId="B001135" chamber="S" congress="115" gpoId="8286" party="R" role="VOTED YES" state="NC">
+                                <name type="parsed">Burr</name>
+                                <name type="authority-fnf">Richard Burr</name>
+                                <name type="authority-lnf">Burr, Richard</name>
+                        </congMember>
+                           <congMember authorityId="1676" bioGuideId="C001047" chamber="S" congress="115" gpoId="8223" party="R" role="VOTED YES" state="WV">
+                                <name type="parsed">Capito</name>
+                                <name type="authority-fnf">Shelley Moore Capito</name>
+                                <name type="authority-lnf">Capito, Shelley Moore</name>
+                                <name type="authority-other">Shelley Capito</name>
+                        </congMember>
+                           <congMember authorityId="1925" bioGuideId="C001075" chamber="S" congress="115" gpoId="7964" party="R" role="VOTED YES" state="LA">
+                                <name type="parsed">Cassidy</name>
+                                <name type="authority-fnf">Bill Cassidy</name>
+                                <name type="authority-lnf">Cassidy, Bill</name>
+                        </congMember>
+                           <congMember authorityId="213" bioGuideId="C000567" chamber="S" congress="115" gpoId="8292" party="R" role="VOTED YES" state="MS">
+                                <name type="parsed">Cochran</name>
+                                <name type="authority-fnf">Thad Cochran</name>
+                                <name type="authority-lnf">Cochran, Thad</name>
+                        </congMember>
+                           <congMember authorityId="1541" bioGuideId="C001035" chamber="S" congress="115" gpoId="8291" party="R" role="VOTED YES" state="ME">
+                                <name type="parsed">Collins</name>
+                                <name type="authority-fnf">Susan M. Collins</name>
+                                <name type="authority-lnf">Collins, Susan M.</name>
+                                <name type="authority-other">Susan Margaret Collins</name>
+                        </congMember>
+                           <congMember authorityId="1825" bioGuideId="C001071" chamber="S" congress="115" gpoId="8294" party="R" role="VOTED YES" state="TN">
+                                <name type="parsed">Corker</name>
+                                <name type="authority-fnf">Bob Corker</name>
+                                <name type="authority-lnf">Corker, Bob</name>
+                        </congMember>
+                           <congMember authorityId="1692" bioGuideId="C001056" chamber="S" congress="115" gpoId="8295" party="R" role="VOTED YES" state="TX">
+                                <name type="parsed">Cornyn</name>
+                                <name type="authority-fnf">John Cornyn</name>
+                                <name type="authority-lnf">Cornyn, John</name>
+                        </congMember>
+                           <congMember authorityId="2098" bioGuideId="C001095" chamber="S" congress="115" party="R" role="VOTED YES" state="AR">
+                                <name type="parsed">Cotton</name>
+                                <name type="authority-fnf">Tom Cotton</name>
+                                <name type="authority-lnf">Cotton, Tom</name>
+                        </congMember>
+                           <congMember authorityId="250" bioGuideId="C000880" chamber="S" congress="115" gpoId="8289" party="R" role="VOTED YES" state="ID">
+                                <name type="parsed">Crapo</name>
+                                <name type="authority-fnf">Mike Crapo</name>
+                                <name type="authority-lnf">Crapo, Mike</name>
+                                <name type="authority-other">Michael Crapo</name>
+                        </congMember>
+                           <congMember authorityId="2175" bioGuideId="C001098" chamber="S" congress="115" party="R" role="VOTED YES" state="TX">
+                                <name type="parsed">Cruz</name>
+                                <name type="authority-fnf">Ted Cruz</name>
+                                <name type="authority-lnf">Cruz, Ted</name>
+                        </congMember>
+                           <congMember authorityId="2138" bioGuideId="D000618" chamber="S" congress="115" party="R" role="VOTED YES" state="MT">
+                                <name type="parsed">Daines</name>
+                                <name type="authority-fnf">Steve Daines</name>
+                                <name type="authority-lnf">Daines, Steve</name>
+                        </congMember>
+                           <congMember authorityId="1542" bioGuideId="E000285" chamber="S" congress="115" gpoId="8328" party="R" role="VOTED YES" state="WY">
+                                <name type="parsed">Enzi</name>
+                                <name type="authority-fnf">Michael B. Enzi</name>
+                                <name type="authority-lnf">Enzi, Michael B.</name>
+                                <name type="authority-other">Michael Enzi</name>
+                        </congMember>
+                           <congMember authorityId="2283" bioGuideId="E000295" chamber="S" congress="115" party="R" role="VOTED YES" state="IA">
+                                <name type="parsed">Ernst</name>
+                                <name type="authority-fnf">Joni Ernst</name>
+                                <name type="authority-lnf">Ernst, Joni</name>
+                        </congMember>
+                           <congMember authorityId="2179" bioGuideId="F000463" chamber="S" congress="115" party="R" role="VOTED YES" state="NE">
+                                <name type="parsed">Fischer</name>
+                                <name type="authority-fnf">Deb Fischer</name>
+                                <name type="authority-lnf">Fischer, Deb</name>
+                        </congMember>
+                           <congMember authorityId="1633" bioGuideId="F000444" chamber="S" congress="115" gpoId="7803" party="R" role="VOTED YES" state="AZ">
+                                <name type="parsed">Flake</name>
+                                <name type="authority-fnf">Jeff Flake</name>
+                                <name type="authority-lnf">Flake, Jeff</name>
+                        </congMember>
+                           <congMember authorityId="1998" bioGuideId="G000562" chamber="S" congress="115" gpoId="7862" party="R" role="VOTED YES" state="CO">
+                                <name type="parsed">Gardner</name>
+                                <name type="authority-fnf">Cory Gardner</name>
+                                <name type="authority-lnf">Gardner, Cory</name>
+                        </congMember>
+                           <congMember authorityId="452" bioGuideId="G000359" chamber="S" congress="115" gpoId="8335" party="R" role="VOTED YES" state="SC">
+                                <name type="parsed">Graham</name>
+                                <name type="authority-fnf">Lindsey Graham</name>
+                                <name type="authority-lnf">Graham, Lindsey</name>
+                                <name type="authority-other">Lindsey O. Graham</name>
+                        </congMember>
+                           <congMember authorityId="457" bioGuideId="G000386" chamber="S" congress="115" gpoId="8316" party="R" role="VOTED YES" state="IA">
+                                <name type="parsed">Grassley</name>
+                                <name type="authority-fnf">Chuck Grassley</name>
+                                <name type="authority-lnf">Grassley, Chuck</name>
+                                <name type="authority-other">Charles Ernest Grassley</name>
+                        </congMember>
+                           <congMember authorityId="1351" bioGuideId="H000338" chamber="S" congress="115" gpoId="8314" party="R" role="VOTED YES" state="UT">
+                                <name type="parsed">Hatch</name>
+                                <name type="authority-fnf">Orrin G. Hatch</name>
+                                <name type="authority-lnf">Hatch, Orrin G.</name>
+                                <name type="authority-other">Orrin Grant Hatch</name>
+                        </congMember>
+                           <congMember authorityId="1863" bioGuideId="H001041" chamber="S" congress="115" gpoId="8060" party="R" role="VOTED YES" state="NV">
+                                <name type="parsed">Heller</name>
+                                <name type="authority-fnf">Dean Heller</name>
+                                <name type="authority-lnf">Heller, Dean</name>
+                        </congMember>
+                           <congMember authorityId="2079" bioGuideId="H001061" chamber="S" congress="115" gpoId="8331" party="R" role="VOTED YES" state="ND">
+                                <name type="parsed">Hoeven</name>
+                                <name type="authority-fnf">John Hoeven</name>
+                                <name type="authority-lnf">Hoeven, John</name>
+                        </congMember>
+                           <congMember authorityId="583" bioGuideId="I000024" chamber="S" congress="115" gpoId="8322" party="R" role="VOTED YES" state="OK">
+                                <name type="parsed">Inhofe</name>
+                                <name type="authority-fnf">James M. Inhofe</name>
+                                <name type="authority-lnf">Inhofe, James M.</name>
+                                <name type="authority-other">Jim Inhofe</name>
+                        </congMember>
+                           <congMember authorityId="2086" bioGuideId="J000293" chamber="S" congress="115" gpoId="8355" party="R" role="VOTED YES" state="WI">
+                                <name type="parsed">Johnson</name>
+                                <name type="authority-fnf">Ron Johnson</name>
+                                <name type="authority-lnf">Johnson, Ron</name>
+                        </congMember>
+                           <congMember authorityId="2303" bioGuideId="K000393" chamber="S" congress="115" party="R" role="VOTED YES" state="LA">
+                                <name type="parsed">Kennedy</name>
+                                <name type="authority-fnf">John Kennedy</name>
+                                <name type="authority-lnf">Kennedy, John</name>
+                                <name type="authority-other">Mr. John Neely Kennedy</name>
+                        </congMember>
+                           <congMember authorityId="2050" bioGuideId="L000575" chamber="S" congress="115" gpoId="8113" party="R" role="VOTED YES" state="OK">
+                                <name type="parsed">Lankford</name>
+                                <name type="authority-fnf">James Lankford</name>
+                                <name type="authority-lnf">Lankford, James</name>
+                        </congMember>
+                           <congMember authorityId="2080" bioGuideId="L000577" chamber="S" congress="115" gpoId="8303" party="R" role="VOTED YES" state="UT">
+                                <name type="parsed">Lee</name>
+                                <name type="authority-fnf">Mike Lee</name>
+                                <name type="authority-lnf">Lee, Mike</name>
+                        </congMember>
+                           <congMember authorityId="754" bioGuideId="M000303" chamber="S" congress="115" gpoId="8253" party="R" role="VOTED YES" state="AZ">
+                                <name type="parsed">McCain</name>
+                                <name type="authority-fnf">John McCain</name>
+                                <name type="authority-lnf">McCain, John</name>
+                                <name type="authority-other">John Sidney Mccain</name>
+                        </congMember>
+                           <congMember authorityId="1395" bioGuideId="M000355" chamber="S" congress="115" gpoId="8254" party="R" role="VOTED YES" state="KY">
+                                <name type="parsed">McConnell</name>
+                                <name type="authority-fnf">Mitch McConnell</name>
+                                <name type="authority-lnf">McConnell, Mitch</name>
+                        </congMember>
+                           <congMember authorityId="1507" bioGuideId="M000934" chamber="S" congress="115" gpoId="8307" party="R" role="VOTED YES" state="KS">
+                                <name type="parsed">Moran</name>
+                                <name type="authority-fnf">Jerry Moran</name>
+                                <name type="authority-lnf">Moran, Jerry</name>
+                        </congMember>
+                           <congMember authorityId="1694" bioGuideId="M001153" chamber="S" congress="115" gpoId="8234" party="R" role="VOTED YES" state="AK">
+                                <name type="parsed">Murkowski</name>
+                                <name type="authority-fnf">Lisa Murkowski</name>
+                                <name type="authority-lnf">Murkowski, Lisa</name>
+                        </congMember>
+                           <congMember authorityId="2082" bioGuideId="P000603" chamber="S" congress="115" gpoId="8308" party="R" role="VOTED YES" state="KY">
+                                <name type="parsed">Paul</name>
+                                <name type="authority-fnf">Rand Paul</name>
+                                <name type="authority-lnf">Paul, Rand</name>
+                        </congMember>
+                           <congMember authorityId="2286" bioGuideId="P000612" chamber="S" congress="115" party="R" role="VOTED YES" state="GA">
+                                <name type="parsed">Perdue</name>
+                                <name type="authority-fnf">David Perdue</name>
+                                <name type="authority-lnf">Perdue, David</name>
+                                <name type="authority-other">Mr. David Alfred Perdue</name>
+                        </congMember>
+                           <congMember authorityId="924" bioGuideId="P000449" chamber="S" congress="115" gpoId="8266" party="R" role="VOTED YES" state="OH">
+                                <name type="parsed">Portman</name>
+                                <name type="authority-fnf">Rob Portman</name>
+                                <name type="authority-lnf">Portman, Rob</name>
+                        </congMember>
+                           <congMember authorityId="1896" bioGuideId="R000584" chamber="S" congress="115" gpoId="8274" party="R" role="VOTED YES" state="ID">
+                                <name type="parsed">Risch</name>
+                                <name type="authority-fnf">James E. Risch</name>
+                                <name type="authority-lnf">Risch, James E.</name>
+                                <name type="authority-other">Mr. James Risch</name>
+                        </congMember>
+                           <congMember authorityId="968" bioGuideId="R000307" chamber="S" congress="115" gpoId="8275" party="R" role="VOTED YES" state="KS">
+                                <name type="parsed">Roberts</name>
+                                <name type="authority-fnf">Pat Roberts</name>
+                                <name type="authority-lnf">Roberts, Pat</name>
+                        </congMember>
+                           <congMember authorityId="2288" bioGuideId="R000605" chamber="S" congress="115" party="R" role="VOTED YES" state="SD">
+                                <name type="parsed">Rounds</name>
+                                <name type="authority-fnf">Mike Rounds</name>
+                                <name type="authority-lnf">Rounds, Mike</name>
+                        </congMember>
+                           <congMember authorityId="2084" bioGuideId="R000595" chamber="S" congress="115" gpoId="8242" party="R" role="VOTED YES" state="FL">
+                                <name type="parsed">Rubio</name>
+                                <name type="authority-fnf">Marco Rubio</name>
+                                <name type="authority-lnf">Rubio, Marco</name>
+                        </congMember>
+                           <congMember authorityId="2289" bioGuideId="S001197" chamber="S" congress="115" party="R" role="VOTED YES" state="NE">
+                                <name type="parsed">Sasse</name>
+                                <name type="authority-fnf">Ben Sasse</name>
+                                <name type="authority-lnf">Sasse, Ben</name>
+                        </congMember>
+                           <congMember authorityId="2056" bioGuideId="S001184" chamber="S" congress="115" gpoId="8141" party="R" role="VOTED YES" state="SC">
+                                <name type="parsed">Scott</name>
+                                <name type="authority-fnf">Tim Scott</name>
+                                <name type="authority-lnf">Scott, Tim</name>
+                        </congMember>
+                           <congMember authorityId="1049" bioGuideId="S000320" chamber="S" congress="115" gpoId="8277" party="R" role="VOTED YES" state="AL">
+                                <name type="parsed">Shelby</name>
+                                <name type="authority-fnf">Richard C. Shelby</name>
+                                <name type="authority-lnf">Shelby, Richard C.</name>
+                                <name type="authority-other">Richard Craig Shelby</name>
+                        </congMember>
+                           <congMember authorityId="2357" bioGuideId="S001202" chamber="S" congress="115" party="R" role="VOTED YES" state="AL">
+                                <name type="parsed">Strange</name>
+                                <name type="authority-fnf">Luther Strange</name>
+                                <name type="authority-lnf">Strange, Luther</name>
+                        </congMember>
+                           <congMember authorityId="2290" bioGuideId="S001198" chamber="S" congress="115" party="R" role="VOTED YES" state="AK">
+                                <name type="parsed">Sullivan</name>
+                                <name type="authority-fnf">Dan Sullivan</name>
+                                <name type="authority-lnf">Sullivan, Dan</name>
+                        </congMember>
+                           <congMember authorityId="1534" bioGuideId="T000250" chamber="S" congress="115" gpoId="8257" party="R" role="VOTED YES" state="SD">
+                                <name type="parsed">Thune</name>
+                                <name type="authority-fnf">John Thune</name>
+                                <name type="authority-lnf">Thune, John</name>
+                                <name type="authority-other">John R. Thune</name>
+                        </congMember>
+                           <congMember authorityId="2291" bioGuideId="T000476" chamber="S" congress="115" party="R" role="VOTED YES" state="NC">
+                                <name type="parsed">Tillis</name>
+                                <name type="authority-fnf">Thom Tillis</name>
+                                <name type="authority-lnf">Tillis, Thom</name>
+                                <name type="authority-other">Mr. Thomas Roland Tillis</name>
+                        </congMember>
+                           <congMember authorityId="1594" bioGuideId="T000461" chamber="S" congress="115" party="R" role="VOTED YES" state="PA">
+                                <name type="parsed">Toomey</name>
+                                <name type="authority-fnf">Pat Toomey</name>
+                                <name type="authority-lnf">Toomey, Pat</name>
+                        </congMember>
+                           <congMember authorityId="1226" bioGuideId="W000437" chamber="S" congress="115" gpoId="8263" party="R" role="VOTED YES" state="MS">
+                                <name type="parsed">Wicker</name>
+                                <name type="authority-fnf">Roger F. Wicker</name>
+                                <name type="authority-lnf">Wicker, Roger F.</name>
+                                <name type="authority-other">Roger Wicker</name>
+                        </congMember>
+                           <congMember authorityId="2019" bioGuideId="Y000064" chamber="S" congress="115" gpoId="7948" party="R" role="VOTED YES" state="IN">
+                                <name type="parsed">Young</name>
+                                <name type="authority-fnf">Todd C. Young</name>
+                                <name type="authority-lnf">Young, Todd C.</name>
+                                <name type="authority-other">Mr. Todd Young</name>
+                        </congMember>
+                           <congMember authorityId="1558" bioGuideId="B001230" chamber="S" congress="115" gpoId="8215" party="D" role="VOTED NO" state="WI">
+                                <name type="parsed">Baldwin</name>
+                                <name type="authority-fnf">Tammy Baldwin</name>
+                                <name type="authority-lnf">Baldwin, Tammy</name>
+                        </congMember>
+                           <congMember authorityId="1965" bioGuideId="B001267" chamber="S" congress="115" gpoId="8302" party="D" role="VOTED NO" state="CO">
+                                <name type="parsed">Bennet</name>
+                                <name type="authority-fnf">Michael F. Bennet</name>
+                                <name type="authority-lnf">Bennet, Michael F.</name>
+                                <name type="authority-other">Mr. Michael Bennet</name>
+                        </congMember>
+                           <congMember authorityId="2076" bioGuideId="B001277" chamber="S" congress="115" gpoId="8332" party="D" role="VOTED NO" state="CT">
+                                <name type="parsed">Blumenthal</name>
+                                <name type="authority-fnf">Richard Blumenthal</name>
+                                <name type="authority-lnf">Blumenthal, Richard</name>
+                        </congMember>
+                           <congMember authorityId="2194" bioGuideId="B001288" chamber="S" congress="115" party="D" role="VOTED NO" state="NJ">
+                                <name type="parsed">Booker</name>
+                                <name type="authority-fnf">Cory A. Booker</name>
+                                <name type="authority-lnf">Booker, Cory A.</name>
+                                <name type="authority-other">Mr. Cory Booker</name>
+                        </congMember>
+                           <congMember authorityId="136" bioGuideId="B000944" chamber="S" congress="115" gpoId="8309" party="D" role="VOTED NO" state="OH">
+                                <name type="parsed">Brown</name>
+                                <name type="authority-fnf">Sherrod Brown</name>
+                                <name type="authority-lnf">Brown, Sherrod</name>
+                        </congMember>
+                           <congMember authorityId="172" bioGuideId="C000127" chamber="S" congress="115" gpoId="8288" party="D" role="VOTED NO" state="WA">
+                                <name type="parsed">Cantwell</name>
+                                <name type="authority-fnf">Maria Cantwell</name>
+                                <name type="authority-lnf">Cantwell, Maria</name>
+                        </congMember>
+                           <congMember authorityId="174" bioGuideId="C000141" chamber="S" congress="115" gpoId="8287" party="D" role="VOTED NO" state="MD">
+                                <name type="parsed">Cardin</name>
+                                <name type="authority-fnf">Benjamin L. Cardin</name>
+                                <name type="authority-lnf">Cardin, Benjamin L.</name>
+                                <name type="authority-other">Benjamin Cardin</name>
+                        </congMember>
+                           <congMember authorityId="179" bioGuideId="C000174" chamber="S" congress="115" gpoId="8283" party="D" role="VOTED NO" state="DE">
+                                <name type="parsed">Carper</name>
+                                <name type="authority-fnf">Thomas R. Carper</name>
+                                <name type="authority-lnf">Carper, Thomas R.</name>
+                                <name type="authority-other">Thomas Carper</name>
+                        </congMember>
+                           <congMember authorityId="1828" bioGuideId="C001070" chamber="S" congress="115" gpoId="8282" party="D" role="VOTED NO" state="PA">
+                                <name type="parsed">Casey</name>
+                                <name type="authority-fnf">Robert P. Casey Jr.</name>
+                                <name type="authority-lnf">Casey, Robert P., Jr.</name>
+                                <name type="authority-other">Mr. Bob Casey Jr.</name>
+                        </congMember>
+                           <congMember authorityId="1984" bioGuideId="C001088" chamber="S" congress="115" gpoId="8297" party="D" role="VOTED NO" state="DE">
+                                <name type="parsed">Coons</name>
+                                <name type="authority-fnf">Christopher A. Coons</name>
+                                <name type="authority-lnf">Coons, Christopher A.</name>
+                                <name type="authority-other">Mr. Christopher Coons</name>
+                        </congMember>
+                           <congMember authorityId="2299" bioGuideId="C001113" chamber="S" congress="115" party="D" role="VOTED NO" state="NV">
+                                <name type="parsed">Cortez Masto</name>
+                                <name type="authority-fnf">Catherine Cortez Masto</name>
+                                <name type="authority-lnf">Cortez Masto, Catherine</name>
+                        </congMember>
+                           <congMember authorityId="1850" bioGuideId="D000607" chamber="S" congress="115" gpoId="7941" party="D" role="VOTED NO" state="IN">
+                                <name type="parsed">Donnelly</name>
+                                <name type="authority-fnf">Joe Donnelly</name>
+                                <name type="authority-lnf">Donnelly, Joe</name>
+                        </congMember>
+                           <congMember authorityId="2123" bioGuideId="D000622" chamber="S" congress="115" party="D" role="VOTED NO" state="IL">
+                                <name type="parsed">Duckworth</name>
+                                <name type="authority-fnf">Tammy Duckworth</name>
+                                <name type="authority-lnf">Duckworth, Tammy</name>
+                        </congMember>
+                           <congMember authorityId="326" bioGuideId="D000563" chamber="S" congress="115" gpoId="8326" party="D" role="VOTED NO" state="IL">
+                                <name type="parsed">Durbin</name>
+                                <name type="authority-fnf">Richard J. Durbin</name>
+                                <name type="authority-lnf">Durbin, Richard J.</name>
+                                <name type="authority-other">Richard Durbin</name>
+                        </congMember>
+                           <congMember authorityId="1332" bioGuideId="F000062" chamber="S" congress="115" gpoId="8338" party="D" role="VOTED NO" state="CA">
+                                <name type="parsed">Feinstein</name>
+                                <name type="authority-fnf">Dianne Feinstein</name>
+                                <name type="authority-lnf">Feinstein, Dianne</name>
+                        </congMember>
+                           <congMember authorityId="1969" bioGuideId="F000457" chamber="S" congress="115" gpoId="8339" party="D" role="VOTED NO" state="MN">
+                                <name type="parsed">Franken</name>
+                                <name type="authority-fnf">Al Franken</name>
+                                <name type="authority-lnf">Franken, Al</name>
+                        </congMember>
+                           <congMember authorityId="1866" bioGuideId="G000555" chamber="S" congress="115" gpoId="8336" party="D" role="VOTED NO" state="NY">
+                                <name type="parsed">Gillibrand</name>
+                                <name type="authority-fnf">Kirsten E. Gillibrand</name>
+                                <name type="authority-lnf">Gillibrand, Kirsten E.</name>
+                                <name type="authority-other">Mrs. Kirsten Gillibrand</name>
+                        </congMember>
+                           <congMember authorityId="2301" bioGuideId="H001075" chamber="S" congress="115" party="D" role="VOTED NO" state="CA">
+                                <name type="parsed">Harris</name>
+                                <name type="authority-fnf">Kamala D. Harris</name>
+                                <name type="authority-lnf">Harris, Kamala D.</name>
+                                <name type="authority-other">Ms. Kamala Harris</name>
+                        </congMember>
+                           <congMember authorityId="2302" bioGuideId="H001076" chamber="S" congress="115" party="D" role="VOTED NO" state="NH">
+                                <name type="parsed">Hassan</name>
+                                <name type="authority-fnf">Margaret Wood Hassan</name>
+                                <name type="authority-lnf">Hassan, Margaret Wood</name>
+                                <name type="authority-other">Ms. Margaret Hassan</name>
+                        </congMember>
+                           <congMember authorityId="1937" bioGuideId="H001046" chamber="S" congress="115" gpoId="8056" party="D" role="VOTED NO" state="NM">
+                                <name type="parsed">Heinrich</name>
+                                <name type="authority-fnf">Martin Heinrich</name>
+                                <name type="authority-lnf">Heinrich, Martin</name>
+                        </congMember>
+                           <congMember authorityId="2174" bioGuideId="H001069" chamber="S" congress="115" party="D" role="VOTED NO" state="ND">
+                                <name type="parsed">Heitkamp</name>
+                                <name type="authority-fnf">Heidi Heitkamp</name>
+                                <name type="authority-lnf">Heitkamp, Heidi</name>
+                        </congMember>
+                           <congMember authorityId="1844" bioGuideId="H001042" chamber="S" congress="115" gpoId="7913" party="D" role="VOTED NO" state="HI">
+                                <name type="parsed">Hirono</name>
+                                <name type="authority-fnf">Mazie K. Hirono</name>
+                                <name type="authority-lnf">Hirono, Mazie K.</name>
+                                <name type="authority-other">Ms. Mazie Hirono</name>
+                        </congMember>
+                           <congMember authorityId="2176" bioGuideId="K000384" chamber="S" congress="115" party="D" role="VOTED NO" state="VA">
+                                <name type="parsed">Kaine</name>
+                                <name type="authority-fnf">Tim Kaine</name>
+                                <name type="authority-lnf">Kaine, Tim</name>
+                                <name type="authority-other">Mr. Timothy Kaine</name>
+                        </congMember>
+                           <congMember authorityId="2185" bioGuideId="K000383" chamber="S" congress="115" party="I" role="VOTED NO" state="ME">
+                                <name type="parsed">King</name>
+                                <name type="authority-fnf">Angus S. King Jr.</name>
+                                <name type="authority-lnf">King, Angus S., Jr.</name>
+                                <name type="authority-other">Mr. Angus King Jr.</name>
+                        </congMember>
+                           <congMember authorityId="1826" bioGuideId="K000367" chamber="S" congress="115" gpoId="8249" party="D" role="VOTED NO" state="MN">
+                                <name type="parsed">Klobuchar</name>
+                                <name type="authority-fnf">Amy Klobuchar</name>
+                                <name type="authority-lnf">Klobuchar, Amy</name>
+                        </congMember>
+                           <congMember authorityId="1383" bioGuideId="L000174" chamber="S" congress="115" gpoId="8244" party="D" role="VOTED NO" state="VT">
+                                <name type="parsed">Leahy</name>
+                                <name type="authority-fnf">Patrick J. Leahy</name>
+                                <name type="authority-lnf">Leahy, Patrick J.</name>
+                                <name type="authority-other">Patrick Joseph Leahy</name>
+                        </congMember>
+                           <congMember authorityId="1983" bioGuideId="M001183" chamber="S" congress="115" gpoId="8256" party="D" role="VOTED NO" state="WV">
+                                <name type="parsed">Manchin</name>
+                                <name type="authority-fnf">Joe Manchin III</name>
+                                <name type="authority-lnf">Manchin, Joe, III</name>
+                                <name type="authority-other">Mr. Joe Manchin III</name>
+                        </congMember>
+                           <congMember authorityId="735" bioGuideId="M000133" chamber="S" congress="115" gpoId="7972" party="D" role="VOTED NO" state="MA">
+                                <name type="parsed">Markey</name>
+                                <name type="authority-fnf">Edward J. Markey</name>
+                                <name type="authority-lnf">Markey, Edward J.</name>
+                                <name type="authority-other">Edward Markey</name>
+                        </congMember>
+                           <congMember authorityId="1820" bioGuideId="M001170" chamber="S" congress="115" gpoId="8252" party="D" role="VOTED NO" state="MO">
+                                <name type="parsed">McCaskill</name>
+                                <name type="authority-fnf">Claire McCaskill</name>
+                                <name type="authority-lnf">McCaskill, Claire</name>
+                        </congMember>
+                           <congMember authorityId="791" bioGuideId="M000639" chamber="S" congress="115" gpoId="8239" party="D" role="VOTED NO" state="NJ">
+                                <name type="parsed">Menendez</name>
+                                <name type="authority-fnf">Robert Menendez</name>
+                                <name type="authority-lnf">Menendez, Robert</name>
+                        </congMember>
+                           <congMember authorityId="1900" bioGuideId="M001176" chamber="S" congress="115" gpoId="8238" party="D" role="VOTED NO" state="OR">
+                                <name type="parsed">Merkley</name>
+                                <name type="authority-fnf">Jeff Merkley</name>
+                                <name type="authority-lnf">Merkley, Jeff</name>
+                        </congMember>
+                           <congMember authorityId="1837" bioGuideId="M001169" chamber="S" congress="115" gpoId="7870" party="D" role="VOTED NO" state="CT">
+                                <name type="parsed">Murphy</name>
+                                <name type="authority-fnf">Christopher Murphy</name>
+                                <name type="authority-lnf">Murphy, Christopher</name>
+                        </congMember>
+                           <congMember authorityId="1409" bioGuideId="M001111" chamber="S" congress="115" gpoId="8237" party="D" role="VOTED NO" state="WA">
+                                <name type="parsed">Murray</name>
+                                <name type="authority-fnf">Patty Murray</name>
+                                <name type="authority-lnf">Murray, Patty</name>
+                        </congMember>
+                           <congMember authorityId="859" bioGuideId="N000032" chamber="S" congress="115" gpoId="8236" party="D" role="VOTED NO" state="FL">
+                                <name type="parsed">Nelson</name>
+                                <name type="authority-fnf">Bill Nelson</name>
+                                <name type="authority-lnf">Nelson, Bill</name>
+                                <name type="authority-other">Clarence William Nelson</name>
+                        </congMember>
+                           <congMember authorityId="1929" bioGuideId="P000595" chamber="S" congress="115" gpoId="7994" party="D" role="VOTED NO" state="MI">
+                                <name type="parsed">Peters</name>
+                                <name type="authority-fnf">Gary C. Peters</name>
+                                <name type="authority-lnf">Peters, Gary C.</name>
+                                <name type="authority-other">Mr. Gary Peters</name>
+                        </congMember>
+                           <congMember authorityId="949" bioGuideId="R000122" chamber="S" congress="115" gpoId="8272" party="D" role="VOTED NO" state="RI">
+                                <name type="parsed">Reed</name>
+                                <name type="authority-fnf">Jack Reed</name>
+                                <name type="authority-lnf">Reed, Jack</name>
+                                <name type="authority-other">John Reed</name>
+                        </congMember>
+                           <congMember authorityId="1010" bioGuideId="S000033" chamber="S" congress="115" gpoId="8270" party="I" role="VOTED NO" state="VT">
+                                <name type="parsed">Sanders</name>
+                                <name type="authority-fnf">Bernard Sanders</name>
+                                <name type="authority-lnf">Sanders, Bernard</name>
+                        </congMember>
+                           <congMember authorityId="2173" bioGuideId="S001194" chamber="S" congress="115" party="D" role="VOTED NO" state="HI">
+                                <name type="parsed">Schatz</name>
+                                <name type="authority-fnf">Brian Schatz</name>
+                                <name type="authority-lnf">Schatz, Brian</name>
+                        </congMember>
+                           <congMember authorityId="1036" bioGuideId="S000148" chamber="S" congress="115" gpoId="8279" party="D" role="VOTED NO" state="NY">
+                                <name type="parsed">Schumer</name>
+                                <name type="authority-fnf">Charles E. Schumer</name>
+                                <name type="authority-lnf">Schumer, Charles E.</name>
+                                <name type="authority-other">Charles Schumer</name>
+                        </congMember>
+                           <congMember authorityId="1901" bioGuideId="S001181" chamber="S" congress="115" gpoId="8276" party="D" role="VOTED NO" state="NH">
+                                <name type="parsed">Shaheen</name>
+                                <name type="authority-fnf">Jeanne Shaheen</name>
+                                <name type="authority-lnf">Shaheen, Jeanne</name>
+                        </congMember>
+                           <congMember authorityId="1531" bioGuideId="S000770" chamber="S" congress="115" gpoId="8261" party="D" role="VOTED NO" state="MI">
+                                <name type="parsed">Stabenow</name>
+                                <name type="authority-fnf">Debbie Stabenow</name>
+                                <name type="authority-lnf">Stabenow, Debbie</name>
+                                <name type="authority-other">Deborah Ann Stabenow</name>
+                        </congMember>
+                           <congMember authorityId="1829" bioGuideId="T000464" chamber="S" congress="115" gpoId="8258" party="D" role="VOTED NO" state="MT">
+                                <name type="parsed">Tester</name>
+                                <name type="authority-fnf">Jon Tester</name>
+                                <name type="authority-lnf">Tester, Jon</name>
+                        </congMember>
+                           <congMember authorityId="1567" bioGuideId="U000039" chamber="S" congress="115" gpoId="8260" party="D" role="VOTED NO" state="NM">
+                                <name type="parsed">Udall</name>
+                                <name type="authority-fnf">Tom Udall</name>
+                                <name type="authority-lnf">Udall, Tom</name>
+                        </congMember>
+                           <congMember authorityId="1729" bioGuideId="V000128" chamber="S" congress="115" gpoId="7983" party="D" role="VOTED NO" state="MD">
+                                <name type="parsed">Van Hollen</name>
+                                <name type="authority-fnf">Chris Van Hollen</name>
+                                <name type="authority-lnf">Van Hollen, Chris</name>
+                        </congMember>
+                           <congMember authorityId="1897" bioGuideId="W000805" chamber="S" congress="115" gpoId="8269" party="D" role="VOTED NO" state="VA">
+                                <name type="parsed">Warner</name>
+                                <name type="authority-fnf">Mark R. Warner</name>
+                                <name type="authority-lnf">Warner, Mark R.</name>
+                                <name type="authority-other">Mr. Mark Warner</name>
+                        </congMember>
+                           <congMember authorityId="2182" bioGuideId="W000817" chamber="S" congress="115" party="D" role="VOTED NO" state="MA">
+                                <name type="parsed">Warren</name>
+                                <name type="authority-fnf">Elizabeth Warren</name>
+                                <name type="authority-lnf">Warren, Elizabeth</name>
+                                <name type="authority-other">Ms. Elizabeth A. Warren</name>
+                        </congMember>
+                           <congMember authorityId="1823" bioGuideId="W000802" chamber="S" congress="115" gpoId="8264" party="D" role="VOTED NO" state="RI">
+                                <name type="parsed">Whitehouse</name>
+                                <name type="authority-fnf">Sheldon Whitehouse</name>
+                                <name type="authority-lnf">Whitehouse, Sheldon</name>
+                        </congMember>
+                           <congMember authorityId="1247" bioGuideId="W000779" chamber="S" congress="115" gpoId="8265" party="D" role="VOTED NO" state="OR">
+                                <name type="parsed">Wyden</name>
+                                <name type="authority-fnf">Ron Wyden</name>
+                                <name type="authority-lnf">Wyden, Ron</name>
+                        </congMember>
+                           <congMember authorityId="1608" bioGuideId="I000055" chamber="S" congress="115" gpoId="8323" party="R" role="NOT VOTING - NV" state="GA">
+                                <name type="parsed">Isakson</name>
+                                <name type="authority-fnf">Johnny Isakson</name>
+                                <name type="authority-lnf">Isakson, Johnny</name>
+                        </congMember>
+                    </congVote>
+  <bill congress="115" context="FIRSTPARAGRAPH" number="42" type="HJRES"></bill>
+  <bill congress="115" context="OTHER" number="42" type="HJRES"></bill>
+  <congMember authorityId="1395" bioGuideId="M000355" chamber="S" congress="115" gpoId="8254" party="R" role="SPEAKING" state="KY">
+                           <name type="parsed">Mr. McCONNELL</name>
+                           <name type="authority-fnf">Mitch McConnell</name>
+                           <name type="authority-lnf">McConnell, Mitch</name>
+                    </congMember>
+  <congMember authorityId="326" bioGuideId="D000563" chamber="S" congress="115" gpoId="8326" party="D" role="SPEAKING" state="IL">
+                           <name type="parsed">Mr. DURBIN</name>
+                           <name type="authority-fnf">Richard J. Durbin</name>
+                           <name type="authority-lnf">Durbin, Richard J.</name>
+                           <name type="authority-other">Richard Durbin</name>
+                    </congMember>
+  <congMember authorityId="457" bioGuideId="G000386" chamber="S" congress="115" gpoId="8316" party="R" role="SPEAKING" state="IA">
+                           <name type="parsed">Mr. GRASSLEY</name>
+                           <name type="authority-fnf">Chuck Grassley</name>
+                           <name type="authority-lnf">Grassley, Chuck</name>
+                           <name type="authority-other">Charles Ernest Grassley</name>
+                    </congMember>
+  <congMember authorityId="2080" bioGuideId="L000577" chamber="S" congress="115" gpoId="8303" party="R" role="SPEAKING" state="UT">
+                           <name type="parsed">Mr. LEE</name>
+                           <name type="authority-fnf">Mike Lee</name>
+                           <name type="authority-lnf">Lee, Mike</name>
+                    </congMember>
+  <congMember authorityId="2289" bioGuideId="S001197" chamber="S" congress="115" party="R" role="SPEAKING" state="NE">
+                           <name type="parsed">Mr. SASSE</name>
+                           <name type="authority-fnf">Ben Sasse</name>
+                           <name type="authority-lnf">Sasse, Ben</name>
+                    </congMember>
+  <congMember authorityId="1729" bioGuideId="V000128" chamber="S" congress="115" gpoId="7983" party="D" role="SPEAKING" state="MD">
+                           <name type="parsed">Mr. VAN HOLLEN</name>
+                           <name type="authority-fnf">Chris Van Hollen</name>
+                           <name type="authority-lnf">Van Hollen, Chris</name>
+                    </congMember>
+  <congMember authorityId="1531" bioGuideId="S000770" chamber="S" congress="115" gpoId="8261" party="D" role="SPEAKING" state="MI">
+                           <name type="parsed">Ms. STABENOW</name>
+                           <name type="authority-fnf">Debbie Stabenow</name>
+                           <name type="authority-lnf">Stabenow, Debbie</name>
+                           <name type="authority-other">Deborah Ann Stabenow</name>
+                    </congMember>
+  <congMember authorityId="1036" bioGuideId="S000148" chamber="S" congress="115" gpoId="8279" party="D" role="SPEAKING" state="NY">
+                           <name type="parsed">Mr. SCHUMER</name>
+                           <name type="authority-fnf">Charles E. Schumer</name>
+                           <name type="authority-lnf">Schumer, Charles E.</name>
+                           <name type="authority-other">Charles Schumer</name>
+                    </congMember>
+  <congMember authorityId="2173" bioGuideId="S001194" chamber="S" congress="115" party="D" role="SPEAKING" state="HI">
+                           <name type="parsed">Mr. SCHATZ</name>
+                           <name type="authority-fnf">Brian Schatz</name>
+                           <name type="authority-lnf">Schatz, Brian</name>
+                    </congMember>
+  <congMember authorityId="1692" bioGuideId="C001056" chamber="S" congress="115" gpoId="8295" party="R" role="SPEAKING" state="TX">
+                           <name type="parsed">Mr. CORNYN</name>
+                           <name type="authority-fnf">John Cornyn</name>
+                           <name type="authority-lnf">Cornyn, John</name>
+                    </congMember>
+  <congMember authorityId="1823" bioGuideId="W000802" chamber="S" congress="115" gpoId="8264" party="D" role="SPEAKING" state="RI">
+                           <name type="parsed">Mr. WHITEHOUSE</name>
+                           <name type="authority-fnf">Sheldon Whitehouse</name>
+                           <name type="authority-lnf">Whitehouse, Sheldon</name>
+                    </congMember>
+  <congMember authorityId="1351" bioGuideId="H000338" chamber="S" congress="115" gpoId="8314" party="R" role="SPEAKING" state="UT">
+                           <name type="parsed">Mr. HATCH</name>
+                           <name type="authority-fnf">Orrin G. Hatch</name>
+                           <name type="authority-lnf">Hatch, Orrin G.</name>
+                           <name type="authority-other">Orrin Grant Hatch</name>
+                    </congMember>
+  <congMember authorityId="1247" bioGuideId="W000779" chamber="S" congress="115" gpoId="8265" party="D" role="SPEAKING" state="OR">
+                           <name type="parsed">Mr. WYDEN</name>
+                           <name type="authority-fnf">Ron Wyden</name>
+                           <name type="authority-lnf">Wyden, Ron</name>
+                    </congMember>
+  <congMember authorityId="153" bioGuideId="B001135" chamber="S" congress="115" gpoId="8286" party="R" role="SPEAKING" state="NC">
+                           <name type="parsed">Mr. BURR</name>
+                           <name type="authority-fnf">Richard Burr</name>
+                           <name type="authority-lnf">Burr, Richard</name>
+                    </congMember>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Joint Resolution 42 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.J. Res. 42</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Joint Resolution 42 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.J. Res. 42</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-03-14-pt1-PgS1799" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1799/mods.xml">
+ <titleInfo>
+  <title>MORNING BUSINESS</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1799.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c1e</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1799.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c3b</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S1799</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1799</identifier>
+ <identifier type="former granule identifier">cr14mr17-19</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1799</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1799.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1799.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S1799</start>
+   <end>S1799</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>Ted Cruz</namePart>
+  <affiliation>United States Senate</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <name type="personal">
+  <namePart>James M. Inhofe</namePart>
+  <affiliation>United States Senate</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. S1799</identifier>
+ <extension>
+  <searchTitle>MORNING BUSINESS; Congressional Record Vol. 163, No. 44</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-03-14-pt1-PgS1799</accessId>
+  <subGranuleClass>SMBUSINESS</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-03-14</granuleDate>
+  <congMember authorityId="2175" bioGuideId="C001098" chamber="S" congress="115" party="R" role="SPEAKING" state="TX">
+                           <name type="parsed">Mr. CRUZ</name>
+                           <name type="authority-fnf">Ted Cruz</name>
+                           <name type="authority-lnf">Cruz, Ted</name>
+                    </congMember>
+  <congMember authorityId="583" bioGuideId="I000024" chamber="S" congress="115" gpoId="8322" party="R" role="SPEAKING" state="OK">
+                           <name type="parsed">Mr. INHOFE</name>
+                           <name type="authority-fnf">James M. Inhofe</name>
+                           <name type="authority-lnf">Inhofe, James M.</name>
+                           <name type="authority-other">Jim Inhofe</name>
+                    </congMember>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-03-14-pt1-PgS1799-2" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1799-2/mods.xml">
+ <titleInfo>
+  <title>CONGRESSIONAL REVIEW ACT RESOLUTION</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1799-2.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c20</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1799-2.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c2b</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S1799</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1799-2</identifier>
+ <identifier type="former granule identifier">cr14mr17-20</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1799-2</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1799-2.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1799-2.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S1799</start>
+   <end>S1799</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>Ted Cruz</namePart>
+  <affiliation>United States Senate</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. S1799</identifier>
+ <extension>
+  <searchTitle>CONGRESSIONAL REVIEW ACT RESOLUTION; Congressional Record Vol. 163, No. 44</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-03-14-pt1-PgS1799-2</accessId>
+  <subGranuleClass>ALLOTHER</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-03-14</granuleDate>
+  <bill congress="115" context="FIRSTPARAGRAPH" number="23" type="SJRES"></bill>
+  <bill congress="115" context="OTHER" number="23" type="SJRES"></bill>
+  <congMember authorityId="2175" bioGuideId="C001098" chamber="S" congress="115" party="R" role="SPEAKING" state="TX">
+                           <name type="parsed">Mr. CRUZ</name>
+                           <name type="authority-fnf">Ted Cruz</name>
+                           <name type="authority-lnf">Cruz, Ted</name>
+                    </congMember>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Joint Resolution 23 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S.J. Res. 23</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Joint Resolution 23 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S.J. Res. 23</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-03-14-pt1-PgS1799-3" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1799-3/mods.xml">
+ <titleInfo>
+  <title>TRUMPCARE</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1799-3.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c0f</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1799-3.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c27</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S1799</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1799-3</identifier>
+ <identifier type="former granule identifier">cr14mr17-21</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1799-3</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1799-3.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1799-3.htm</url>
+</location>
+ <physicalDescription>
+  <extent>2 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S1799</start>
+   <end>S1800</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>Bill Nelson</namePart>
+  <affiliation>United States Senate</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <name type="personal">
+  <namePart>James M. Inhofe</namePart>
+  <affiliation>United States Senate</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. S1799</identifier>
+ <extension>
+  <searchTitle>TRUMPCARE; Congressional Record Vol. 163, No. 44</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-03-14-pt1-PgS1799-3</accessId>
+  <subGranuleClass>ALLOTHER</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-03-14</granuleDate>
+  <congMember authorityId="859" bioGuideId="N000032" chamber="S" congress="115" gpoId="8236" party="D" role="SPEAKING" state="FL">
+                           <name type="parsed">Mr. NELSON</name>
+                           <name type="authority-fnf">Bill Nelson</name>
+                           <name type="authority-lnf">Nelson, Bill</name>
+                           <name type="authority-other">Clarence William Nelson</name>
+                    </congMember>
+  <congMember authorityId="583" bioGuideId="I000024" chamber="S" congress="115" gpoId="8322" party="R" role="SPEAKING" state="OK">
+                           <name type="parsed">Mr. INHOFE</name>
+                           <name type="authority-fnf">James M. Inhofe</name>
+                           <name type="authority-lnf">Inhofe, James M.</name>
+                           <name type="authority-other">Jim Inhofe</name>
+                    </congMember>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-03-14-pt1-PgS1800" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1800/mods.xml">
+ <titleInfo>
+  <title>CLIMATE CHANGE</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1800.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2f0e</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1800.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c39</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S1800</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1800</identifier>
+ <identifier type="former granule identifier">cr14mr17-22</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1800</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1800.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1800.htm</url>
+</location>
+ <physicalDescription>
+  <extent>4 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S1800</start>
+   <end>S1803</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>James M. Inhofe</namePart>
+  <affiliation>United States Senate</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. S1800</identifier>
+ <extension>
+  <searchTitle>CLIMATE CHANGE; Congressional Record Vol. 163, No. 44</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-03-14-pt1-PgS1800</accessId>
+  <subGranuleClass>ALLOTHER</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-03-14</granuleDate>
+  <congMember authorityId="583" bioGuideId="I000024" chamber="S" congress="115" gpoId="8322" party="R" role="SPEAKING" state="OK">
+                           <name type="parsed">Mr. INHOFE</name>
+                           <name type="authority-fnf">James M. Inhofe</name>
+                           <name type="authority-lnf">Inhofe, James M.</name>
+                           <name type="authority-other">Jim Inhofe</name>
+                    </congMember>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-03-14-pt1-PgS1803" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1803/mods.xml">
+ <titleInfo>
+  <title>VOTE EXPLANATION</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1803.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2f0c</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1803.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c35</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S1803</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1803</identifier>
+ <identifier type="former granule identifier">cr14mr17-23</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1803</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1803.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1803.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S1803</start>
+   <end>S1803</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>Gary C. Peters</namePart>
+  <affiliation>United States Senate</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. S1803</identifier>
+ <extension>
+  <searchTitle>VOTE EXPLANATION; Congressional Record Vol. 163, No. 44</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-03-14-pt1-PgS1803</accessId>
+  <subGranuleClass>VOTEEXPLAIN</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-03-14</granuleDate>
+  <congMember authorityId="1929" bioGuideId="P000595" chamber="S" congress="115" gpoId="7994" party="D" role="SPEAKING" state="MI">
+                           <name type="parsed">Mr. PETERS</name>
+                           <name type="authority-fnf">Gary C. Peters</name>
+                           <name type="authority-lnf">Peters, Gary C.</name>
+                           <name type="authority-other">Mr. Gary Peters</name>
+                    </congMember>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-03-14-pt1-PgS1803-2" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1803-2/mods.xml">
+ <titleInfo>
+  <title>H.J. RES. 57</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1803-2.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c10</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1803-2.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c24</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S1803</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1803-2</identifier>
+ <identifier type="former granule identifier">cr14mr17-24</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1803-2</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1803-2.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1803-2.htm</url>
+</location>
+ <physicalDescription>
+  <extent>2 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S1803</start>
+   <end>S1804</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>Benjamin L. Cardin</namePart>
+  <affiliation>United States Senate</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. S1803</identifier>
+ <extension>
+  <searchTitle>H.J. RES. 57; Congressional Record Vol. 163, No. 44</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-03-14-pt1-PgS1803-2</accessId>
+  <subGranuleClass>ALLOTHER</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-03-14</granuleDate>
+  <bill congress="115" context="TITLE" number="57" type="HJRES"></bill>
+  <congMember authorityId="174" bioGuideId="C000141" chamber="S" congress="115" gpoId="8287" party="D" role="SPEAKING" state="MD">
+                           <name type="parsed">Mr. CARDIN</name>
+                           <name type="authority-fnf">Benjamin L. Cardin</name>
+                           <name type="authority-lnf">Cardin, Benjamin L.</name>
+                           <name type="authority-other">Benjamin Cardin</name>
+                    </congMember>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Joint Resolution 57 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.J. Res. 57</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>TITLE</context>
+</extension>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-03-14-pt1-PgS1804" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1804/mods.xml">
+ <titleInfo>
+  <title>ADDITIONAL STATEMENTS</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1804.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2f0a</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1804.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c46</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S1804</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1804</identifier>
+ <identifier type="former granule identifier">cr14mr17-25</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1804</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1804.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1804.htm</url>
+</location>
+ <physicalDescription>
+  <extent>2 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S1804</start>
+   <end>S1805</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>Roy Blunt</namePart>
+  <affiliation>United States Senate</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. S1804</identifier>
+ <extension>
+  <searchTitle>ADDITIONAL STATEMENTS; Congressional Record Vol. 163, No. 44</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-03-14-pt1-PgS1804</accessId>
+  <subGranuleClass>SADDITIONAL</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-03-14</granuleDate>
+  <hasInsertedComments>true</hasInsertedComments>
+  <congMember authorityId="1464" bioGuideId="B000575" chamber="S" congress="115" gpoId="8313" party="R" role="SPEAKING" state="MO">
+                           <name type="parsed">Mr. BLUNT</name>
+                           <name type="authority-fnf">Roy Blunt</name>
+                           <name type="authority-lnf">Blunt, Roy</name>
+                    </congMember>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-03-14-pt1-PgS1805" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1805/mods.xml">
+ <titleInfo>
+  <title>REMEMBERING PAUL IRON CLOUD</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1805.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2f0b</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1805.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c3a</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S1805</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1805</identifier>
+ <identifier type="former granule identifier">cr14mr17-26</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1805</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1805.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1805.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S1805</start>
+   <end>S1805</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>Mike Rounds</namePart>
+  <affiliation>United States Senate</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. S1805</identifier>
+ <extension>
+  <searchTitle>REMEMBERING PAUL IRON CLOUD; Congressional Record Vol. 163, No. 44</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-03-14-pt1-PgS1805</accessId>
+  <subGranuleClass>ALLOTHER</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-03-14</granuleDate>
+  <hasInsertedComments>true</hasInsertedComments>
+  <congMember authorityId="2288" bioGuideId="R000605" chamber="S" congress="115" party="R" role="SPEAKING" state="SD">
+                           <name type="parsed">Mr. ROUNDS</name>
+                           <name type="authority-fnf">Mike Rounds</name>
+                           <name type="authority-lnf">Rounds, Mike</name>
+                    </congMember>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-03-14-pt1-PgS1805-2" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1805-2/mods.xml">
+ <titleInfo>
+  <title>100TH ANNIVERSARY OF THE SOUTH DAKOTA FARM BUREAU</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1805-2.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c21</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1805-2.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c3f</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S1805</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1805-2</identifier>
+ <identifier type="former granule identifier">cr14mr17-27</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1805-2</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1805-2.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1805-2.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S1805</start>
+   <end>S1805</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>Mike Rounds</namePart>
+  <affiliation>United States Senate</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. S1805</identifier>
+ <extension>
+  <searchTitle>100TH ANNIVERSARY OF THE SOUTH DAKOTA FARM BUREAU; Congressional Record Vol. 163, No. 44</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-03-14-pt1-PgS1805-2</accessId>
+  <subGranuleClass>ALLOTHER</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-03-14</granuleDate>
+  <hasInsertedComments>true</hasInsertedComments>
+  <congMember authorityId="2288" bioGuideId="R000605" chamber="S" congress="115" party="R" role="SPEAKING" state="SD">
+                           <name type="parsed">Mr. ROUNDS</name>
+                           <name type="authority-fnf">Mike Rounds</name>
+                           <name type="authority-lnf">Rounds, Mike</name>
+                    </congMember>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-03-14-pt1-PgS1805-3" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1805-3/mods.xml">
+ <titleInfo>
+  <title>INTRODUCTION OF BILLS AND JOINT RESOLUTIONS</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1805-3.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c0b</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1805-3.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c26</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S1805</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1805-3</identifier>
+ <identifier type="former granule identifier">cr14mr17-28</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1805-3</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1805-3.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1805-3.htm</url>
+</location>
+ <physicalDescription>
+  <extent>2 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S1805</start>
+   <end>S1806</end>
+</extent>
+</part>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>Senate</namePart>
+  <namePart>Committee on Banking, Housing, and Urban Affairs</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>Senate</namePart>
+  <namePart>Committee on Energy and Natural Resources</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>Senate</namePart>
+  <namePart>Committee on the Judiciary</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>Senate</namePart>
+  <namePart>Committee on Health, Education, Labor, and Pensions</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>Senate</namePart>
+  <namePart>Committee on Homeland Security and Governmental Affairs</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>Senate</namePart>
+  <namePart>Committee on Foreign Relations</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>Senate</namePart>
+  <namePart>Committee on Veterans&apos; Affairs</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. S1805</identifier>
+ <extension>
+  <searchTitle>INTRODUCTION OF BILLS AND JOINT RESOLUTIONS; Congressional Record Vol. 163, No. 44</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-03-14-pt1-PgS1805-3</accessId>
+  <subGranuleClass>SINTROBILLS</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-03-14</granuleDate>
+  <bill congress="115" context="OTHER" number="616" type="S"></bill>
+  <bill congress="115" context="OTHER" number="617" type="S"></bill>
+  <bill congress="115" context="OTHER" number="618" type="S"></bill>
+  <bill congress="115" context="OTHER" number="619" type="S"></bill>
+  <bill congress="115" context="OTHER" number="620" type="S"></bill>
+  <bill congress="115" context="OTHER" number="621" type="S"></bill>
+  <bill congress="115" context="OTHER" number="622" type="S"></bill>
+  <bill congress="115" context="OTHER" number="623" type="S"></bill>
+  <bill congress="115" context="OTHER" number="624" type="S"></bill>
+  <bill congress="115" context="OTHER" number="625" type="S"></bill>
+  <bill congress="115" context="OTHER" number="626" type="S"></bill>
+  <bill congress="115" context="OTHER" number="627" type="S"></bill>
+  <bill congress="115" context="OTHER" number="628" type="S"></bill>
+  <bill congress="115" context="OTHER" number="629" type="S"></bill>
+  <congCommittee authorityId="ssbk00" chamber="S" congress="115" type="S">
+                           <name type="authority-standard">Committee on Banking, Housing, and Urban Affairs</name>
+                           <name type="authority-short">Banking, Housing, and Urban Affairs</name>
+                    </congCommittee>
+  <congCommittee authorityId="sseg00" chamber="S" congress="115" type="S">
+                           <name type="authority-standard">Committee on Energy and Natural Resources</name>
+                           <name type="authority-short">Energy and Natural Resources</name>
+                    </congCommittee>
+  <congCommittee authorityId="ssju00" chamber="S" congress="115" type="S">
+                           <name type="authority-standard">Committee on the Judiciary</name>
+                           <name type="authority-short">Judiciary</name>
+                    </congCommittee>
+  <congCommittee authorityId="sshr00" chamber="S" congress="115" type="S">
+                           <name type="authority-standard">Committee on Health, Education, Labor, and Pensions</name>
+                           <name type="authority-short">Health, Education, Labor, and Pensions</name>
+                    </congCommittee>
+  <congCommittee authorityId="ssga00" chamber="S" congress="115" type="S">
+                           <name type="authority-standard">Committee on Homeland Security and Governmental Affairs</name>
+                           <name type="authority-short">Homeland Security and Governmental Affairs</name>
+                    </congCommittee>
+  <congCommittee authorityId="ssfr00" chamber="S" congress="115" type="S">
+                           <name type="authority-standard">Committee on Foreign Relations</name>
+                           <name type="authority-short">Foreign Relations</name>
+                    </congCommittee>
+  <congCommittee authorityId="ssva00" chamber="S" congress="115" type="S">
+                           <name type="authority-standard">Committee on Veterans&apos; Affairs</name>
+                           <name type="authority-short">Veterans&apos; Affairs</name>
+                    </congCommittee>
+  <USCode title="18">
+                           <chapter number="44"></chapter>
+                    </USCode>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 616 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 616</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 617 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 617</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 618 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 618</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 619 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 619</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 620 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 620</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 621 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 621</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 622 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 622</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 623 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 623</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 624 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 624</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 625 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 625</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 626 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 626</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 627 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 627</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 628 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 628</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 629 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 629</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Code</title>
+   <partNumber>Title 18 Chapter 44</partNumber>
+</titleInfo>
+  <identifier type="USC citation">18 U.S.C. Chapter 44</identifier>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-03-14-pt1-PgS1806" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1806/mods.xml">
+ <titleInfo>
+  <title>ADDITIONAL COSPONSORS</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1806.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c11</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1806.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c45</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S1806</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1806</identifier>
+ <identifier type="former granule identifier">cr14mr17-29</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1806</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1806.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1806.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S1806</start>
+   <end>S1806</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. S1806</identifier>
+ <extension>
+  <searchTitle>ADDITIONAL COSPONSORS; Congressional Record Vol. 163, No. 44</searchTitle>
+  <associatedBills>S.J. Res. 6, 115th Congress
+        </associatedBills>
+  <associatedBills>S. Con. Res. 7, 115th Congress
+        </associatedBills>
+  <associatedBills>S.J. Res. 28, 115th Congress
+        </associatedBills>
+  <associatedBills>S. 34, 115th Congress
+        </associatedBills>
+  <associatedBills>S. 205, 115th Congress
+        </associatedBills>
+  <associatedBills>S. 206, 115th Congress
+        </associatedBills>
+  <associatedBills>S. 253, 115th Congress
+        </associatedBills>
+  <associatedBills>S. 300, 115th Congress
+        </associatedBills>
+  <associatedBills>S. 324, 115th Congress
+        </associatedBills>
+  <associatedBills>S. 393, 115th Congress
+        </associatedBills>
+  <associatedBills>S. 422, 115th Congress
+        </associatedBills>
+  <associatedBills>S. 428, 115th Congress
+        </associatedBills>
+  <associatedBills>S. 438, 115th Congress
+        </associatedBills>
+  <associatedBills>S. 479, 115th Congress
+        </associatedBills>
+  <associatedBills>S. 486, 115th Congress
+        </associatedBills>
+  <associatedBills>S. 517, 115th Congress
+        </associatedBills>
+  <associatedBills>S. 544, 115th Congress
+        </associatedBills>
+  <associatedBills>S. 568, 115th Congress
+        </associatedBills>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-03-14-pt1-PgS1806</accessId>
+  <subGranuleClass>SCOSPONSORS</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-03-14</granuleDate>
+  <bill congress="115" context="HEADERLINE" number="6" type="SJRES"></bill>
+  <bill congress="115" context="OTHER" number="6" type="SJRES"></bill>
+  <bill congress="115" context="HEADERLINE" number="7" type="SCONRES"></bill>
+  <bill congress="115" context="OTHER" number="7" type="SCONRES"></bill>
+  <bill congress="115" context="HEADERLINE" number="28" type="SJRES"></bill>
+  <bill congress="115" context="OTHER" number="28" type="SJRES"></bill>
+  <bill congress="115" context="HEADERLINE" number="34" type="S"></bill>
+  <bill congress="115" context="FIRSTPARAGRAPH" number="34" type="S"></bill>
+  <bill congress="115" context="OTHER" number="34" type="S"></bill>
+  <bill congress="115" context="HEADERLINE" number="205" type="S"></bill>
+  <bill congress="115" context="OTHER" number="205" type="S"></bill>
+  <bill congress="115" context="HEADERLINE" number="206" type="S"></bill>
+  <bill congress="115" context="OTHER" number="206" type="S"></bill>
+  <bill congress="115" context="HEADERLINE" number="253" type="S"></bill>
+  <bill congress="115" context="OTHER" number="253" type="S"></bill>
+  <bill congress="115" context="HEADERLINE" number="300" type="S"></bill>
+  <bill congress="115" context="OTHER" number="300" type="S"></bill>
+  <bill congress="115" context="HEADERLINE" number="324" type="S"></bill>
+  <bill congress="115" context="OTHER" number="324" type="S"></bill>
+  <bill congress="115" context="HEADERLINE" number="393" type="S"></bill>
+  <bill congress="115" context="OTHER" number="393" type="S"></bill>
+  <bill congress="115" context="HEADERLINE" number="422" type="S"></bill>
+  <bill congress="115" context="OTHER" number="422" type="S"></bill>
+  <bill congress="115" context="HEADERLINE" number="428" type="S"></bill>
+  <bill congress="115" context="OTHER" number="428" type="S"></bill>
+  <bill congress="115" context="HEADERLINE" number="438" type="S"></bill>
+  <bill congress="115" context="OTHER" number="438" type="S"></bill>
+  <bill congress="115" context="HEADERLINE" number="479" type="S"></bill>
+  <bill congress="115" context="OTHER" number="479" type="S"></bill>
+  <bill congress="115" context="HEADERLINE" number="486" type="S"></bill>
+  <bill congress="115" context="OTHER" number="486" type="S"></bill>
+  <bill congress="115" context="HEADERLINE" number="517" type="S"></bill>
+  <bill congress="115" context="OTHER" number="517" type="S"></bill>
+  <bill congress="115" context="HEADERLINE" number="544" type="S"></bill>
+  <bill congress="115" context="OTHER" number="544" type="S"></bill>
+  <bill congress="115" context="HEADERLINE" number="568" type="S"></bill>
+  <bill congress="115" context="OTHER" number="568" type="S"></bill>
+  <USCode title="5">
+                           <chapter number="8"></chapter>
+                    </USCode>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Joint Resolution 6 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S.J. Res. 6</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>HEADERLINE</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Joint Resolution 6 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S.J. Res. 6</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Concurrent Resolution 7 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. Con. Res. 7</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>HEADERLINE</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Concurrent Resolution 7 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. Con. Res. 7</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Joint Resolution 28 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S.J. Res. 28</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>HEADERLINE</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Joint Resolution 28 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S.J. Res. 28</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 34 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 34</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>HEADERLINE</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 34 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 34</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 34 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 34</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 205 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 205</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>HEADERLINE</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 205 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 205</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 206 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 206</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>HEADERLINE</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 206 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 206</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 253 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 253</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>HEADERLINE</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 253 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 253</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 300 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 300</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>HEADERLINE</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 300 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 300</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 324 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 324</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>HEADERLINE</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 324 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 324</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 393 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 393</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>HEADERLINE</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 393 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 393</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 422 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 422</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>HEADERLINE</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 422 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 422</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 428 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 428</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>HEADERLINE</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 428 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 428</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 438 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 438</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>HEADERLINE</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 438 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 438</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 479 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 479</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>HEADERLINE</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 479 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 479</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 486 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 486</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>HEADERLINE</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 486 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 486</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 517 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 517</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>HEADERLINE</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 517 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 517</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 544 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 544</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>HEADERLINE</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 544 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 544</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 568 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 568</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>HEADERLINE</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 568 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 568</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Code</title>
+   <partNumber>Title 5 Chapter 8</partNumber>
+</titleInfo>
+  <identifier type="USC citation">5 U.S.C. Chapter 8</identifier>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-03-14-pt1-PgS1806-2" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1806-2/mods.xml">
+ <titleInfo>
+  <title>STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1806-2.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c19</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1806-2.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c42</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S1806</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1806-2</identifier>
+ <identifier type="former granule identifier">cr14mr17-30</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1806-2</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1806-2.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1806-2.htm</url>
+</location>
+ <physicalDescription>
+  <extent>2 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S1806</start>
+   <end>S1807</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>Tim Kaine</namePart>
+  <affiliation>United States Senate</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>Senate</namePart>
+  <namePart>Committee on Health, Education, Labor, and Pensions</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. S1806</identifier>
+ <extension>
+  <searchTitle>STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS; Congressional Record Vol. 163, No. 44</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-03-14-pt1-PgS1806-2</accessId>
+  <subGranuleClass>SSTATEMENTS</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-03-14</granuleDate>
+  <bill congress="115" context="FIRSTPARAGRAPH" number="628" type="S"></bill>
+  <bill congress="115" context="OTHER" number="628" type="S"></bill>
+  <congCommittee authorityId="sshr00" chamber="S" congress="115" type="S">
+                           <name type="authority-standard">Committee on Health, Education, Labor, and Pensions</name>
+                           <name type="authority-short">Health, Education, Labor, and Pensions</name>
+                    </congCommittee>
+  <congMember authorityId="2176" bioGuideId="K000384" chamber="S" congress="115" party="D" role="SPEAKING" state="VA">
+                           <name type="parsed">Mr. KAINE</name>
+                           <name type="authority-fnf">Tim Kaine</name>
+                           <name type="authority-lnf">Kaine, Tim</name>
+                           <name type="authority-other">Mr. Timothy Kaine</name>
+                    </congMember>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 628 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 628</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Bill 628 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. 628</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-03-14-pt1-PgS1807" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1807/mods.xml">
+ <titleInfo>
+  <title>AUTHORITY FOR COMMITTEES TO MEET</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1807.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c1b</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1807.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c28</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S1807</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1807</identifier>
+ <identifier type="former granule identifier">cr14mr17-31</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1807</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1807.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1807.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S1807</start>
+   <end>S1807</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>John Cornyn</namePart>
+  <affiliation>United States Senate</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>Senate</namePart>
+  <namePart>Committee on Armed Services</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>Senate</namePart>
+  <namePart>Committee on Banking, Housing, and Urban Affairs</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>Senate</namePart>
+  <namePart>Committee on Energy and Natural Resources</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>Senate</namePart>
+  <namePart>Committee on Finance</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>Senate</namePart>
+  <namePart>Select Committee on Intelligence</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>Senate</namePart>
+  <namePart>Committee on Commerce, Science, and Transportation</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. S1807</identifier>
+ <extension>
+  <searchTitle>AUTHORITY FOR COMMITTEES TO MEET; Congressional Record Vol. 163, No. 44</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-03-14-pt1-PgS1807</accessId>
+  <subGranuleClass>SAUTHORITY</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-03-14</granuleDate>
+  <congCommittee authorityId="ssas00" chamber="S" congress="115" type="S">
+                           <name type="authority-standard">Committee on Armed Services</name>
+                           <name type="authority-short">Armed Services</name>
+                    </congCommittee>
+  <congCommittee authorityId="ssbk00" chamber="S" congress="115" type="S">
+                           <name type="authority-standard">Committee on Banking, Housing, and Urban Affairs</name>
+                           <name type="authority-short">Banking, Housing, and Urban Affairs</name>
+                    </congCommittee>
+  <congCommittee authorityId="sseg00" chamber="S" congress="115" type="S">
+                           <name type="authority-standard">Committee on Energy and Natural Resources</name>
+                           <name type="authority-short">Energy and Natural Resources</name>
+                    </congCommittee>
+  <congCommittee authorityId="ssfi00" chamber="S" congress="115" type="S">
+                           <name type="authority-standard">Committee on Finance</name>
+                           <name type="authority-short">Finance</name>
+                    </congCommittee>
+  <congCommittee authorityId="slin00" chamber="S" congress="115" type="L">
+                           <name type="authority-standard">Select Committee on Intelligence</name>
+                           <name type="authority-short">Intelligence (Select)</name>
+                    </congCommittee>
+  <congCommittee authorityId="sscm00" chamber="S" congress="115" type="S">
+                           <name type="authority-standard">Committee on Commerce, Science, and Transportation</name>
+                           <name type="authority-short">Commerce, Science, and Transportation</name>
+                    </congCommittee>
+  <congMember authorityId="1692" bioGuideId="C001056" chamber="S" congress="115" gpoId="8295" party="R" role="SPEAKING" state="TX">
+                           <name type="parsed">Mr. CORNYN</name>
+                           <name type="authority-fnf">John Cornyn</name>
+                           <name type="authority-lnf">Cornyn, John</name>
+                    </congMember>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-03-14-pt1-PgS1807-2" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1807-2/mods.xml">
+ <titleInfo>
+  <title>ORDERS FOR WEDNESDAY, MARCH 15, 2017</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1807-2.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2f0d</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1807-2.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c32</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S1807</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1807-2</identifier>
+ <identifier type="former granule identifier">cr14mr17-32</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1807-2</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1807-2.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1807-2.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S1807</start>
+   <end>S1807</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>James M. Inhofe</namePart>
+  <affiliation>United States Senate</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. S1807</identifier>
+ <extension>
+  <searchTitle>ORDERS FOR WEDNESDAY, MARCH 15, 2017; Congressional Record Vol. 163, No. 44</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-03-14-pt1-PgS1807-2</accessId>
+  <subGranuleClass>SORDERFOR</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-03-14</granuleDate>
+  <congMember authorityId="583" bioGuideId="I000024" chamber="S" congress="115" gpoId="8322" party="R" role="SPEAKING" state="OK">
+                           <name type="parsed">Mr. INHOFE</name>
+                           <name type="authority-fnf">James M. Inhofe</name>
+                           <name type="authority-lnf">Inhofe, James M.</name>
+                           <name type="authority-other">Jim Inhofe</name>
+                    </congMember>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-03-14-pt1-PgS1807-3" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1807-3/mods.xml">
+ <titleInfo>
+  <title>ADJOURNMENT UNTIL 9:30 A.M. TOMORROW</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1807-3.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c12</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1807-3.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05e2c43</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S1807</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1807-3</identifier>
+ <identifier type="former granule identifier">cr14mr17-33</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-03-14/CREC-2017-03-14-pt1-PgS1807-3</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/pdf/CREC-2017-03-14-pt1-PgS1807-3.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-03-14/html/CREC-2017-03-14-pt1-PgS1807-3.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S1807</start>
+   <end>S1807</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>James M. Inhofe</namePart>
+  <affiliation>United States Senate</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. S1807</identifier>
+ <extension>
+  <searchTitle>ADJOURNMENT UNTIL 9:30 A.M. TOMORROW; Congressional Record Vol. 163, No. 44</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-03-14-pt1-PgS1807-3</accessId>
+  <subGranuleClass>ADJOURNMENT</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-03-14</granuleDate>
+  <congMember authorityId="583" bioGuideId="I000024" chamber="S" congress="115" gpoId="8322" party="R" role="SPEAKING" state="OK">
+                           <name type="parsed">Mr. INHOFE</name>
+                           <name type="authority-fnf">James M. Inhofe</name>
+                           <name type="authority-lnf">Inhofe, James M.</name>
+                           <name type="authority-other">Jim Inhofe</name>
+                    </congMember>
+</extension>
+</relatedItem>
+</mods>

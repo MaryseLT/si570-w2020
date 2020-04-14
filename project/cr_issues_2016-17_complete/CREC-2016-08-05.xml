@@ -1,0 +1,566 @@
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" ID="P0b002ee19080d317">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+  <roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+  <roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <role>
+  <roleTerm authority="marcrelator" type="text">author</roleTerm>
+  <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>CREC</collectionCode>
+ <category>Proceedings of Congress and General Congressional Publications</category>
+ <waisDatabaseName>2016_record</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2016-08-06</dateIngested>
+</extension>
+<titleInfo>
+ <title>Congressional Record</title>
+ <partNumber>Vol. 162, no. 124</partNumber>
+</titleInfo>
+<location>
+ <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2016-08-05</url>
+ <url displayLabel="PDF rendition" access="raw object">https://www.govinfo.gov/content/pkg/CREC-2016-08-05/pdf/CREC-2016-08-05.pdf</url>
+</location>
+<part type="issue">
+ <extent unit="pages">
+  <start>S5209</start>
+  <end>S5209</end>
+</extent>
+ <extent unit="pages">
+  <start>D851</start>
+  <end>D852</end>
+</extent>
+</part>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2016-08-05</dateIssued>
+ <issuance>continuing</issuance>
+ <frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>6 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.govinfo.gov/app/details/CREC-2016-08-05</identifier>
+<identifier type="local">P0b002ee19080d317</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr05au16</identifier>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2016-08-06</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2019-04-15</recordChangeDate>
+ <recordIdentifier source="DGPO">CREC-2016-08-05</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+ <docClass>CREC</docClass>
+ <accessId>CREC-2016-08-05</accessId>
+ <volume>162</volume>
+ <issue>124</issue>
+ <congress>114</congress>
+ <session>2</session>
+ <bookCount>1</bookCount>
+</extension>
+<relatedItem type="constituent" ID="id-CREC-2016-08-05-pt1-PgD851" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2016-08-05/CREC-2016-08-05-pt1-PgD851/mods.xml">
+ <titleInfo>
+  <title>Daily Digest/Senate</title>
+  <partName>Daily Digest</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2016-08-05/html/CREC-2016-08-05-pt1-PgD851.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a06ac0f2</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2016-08-05/pdf/CREC-2016-08-05-pt1-PgD851.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a06ac0ff</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">162 Cong. Rec. D851</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2016-08-05/CREC-2016-08-05-pt1-PgD851</identifier>
+ <identifier type="former granule identifier">cr05au16-3</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2016-08-05/CREC-2016-08-05-pt1-PgD851</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2016-08-05/pdf/CREC-2016-08-05-pt1-PgD851.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2016-08-05/html/CREC-2016-08-05-pt1-PgD851.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>D851</start>
+   <end>D851</end>
+</extent>
+</part>
+ <identifier type="preferred citation">162 Cong. Rec. D851</identifier>
+ <extension>
+  <searchTitle>Daily Digest/Senate; Congressional Record Vol. 162, No. 124</searchTitle>
+  <granuleClass>DAILYDIGEST</granuleClass>
+  <accessId>CREC-2016-08-05-pt1-PgD851</accessId>
+  <subGranuleClass>DDSCHAMBER</subGranuleClass>
+  <pagePrefix>D</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2016-08-05</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2016-08-05-pt1-PgD851-2" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2016-08-05/CREC-2016-08-05-pt1-PgD851-2/mods.xml">
+ <titleInfo>
+  <title>Daily Digest/Senate Committee Meetings</title>
+  <partName>Daily Digest</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2016-08-05/html/CREC-2016-08-05-pt1-PgD851-2.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a06ac0f1</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2016-08-05/pdf/CREC-2016-08-05-pt1-PgD851-2.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a06ac504</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">162 Cong. Rec. D851</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2016-08-05/CREC-2016-08-05-pt1-PgD851-2</identifier>
+ <identifier type="former granule identifier">cr05au16-4</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2016-08-05/CREC-2016-08-05-pt1-PgD851-2</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2016-08-05/pdf/CREC-2016-08-05-pt1-PgD851-2.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2016-08-05/html/CREC-2016-08-05-pt1-PgD851-2.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>D851</start>
+   <end>D851</end>
+</extent>
+</part>
+ <identifier type="preferred citation">162 Cong. Rec. D851</identifier>
+ <extension>
+  <searchTitle>Daily Digest/Senate Committee Meetings; Congressional Record Vol. 162, No. 124</searchTitle>
+  <granuleClass>DAILYDIGEST</granuleClass>
+  <accessId>CREC-2016-08-05-pt1-PgD851-2</accessId>
+  <subGranuleClass>DDSCMEETINGS</subGranuleClass>
+  <pagePrefix>D</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2016-08-05</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2016-08-05-pt1-PgD851-3" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2016-08-05/CREC-2016-08-05-pt1-PgD851-3/mods.xml">
+ <titleInfo>
+  <title>Daily Digest/House of Representatives</title>
+  <partName>Daily Digest</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2016-08-05/html/CREC-2016-08-05-pt1-PgD851-3.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a06ac0f3</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2016-08-05/pdf/CREC-2016-08-05-pt1-PgD851-3.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a06ac502</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">162 Cong. Rec. D851</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2016-08-05/CREC-2016-08-05-pt1-PgD851-3</identifier>
+ <identifier type="former granule identifier">cr05au16-5</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2016-08-05/CREC-2016-08-05-pt1-PgD851-3</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2016-08-05/pdf/CREC-2016-08-05-pt1-PgD851-3.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2016-08-05/html/CREC-2016-08-05-pt1-PgD851-3.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>D851</start>
+   <end>D851</end>
+</extent>
+</part>
+ <identifier type="preferred citation">162 Cong. Rec. D851</identifier>
+ <extension>
+  <searchTitle>Daily Digest/House of Representatives; Congressional Record Vol. 162, No. 124</searchTitle>
+  <granuleClass>DAILYDIGEST</granuleClass>
+  <accessId>CREC-2016-08-05-pt1-PgD851-3</accessId>
+  <subGranuleClass>DDHCHAMBER</subGranuleClass>
+  <pagePrefix>D</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2016-08-05</granuleDate>
+  <bill congress="114" context="OTHER" number="50" type="SCONRES"></bill>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Concurrent Resolution 50 (114th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. Con. Res. 50</identifier>
+  <extension>
+   <congress>114</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2016-08-05-pt1-PgD851-4" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2016-08-05/CREC-2016-08-05-pt1-PgD851-4/mods.xml">
+ <titleInfo>
+  <title>Daily Digest/House Committee Meetings</title>
+  <partName>Daily Digest</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2016-08-05/html/CREC-2016-08-05-pt1-PgD851-4.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a06ac0c5</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2016-08-05/pdf/CREC-2016-08-05-pt1-PgD851-4.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a06ac500</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">162 Cong. Rec. D851</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2016-08-05/CREC-2016-08-05-pt1-PgD851-4</identifier>
+ <identifier type="former granule identifier">cr05au16-6</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2016-08-05/CREC-2016-08-05-pt1-PgD851-4</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2016-08-05/pdf/CREC-2016-08-05-pt1-PgD851-4.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2016-08-05/html/CREC-2016-08-05-pt1-PgD851-4.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>D851</start>
+   <end>D851</end>
+</extent>
+</part>
+ <identifier type="preferred citation">162 Cong. Rec. D851</identifier>
+ <extension>
+  <searchTitle>Daily Digest/House Committee Meetings; Congressional Record Vol. 162, No. 124</searchTitle>
+  <granuleClass>DAILYDIGEST</granuleClass>
+  <accessId>CREC-2016-08-05-pt1-PgD851-4</accessId>
+  <subGranuleClass>DDHCMEETINGS</subGranuleClass>
+  <pagePrefix>D</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2016-08-05</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2016-08-05-pt1-PgD851-5" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2016-08-05/CREC-2016-08-05-pt1-PgD851-5/mods.xml">
+ <titleInfo>
+  <title>Daily Digest/COMMITTEE MEETINGS FOR 2016-08-09</title>
+  <partName>Daily Digest</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2016-08-05/html/CREC-2016-08-05-pt1-PgD851-5.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a06ac0c1</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2016-08-05/pdf/CREC-2016-08-05-pt1-PgD851-5.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a06ac0f8</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">162 Cong. Rec. D851</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2016-08-05/CREC-2016-08-05-pt1-PgD851-5</identifier>
+ <identifier type="former granule identifier">cr05au16-7</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2016-08-05/CREC-2016-08-05-pt1-PgD851-5</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2016-08-05/pdf/CREC-2016-08-05-pt1-PgD851-5.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2016-08-05/html/CREC-2016-08-05-pt1-PgD851-5.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>D851</start>
+   <end>D851</end>
+</extent>
+</part>
+ <identifier type="preferred citation">162 Cong. Rec. D851</identifier>
+ <extension>
+  <searchTitle>Daily Digest/COMMITTEE MEETINGS FOR 2016-08-09; Congressional Record Vol. 162, No. 124</searchTitle>
+  <granuleClass>DAILYDIGEST</granuleClass>
+  <accessId>CREC-2016-08-05-pt1-PgD851-5</accessId>
+  <subGranuleClass>DDCOMMITTEEMEETINGS</subGranuleClass>
+  <pagePrefix>D</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <granuleDate>2016-08-05</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2016-08-05-pt1-PgD851-6" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2016-08-05/CREC-2016-08-05-pt1-PgD851-6/mods.xml">
+ <titleInfo>
+  <title>Daily Digest/Next Meeting of the SENATE + Next Meeting of the HOUSE OF REPRESENTATIVES + Other End Matter</title>
+  <partName>Daily Digest</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2016-08-05/html/CREC-2016-08-05-pt1-PgD851-6.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a06ac0c4</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2016-08-05/pdf/CREC-2016-08-05-pt1-PgD851-6.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a06ac0fd</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">162 Cong. Rec. D851</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2016-08-05/CREC-2016-08-05-pt1-PgD851-6</identifier>
+ <identifier type="former granule identifier">cr05au16-8</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2016-08-05/CREC-2016-08-05-pt1-PgD851-6</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2016-08-05/pdf/CREC-2016-08-05-pt1-PgD851-6.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2016-08-05/html/CREC-2016-08-05-pt1-PgD851-6.htm</url>
+</location>
+ <physicalDescription>
+  <extent>2 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>D851</start>
+   <end>D852</end>
+</extent>
+</part>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart></namePart>
+  <namePart>Joint Committee on Printing</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <identifier type="preferred citation">162 Cong. Rec. D851</identifier>
+ <extension>
+  <searchTitle>Daily Digest/Next Meeting of the SENATE + Next Meeting of the HOUSE OF REPRESENTATIVES + Other End Matter; Congressional Record Vol. 162, No. 124</searchTitle>
+  <granuleClass>DAILYDIGEST</granuleClass>
+  <accessId>CREC-2016-08-05-pt1-PgD851-6</accessId>
+  <subGranuleClass>DDENDMATTER</subGranuleClass>
+  <pagePrefix>D</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2016-08-05</granuleDate>
+  <bill congress="114" context="OTHER" number="50" type="SCONRES"></bill>
+  <congCommittee authorityId="jspr00" chamber="J" congress="114" type="J">
+                           <name type="authority-standard">Joint Committee on Printing</name>
+                           <name type="authority-short">Joint Printing</name>
+                    </congCommittee>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Concurrent Resolution 50 (114th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. Con. Res. 50</identifier>
+  <extension>
+   <congress>114</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2016-08-05-pt1-PgS-FrontMatter" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2016-08-05/CREC-2016-08-05-pt1-PgS-FrontMatter/mods.xml">
+ <titleInfo>
+  <title>House of Representatives</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2016-08-05/html/CREC-2016-08-05-pt1-PgS-FrontMatter.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a06ac0f0</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2016-08-05/pdf/CREC-2016-08-05-pt1-PgS-FrontMatter.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a06ac0fe</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">162 Cong. Rec. S5209</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2016-08-05/CREC-2016-08-05-pt1-PgS-FrontMatter</identifier>
+ <identifier type="former granule identifier">cr05au16-10</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2016-08-05/CREC-2016-08-05-pt1-PgS-FrontMatter</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2016-08-05/pdf/CREC-2016-08-05-pt1-PgS-FrontMatter.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2016-08-05/html/CREC-2016-08-05-pt1-PgS-FrontMatter.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S5209</start>
+   <end>S5209</end>
+</extent>
+</part>
+ <identifier type="preferred citation">162 Cong. Rec. S5209</identifier>
+ <extension>
+  <searchTitle>House of Representatives; Congressional Record Vol. 162, No. 124</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2016-08-05-pt1-PgS-FrontMatter</accessId>
+  <subGranuleClass>FRONTMATTER</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2016-08-05</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2016-08-05-pt1-PgS5209-2" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2016-08-05/CREC-2016-08-05-pt1-PgS5209-2/mods.xml">
+ <titleInfo>
+  <title>House of Representatives</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2016-08-05/html/CREC-2016-08-05-pt1-PgS5209-2.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a06ac0c3</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2016-08-05/pdf/CREC-2016-08-05-pt1-PgS5209-2.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a06ac503</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">162 Cong. Rec. S5209</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2016-08-05/CREC-2016-08-05-pt1-PgS5209-2</identifier>
+ <identifier type="former granule identifier">cr05au16-12</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2016-08-05/CREC-2016-08-05-pt1-PgS5209-2</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2016-08-05/pdf/CREC-2016-08-05-pt1-PgS5209-2.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2016-08-05/html/CREC-2016-08-05-pt1-PgS5209-2.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S5209</start>
+   <end>S5209</end>
+</extent>
+</part>
+ <identifier type="preferred citation">162 Cong. Rec. S5209</identifier>
+ <extension>
+  <searchTitle>House of Representatives; Congressional Record Vol. 162, No. 124</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2016-08-05-pt1-PgS5209-2</accessId>
+  <subGranuleClass>ALLOTHER</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2016-08-05</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2016-08-05-pt1-PgS5209-3" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2016-08-05/CREC-2016-08-05-pt1-PgS5209-3/mods.xml">
+ <titleInfo>
+  <title>Senate</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2016-08-05/html/CREC-2016-08-05-pt1-PgS5209-3.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a06ac0ef</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2016-08-05/pdf/CREC-2016-08-05-pt1-PgS5209-3.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a06ac501</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">162 Cong. Rec. S5209</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2016-08-05/CREC-2016-08-05-pt1-PgS5209-3</identifier>
+ <identifier type="former granule identifier">cr05au16-13</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2016-08-05/CREC-2016-08-05-pt1-PgS5209-3</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2016-08-05/pdf/CREC-2016-08-05-pt1-PgS5209-3.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2016-08-05/html/CREC-2016-08-05-pt1-PgS5209-3.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S5209</start>
+   <end>S5209</end>
+</extent>
+</part>
+ <identifier type="preferred citation">162 Cong. Rec. S5209</identifier>
+ <extension>
+  <searchTitle>Senate; Congressional Record Vol. 162, No. 124</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2016-08-05-pt1-PgS5209-3</accessId>
+  <subGranuleClass>CALLTOORDER</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2016-08-05</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2016-08-05-pt1-PgS5209-4" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2016-08-05/CREC-2016-08-05-pt1-PgS5209-4/mods.xml">
+ <titleInfo>
+  <title>APPOINTMENT OF ACTING PRESIDENT PRO TEMPORE</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2016-08-05/html/CREC-2016-08-05-pt1-PgS5209-4.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a06ac0c2</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2016-08-05/pdf/CREC-2016-08-05-pt1-PgS5209-4.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a06ac506</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">162 Cong. Rec. S5209</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2016-08-05/CREC-2016-08-05-pt1-PgS5209-4</identifier>
+ <identifier type="former granule identifier">cr05au16-14</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2016-08-05/CREC-2016-08-05-pt1-PgS5209-4</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2016-08-05/pdf/CREC-2016-08-05-pt1-PgS5209-4.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2016-08-05/html/CREC-2016-08-05-pt1-PgS5209-4.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S5209</start>
+   <end>S5209</end>
+</extent>
+</part>
+ <identifier type="preferred citation">162 Cong. Rec. S5209</identifier>
+ <extension>
+  <searchTitle>APPOINTMENT OF ACTING PRESIDENT PRO TEMPORE; Congressional Record Vol. 162, No. 124</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2016-08-05-pt1-PgS5209-4</accessId>
+  <subGranuleClass>ALLOTHER</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2016-08-05</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2016-08-05-pt1-PgS5209-5" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2016-08-05/CREC-2016-08-05-pt1-PgS5209-5/mods.xml">
+ <titleInfo>
+  <title>ADJOURNMENT UNTIL TUESDAY, AUGUST 9, 2016, AT 12:55 P.M.</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2016-08-05/html/CREC-2016-08-05-pt1-PgS5209-5.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a06ac0f4</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2016-08-05/pdf/CREC-2016-08-05-pt1-PgS5209-5.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a06ac505</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">162 Cong. Rec. S5209</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2016-08-05/CREC-2016-08-05-pt1-PgS5209-5</identifier>
+ <identifier type="former granule identifier">cr05au16-15</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2016-08-05/CREC-2016-08-05-pt1-PgS5209-5</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2016-08-05/pdf/CREC-2016-08-05-pt1-PgS5209-5.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2016-08-05/html/CREC-2016-08-05-pt1-PgS5209-5.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S5209</start>
+   <end>S5209</end>
+</extent>
+</part>
+ <identifier type="preferred citation">162 Cong. Rec. S5209</identifier>
+ <extension>
+  <searchTitle>ADJOURNMENT UNTIL TUESDAY, AUGUST 9, 2016, AT 12:55 P.M.; Congressional Record Vol. 162, No. 124</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2016-08-05-pt1-PgS5209-5</accessId>
+  <subGranuleClass>ADJOURNMENT</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2016-08-05</granuleDate>
+</extension>
+</relatedItem>
+</mods>

@@ -1,0 +1,37 @@
+{
+  "title": "Congressional Record Volume 162, Issue 137, (September 12, 2016)",
+  "collectionCode": "CREC",
+  "collectionName": "Congressional Record",
+  "category": "Proceedings of Congress and General Congressional Publications",
+  "dateIssued": "2016-09-12",
+  "detailsLink": "https://www.govinfo.gov/app/details/CREC-2016-09-12",
+  "granulesLink": "https://api.govinfo.gov/packages/CREC-2016-09-12/granules?offset=0&pageSize=100",
+  "packageId": "CREC-2016-09-12",
+  "download": {
+    "pdfLink": "https://api.govinfo.gov/packages/CREC-2016-09-12/pdf",
+    "pdfHouseLink": "https://api.govinfo.gov/packages/CREC-2016-09-12/pdf/house",
+    "pdfExtensionsLink": "https://api.govinfo.gov/packages/CREC-2016-09-12/pdf/extensions",
+    "pdfSenateLink": "https://api.govinfo.gov/packages/CREC-2016-09-12/pdf/senate",
+    "pdfDailyDigestLink": "https://api.govinfo.gov/packages/CREC-2016-09-12/pdf/dailydigest",
+    "modsLink": "https://api.govinfo.gov/packages/CREC-2016-09-12/mods",
+    "premisLink": "https://api.govinfo.gov/packages/CREC-2016-09-12/premis",
+    "zipLink": "https://api.govinfo.gov/packages/CREC-2016-09-12/zip"
+  },
+  "branch": "legislative",
+  "pages": "404",
+  "governmentAuthor1": "Congress",
+  "suDocClassNumber": "X 1.1/A:X/A.",
+  "documentType": "CREC",
+  "congress": "114",
+  "session": "2",
+  "volume": "162",
+  "issue": "137",
+  "bookCount": "1",
+  "publisher": "U.S. Government Publishing Office",
+  "otherIdentifier": {
+    "migrated-doc-id": "CR12SE16",
+    "ils-system-id": "000568013",
+    "stock-number": "752-002-00000-2"
+  },
+  "lastModified": "2019-07-09T11:50:38Z"
+}

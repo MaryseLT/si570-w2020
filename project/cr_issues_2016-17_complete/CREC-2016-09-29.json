@@ -1,0 +1,36 @@
+{
+  "title": "Congressional Record Volume 162, Issue 148, (September 29, 2016)",
+  "collectionCode": "CREC",
+  "collectionName": "Congressional Record",
+  "category": "Proceedings of Congress and General Congressional Publications",
+  "dateIssued": "2016-09-29",
+  "detailsLink": "https://www.govinfo.gov/app/details/CREC-2016-09-29",
+  "granulesLink": "https://api.govinfo.gov/packages/CREC-2016-09-29/granules?offset=0&pageSize=100",
+  "packageId": "CREC-2016-09-29",
+  "download": {
+    "pdfLink": "https://api.govinfo.gov/packages/CREC-2016-09-29/pdf",
+    "pdfExtensionsLink": "https://api.govinfo.gov/packages/CREC-2016-09-29/pdf/extensions",
+    "pdfSenateLink": "https://api.govinfo.gov/packages/CREC-2016-09-29/pdf/senate",
+    "pdfDailyDigestLink": "https://api.govinfo.gov/packages/CREC-2016-09-29/pdf/dailydigest",
+    "modsLink": "https://api.govinfo.gov/packages/CREC-2016-09-29/mods",
+    "premisLink": "https://api.govinfo.gov/packages/CREC-2016-09-29/premis",
+    "zipLink": "https://api.govinfo.gov/packages/CREC-2016-09-29/zip"
+  },
+  "branch": "legislative",
+  "pages": "136",
+  "governmentAuthor1": "Congress",
+  "suDocClassNumber": "X 1.1/A:X/A.",
+  "documentType": "CREC",
+  "congress": "114",
+  "session": "2",
+  "volume": "162",
+  "issue": "148",
+  "bookCount": "1",
+  "publisher": "U.S. Government Publishing Office",
+  "otherIdentifier": {
+    "migrated-doc-id": "cr29se16",
+    "ils-system-id": "000568013",
+    "stock-number": "752-002-00000-2"
+  },
+  "lastModified": "2019-07-09T16:59:33Z"
+}

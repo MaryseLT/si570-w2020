@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar 
+    xmlns="http://relaxng.org/ns/structure/1.0"
+    xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+    datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+    <start>
+        <element name="schedule" ns="http://generic.org/ns#">
+            <element name="departments">
+                <oneOrMore>
+                    <element name="department">
+                        <attribute name="id">
+                            <text/>
+                        </attribute>
+                        <zeroOrMore>
+                            <element name="class" ns="http://classes.org/ns#">
+                                <attribute name="id">
+                                    <text/>
+                                </attribute>
+                                <element name="title">
+                                    <text/>
+                                </element>
+                                <element name="teacherRef">
+                                    <attribute name="ref"/>
+                                </element>
+                                <element name="rosters">
+                                    <oneOrMore>
+                                        <element name="roster">
+                                            <attribute name="semester"/>
+                                            <element name="students">
+                                                <oneOrMore>
+                                                    <element name="studentRef">
+                                                        <attribute name="ref">
+                                                            <text/>
+                                                        </attribute>
+                                                        <attribute name="grade">
+                                                            <text/>
+                                                        </attribute>
+                                                    </element>
+                                                </oneOrMore>
+                                            </element>
+                                        </element>
+                                    </oneOrMore>
+                                </element>
+                            </element>
+                        </zeroOrMore>
+                    </element>
+                </oneOrMore>
+            </element>
+            <element name="teacherGroup">
+                <oneOrMore>
+                    <element name="teacher">
+                        <attribute name="id"/>
+                        <element name="name">
+                            <text/>
+                        </element>
+                        <element name="position">
+                            <text/>
+                        </element>
+                        <element name="field">
+                            <attribute name="ref"/>
+                        </element>
+                        <element name="rating">
+                            <text/>
+                        </element>
+                        <element name="classes">
+                            <oneOrMore>
+                                <element name="classRef">
+                                    <attribute name="ref"/>
+                                </element>
+                            </oneOrMore>
+                        </element>
+                    </element>
+                </oneOrMore>
+            </element>
+            <element name="studentGroup">
+                <oneOrMore>
+                    <element name="student">
+                        <attribute name="id"/>
+                        <element name="name">
+                            <text/>
+                        </element>
+                        <element name="birthDate">
+                            <text/>
+                        </element>
+                        <element name="year">
+                            <choice>
+                                <value>freshman</value>
+                                <value>sophomore</value>
+                                <value>junior</value>
+                                <value>senior</value>
+                                <value>grad</value>
+                            </choice>
+                        </element>
+                        <element name="status">
+                            <text/>
+                        </element>
+                        <element name="classes">
+                            <oneOrMore>
+                                <element name="classRef">
+                                    <attribute name="ref"></attribute>
+                                </element>
+                            </oneOrMore>
+                        </element>
+                    </element>
+                </oneOrMore>
+            </element>
+        </element>
+    </start>
+</grammar>

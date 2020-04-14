@@ -1,0 +1,439 @@
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" ID="P0b002ee194cc6761">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+  <roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+  <roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <role>
+  <roleTerm authority="marcrelator" type="text">author</roleTerm>
+  <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>CREC</collectionCode>
+ <category>Proceedings of Congress and General Congressional Publications</category>
+ <waisDatabaseName>2017_record</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2017-05-06</dateIngested>
+</extension>
+<titleInfo>
+ <title>Congressional Record</title>
+ <partNumber>Vol. 163, no. 78</partNumber>
+</titleInfo>
+<location>
+ <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-05-05</url>
+ <url displayLabel="PDF rendition" access="raw object">https://www.govinfo.gov/content/pkg/CREC-2017-05-05/pdf/CREC-2017-05-05.pdf</url>
+</location>
+<part type="issue">
+ <extent unit="pages">
+  <start>S2783</start>
+  <end>S2783</end>
+</extent>
+ <extent unit="pages">
+  <start>D499</start>
+  <end>D500</end>
+</extent>
+</part>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2017-05-05</dateIssued>
+ <issuance>continuing</issuance>
+ <frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>6 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-05-05</identifier>
+<identifier type="local">P0b002ee194cc6761</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr05my17</identifier>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2017-05-06</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2019-04-13</recordChangeDate>
+ <recordIdentifier source="DGPO">CREC-2017-05-05</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+ <docClass>CREC</docClass>
+ <accessId>CREC-2017-05-05</accessId>
+ <volume>163</volume>
+ <issue>78</issue>
+ <congress>115</congress>
+ <session>1</session>
+ <bookCount>1</bookCount>
+</extension>
+<relatedItem type="constituent" ID="id-CREC-2017-05-05-pt1-PgD499" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-05-05/CREC-2017-05-05-pt1-PgD499/mods.xml">
+ <titleInfo>
+  <title>Daily Digest/Senate</title>
+  <partName>Daily Digest</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-05-05/html/CREC-2017-05-05-pt1-PgD499.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05dcbbb</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-05-05/pdf/CREC-2017-05-05-pt1-PgD499.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05dcbd4</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. D499</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-05-05/CREC-2017-05-05-pt1-PgD499</identifier>
+ <identifier type="former granule identifier">cr05my17-3</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-05-05/CREC-2017-05-05-pt1-PgD499</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-05-05/pdf/CREC-2017-05-05-pt1-PgD499.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-05-05/html/CREC-2017-05-05-pt1-PgD499.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>D499</start>
+   <end>D499</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. D499</identifier>
+ <extension>
+  <searchTitle>Daily Digest/Senate; Congressional Record Vol. 163, No. 78</searchTitle>
+  <granuleClass>DAILYDIGEST</granuleClass>
+  <accessId>CREC-2017-05-05-pt1-PgD499</accessId>
+  <subGranuleClass>DDSCHAMBER</subGranuleClass>
+  <pagePrefix>D</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-05-05</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-05-05-pt1-PgD499-2" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-05-05/CREC-2017-05-05-pt1-PgD499-2/mods.xml">
+ <titleInfo>
+  <title>Daily Digest/Senate Committee Meetings</title>
+  <partName>Daily Digest</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-05-05/html/CREC-2017-05-05-pt1-PgD499-2.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05dcbb4</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-05-05/pdf/CREC-2017-05-05-pt1-PgD499-2.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05dcbd1</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. D499</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-05-05/CREC-2017-05-05-pt1-PgD499-2</identifier>
+ <identifier type="former granule identifier">cr05my17-4</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-05-05/CREC-2017-05-05-pt1-PgD499-2</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-05-05/pdf/CREC-2017-05-05-pt1-PgD499-2.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-05-05/html/CREC-2017-05-05-pt1-PgD499-2.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>D499</start>
+   <end>D499</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. D499</identifier>
+ <extension>
+  <searchTitle>Daily Digest/Senate Committee Meetings; Congressional Record Vol. 163, No. 78</searchTitle>
+  <granuleClass>DAILYDIGEST</granuleClass>
+  <accessId>CREC-2017-05-05-pt1-PgD499-2</accessId>
+  <subGranuleClass>DDSCMEETINGS</subGranuleClass>
+  <pagePrefix>D</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-05-05</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-05-05-pt1-PgD499-3" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-05-05/CREC-2017-05-05-pt1-PgD499-3/mods.xml">
+ <titleInfo>
+  <title>Daily Digest/House of Representatives</title>
+  <partName>Daily Digest</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-05-05/html/CREC-2017-05-05-pt1-PgD499-3.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05dcbba</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-05-05/pdf/CREC-2017-05-05-pt1-PgD499-3.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05dcbbc</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. D499</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-05-05/CREC-2017-05-05-pt1-PgD499-3</identifier>
+ <identifier type="former granule identifier">cr05my17-5</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-05-05/CREC-2017-05-05-pt1-PgD499-3</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-05-05/pdf/CREC-2017-05-05-pt1-PgD499-3.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-05-05/html/CREC-2017-05-05-pt1-PgD499-3.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>D499</start>
+   <end>D499</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. D499</identifier>
+ <extension>
+  <searchTitle>Daily Digest/House of Representatives; Congressional Record Vol. 163, No. 78</searchTitle>
+  <granuleClass>DAILYDIGEST</granuleClass>
+  <accessId>CREC-2017-05-05-pt1-PgD499-3</accessId>
+  <subGranuleClass>DDHCHAMBER</subGranuleClass>
+  <pagePrefix>D</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-05-05</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-05-05-pt1-PgD499-4" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-05-05/CREC-2017-05-05-pt1-PgD499-4/mods.xml">
+ <titleInfo>
+  <title>Daily Digest/House Committee Meetings</title>
+  <partName>Daily Digest</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-05-05/html/CREC-2017-05-05-pt1-PgD499-4.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05dcbb8</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-05-05/pdf/CREC-2017-05-05-pt1-PgD499-4.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05dcbd0</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. D499</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-05-05/CREC-2017-05-05-pt1-PgD499-4</identifier>
+ <identifier type="former granule identifier">cr05my17-6</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-05-05/CREC-2017-05-05-pt1-PgD499-4</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-05-05/pdf/CREC-2017-05-05-pt1-PgD499-4.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-05-05/html/CREC-2017-05-05-pt1-PgD499-4.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>D499</start>
+   <end>D499</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. D499</identifier>
+ <extension>
+  <searchTitle>Daily Digest/House Committee Meetings; Congressional Record Vol. 163, No. 78</searchTitle>
+  <granuleClass>DAILYDIGEST</granuleClass>
+  <accessId>CREC-2017-05-05-pt1-PgD499-4</accessId>
+  <subGranuleClass>DDHCMEETINGS</subGranuleClass>
+  <pagePrefix>D</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-05-05</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-05-05-pt1-PgD499-5" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-05-05/CREC-2017-05-05-pt1-PgD499-5/mods.xml">
+ <titleInfo>
+  <title>Daily Digest/COMMITTEE MEETINGS FOR 2017-05-08</title>
+  <partName>Daily Digest</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-05-05/html/CREC-2017-05-05-pt1-PgD499-5.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05dcbb7</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-05-05/pdf/CREC-2017-05-05-pt1-PgD499-5.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05dcbd3</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. D499</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-05-05/CREC-2017-05-05-pt1-PgD499-5</identifier>
+ <identifier type="former granule identifier">cr05my17-7</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-05-05/CREC-2017-05-05-pt1-PgD499-5</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-05-05/pdf/CREC-2017-05-05-pt1-PgD499-5.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-05-05/html/CREC-2017-05-05-pt1-PgD499-5.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>D499</start>
+   <end>D499</end>
+</extent>
+</part>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>Senate</namePart>
+  <namePart>Committee on the Judiciary</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. D499</identifier>
+ <extension>
+  <searchTitle>Daily Digest/COMMITTEE MEETINGS FOR 2017-05-08; Congressional Record Vol. 163, No. 78</searchTitle>
+  <granuleClass>DAILYDIGEST</granuleClass>
+  <accessId>CREC-2017-05-05-pt1-PgD499-5</accessId>
+  <subGranuleClass>DDCOMMITTEEMEETINGS</subGranuleClass>
+  <pagePrefix>D</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <granuleDate>2017-05-05</granuleDate>
+  <congCommittee authorityId="ssju00" chamber="S" congress="115" type="S">
+                           <name type="authority-standard">Committee on the Judiciary</name>
+                           <name type="authority-short">Judiciary</name>
+                    </congCommittee>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-05-05-pt1-PgD499-6" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-05-05/CREC-2017-05-05-pt1-PgD499-6/mods.xml">
+ <titleInfo>
+  <title>Daily Digest/Next Meeting of the SENATE + Next Meeting of the HOUSE OF REPRESENTATIVES + Other End Matter</title>
+  <partName>Daily Digest</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-05-05/html/CREC-2017-05-05-pt1-PgD499-6.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05dcbb5</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-05-05/pdf/CREC-2017-05-05-pt1-PgD499-6.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05dcbd5</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. D499</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-05-05/CREC-2017-05-05-pt1-PgD499-6</identifier>
+ <identifier type="former granule identifier">cr05my17-8</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-05-05/CREC-2017-05-05-pt1-PgD499-6</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-05-05/pdf/CREC-2017-05-05-pt1-PgD499-6.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-05-05/html/CREC-2017-05-05-pt1-PgD499-6.htm</url>
+</location>
+ <physicalDescription>
+  <extent>2 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>D499</start>
+   <end>D500</end>
+</extent>
+</part>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart></namePart>
+  <namePart>Joint Committee on Printing</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. D499</identifier>
+ <extension>
+  <searchTitle>Daily Digest/Next Meeting of the SENATE + Next Meeting of the HOUSE OF REPRESENTATIVES + Other End Matter; Congressional Record Vol. 163, No. 78</searchTitle>
+  <granuleClass>DAILYDIGEST</granuleClass>
+  <accessId>CREC-2017-05-05-pt1-PgD499-6</accessId>
+  <subGranuleClass>DDENDMATTER</subGranuleClass>
+  <pagePrefix>D</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-05-05</granuleDate>
+  <congCommittee authorityId="jspr00" chamber="J" congress="115" type="J">
+                           <name type="authority-standard">Joint Committee on Printing</name>
+                           <name type="authority-short">Joint Printing</name>
+                    </congCommittee>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-05-05-pt1-PgS2783" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-05-05/CREC-2017-05-05-pt1-PgS2783/mods.xml">
+ <titleInfo>
+  <title>House of Representatives</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-05-05/html/CREC-2017-05-05-pt1-PgS2783.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05dcbb6</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-05-05/pdf/CREC-2017-05-05-pt1-PgS2783.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05dcbcf</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S2783</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-05-05/CREC-2017-05-05-pt1-PgS2783</identifier>
+ <identifier type="former granule identifier">cr05my17-10</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-05-05/CREC-2017-05-05-pt1-PgS2783</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-05-05/pdf/CREC-2017-05-05-pt1-PgS2783.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-05-05/html/CREC-2017-05-05-pt1-PgS2783.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S2783</start>
+   <end>S2783</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. S2783</identifier>
+ <extension>
+  <searchTitle>House of Representatives; Congressional Record Vol. 163, No. 78</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-05-05-pt1-PgS2783</accessId>
+  <subGranuleClass>CALLTOORDER</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-05-05</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-05-05-pt1-PgS2783-2" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-05-05/CREC-2017-05-05-pt1-PgS2783-2/mods.xml">
+ <titleInfo>
+  <title>ADJOURNMENT UNTIL MONDAY, MAY 8, 2017, AT 2 P.M.</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-05-05/html/CREC-2017-05-05-pt1-PgS2783-2.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05dcbb9</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-05-05/pdf/CREC-2017-05-05-pt1-PgS2783-2.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05dcbd2</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S2783</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-05-05/CREC-2017-05-05-pt1-PgS2783-2</identifier>
+ <identifier type="former granule identifier">cr05my17-11</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-05-05/CREC-2017-05-05-pt1-PgS2783-2</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-05-05/pdf/CREC-2017-05-05-pt1-PgS2783-2.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-05-05/html/CREC-2017-05-05-pt1-PgS2783-2.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S2783</start>
+   <end>S2783</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. S2783</identifier>
+ <extension>
+  <searchTitle>ADJOURNMENT UNTIL MONDAY, MAY 8, 2017, AT 2 P.M.; Congressional Record Vol. 163, No. 78</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-05-05-pt1-PgS2783-2</accessId>
+  <subGranuleClass>ADJOURNMENT</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-05-05</granuleDate>
+</extension>
+</relatedItem>
+</mods>

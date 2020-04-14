@@ -8,8 +8,8 @@ import os
 from private_keys import api_keys
 # from PyPDF2 import PdfFileWriter, PdfFileReader
 
-START = datetime(2016,11,7) # year, month, day as integers
-END = datetime(2016,11,9)
+START = datetime(2016,1,1) # year, month, day as integers
+END = datetime(2017,12,31)
 
 def params_unique_combination(baseurl,params,private_keys=['data_gov_key']):
     kvs = []
@@ -38,6 +38,11 @@ def request_and_save_pdf(baseurl,params,out_dir,filename):
     with open(out_dir+'/'+filename, 'wb') as outfile:
         outfile.write(response.content)
         # print('Success')
+
+def request_and_save_mods(baseurl,params,out_dir,filename):
+    response = requests.get(baseurl,params)
+    with open(out_dir+'/'+filename, 'wb') as outfile:
+        outfile.write(response.content)
 
 def get_out_dir():
     ts = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
@@ -73,7 +78,9 @@ def get_cr_metadata(start, end):
                 with open(out_dir +'/'+ f'{packageId}.json', 'w') as outfile:
                     json.dump(data, outfile, indent=2)
                 pdf_base = data['download']['pdfLink']
-                request_and_save_pdf(pdf_base, params, out_dir, f'{packageId}.pdf')
+                # request_and_save_pdf(pdf_base, params, out_dir, f'{packageId}.pdf')
+                mods_base = data['download']['modsLink']
+                request_and_save_mods(mods_base, params, out_dir, f'{packageId}.xml')
 
         except:
             print('Something happened with',packageId)

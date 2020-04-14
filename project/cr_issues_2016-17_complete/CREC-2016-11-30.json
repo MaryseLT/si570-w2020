@@ -1,0 +1,40 @@
+{
+  "title": "Congressional Record Volume 162, Issue 171, (November 30, 2016)",
+  "collectionCode": "CREC",
+  "collectionName": "Congressional Record",
+  "category": "Proceedings of Congress and General Congressional Publications",
+  "dateIssued": "2016-11-30",
+  "detailsLink": "https://www.govinfo.gov/app/details/CREC-2016-11-30",
+  "granulesLink": "https://api.govinfo.gov/packages/CREC-2016-11-30/granules?offset=0&pageSize=100",
+  "packageId": "CREC-2016-11-30",
+  "download": {
+    "pdfLink": "https://api.govinfo.gov/packages/CREC-2016-11-30/pdf",
+    "pdfHouseLink": "https://api.govinfo.gov/packages/CREC-2016-11-30/pdf/house",
+    "pdfHouse-bk2Link": "https://api.govinfo.gov/packages/CREC-2016-11-30/pdf/house-bk2",
+    "pdfExtensions-bk2Link": "https://api.govinfo.gov/packages/CREC-2016-11-30/pdf/extensions-bk2",
+    "pdf-bk2Link": "https://api.govinfo.gov/packages/CREC-2016-11-30/pdf-bk2",
+    "pdfSenateLink": "https://api.govinfo.gov/packages/CREC-2016-11-30/pdf/senate",
+    "pdfDailyDigest-bk1Link": "https://api.govinfo.gov/packages/CREC-2016-11-30/pdf/dailydigest-bk1",
+    "pdfDailyDigestLink": "https://api.govinfo.gov/packages/CREC-2016-11-30/pdf/dailydigest",
+    "modsLink": "https://api.govinfo.gov/packages/CREC-2016-11-30/mods",
+    "premisLink": "https://api.govinfo.gov/packages/CREC-2016-11-30/premis",
+    "zipLink": "https://api.govinfo.gov/packages/CREC-2016-11-30/zip"
+  },
+  "branch": "legislative",
+  "pages": "1540",
+  "governmentAuthor1": "Congress",
+  "suDocClassNumber": "X 1.1/A:X/A.",
+  "documentType": "CREC",
+  "congress": "114",
+  "session": "2",
+  "volume": "162",
+  "issue": "171",
+  "bookCount": "2",
+  "publisher": "U.S. Government Publishing Office",
+  "otherIdentifier": {
+    "migrated-doc-id": "CR30NO16",
+    "ils-system-id": "000568013",
+    "stock-number": "752-002-00000-2"
+  },
+  "lastModified": "2019-07-08T16:34:34Z"
+}

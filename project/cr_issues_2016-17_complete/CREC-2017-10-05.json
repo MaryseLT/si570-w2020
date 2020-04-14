@@ -1,0 +1,37 @@
+{
+  "title": "Congressional Record Volume 163, Issue 160, (October 5, 2017)",
+  "collectionCode": "CREC",
+  "collectionName": "Congressional Record",
+  "category": "Proceedings of Congress and General Congressional Publications",
+  "dateIssued": "2017-10-05",
+  "detailsLink": "https://www.govinfo.gov/app/details/CREC-2017-10-05",
+  "granulesLink": "https://api.govinfo.gov/packages/CREC-2017-10-05/granules?offset=0&pageSize=100",
+  "packageId": "CREC-2017-10-05",
+  "download": {
+    "pdfLink": "https://api.govinfo.gov/packages/CREC-2017-10-05/pdf",
+    "pdfHouseLink": "https://api.govinfo.gov/packages/CREC-2017-10-05/pdf/house",
+    "pdfExtensionsLink": "https://api.govinfo.gov/packages/CREC-2017-10-05/pdf/extensions",
+    "pdfSenateLink": "https://api.govinfo.gov/packages/CREC-2017-10-05/pdf/senate",
+    "pdfDailyDigestLink": "https://api.govinfo.gov/packages/CREC-2017-10-05/pdf/dailydigest",
+    "modsLink": "https://api.govinfo.gov/packages/CREC-2017-10-05/mods",
+    "premisLink": "https://api.govinfo.gov/packages/CREC-2017-10-05/premis",
+    "zipLink": "https://api.govinfo.gov/packages/CREC-2017-10-05/zip"
+  },
+  "branch": "legislative",
+  "pages": "220",
+  "governmentAuthor1": "Congress",
+  "suDocClassNumber": "X 1.1/A:X/A.",
+  "documentType": "CREC",
+  "congress": "115",
+  "session": "1",
+  "volume": "163",
+  "issue": "160",
+  "bookCount": "1",
+  "publisher": "U.S. Government Publishing Office",
+  "otherIdentifier": {
+    "migrated-doc-id": "CR05OC17",
+    "ils-system-id": "000568013",
+    "stock-number": "752-002-00000-2"
+  },
+  "lastModified": "2019-07-10T18:58:52Z"
+}

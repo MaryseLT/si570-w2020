@@ -1,0 +1,1803 @@
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" ID="P0b002ee1949ec365">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+  <roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+  <roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <role>
+  <roleTerm authority="marcrelator" type="text">author</roleTerm>
+  <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>CREC</collectionCode>
+ <category>Proceedings of Congress and General Congressional Publications</category>
+ <waisDatabaseName>2017_record</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2017-04-19</dateIngested>
+</extension>
+<titleInfo>
+ <title>Congressional Record</title>
+ <partNumber>Vol. 163, no. 67</partNumber>
+</titleInfo>
+<location>
+ <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-04-17</url>
+ <url displayLabel="PDF rendition" access="raw object">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17.pdf</url>
+</location>
+<part type="issue">
+ <extent unit="pages">
+  <start>H2807</start>
+  <end>H2808</end>
+</extent>
+ <extent unit="pages">
+  <start>S2469</start>
+  <end>S2469</end>
+</extent>
+ <extent unit="pages">
+  <start>E511</start>
+  <end>E511</end>
+</extent>
+ <extent unit="pages">
+  <start>D435</start>
+  <end>D436</end>
+</extent>
+</part>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2017-04-17</dateIssued>
+ <issuance>continuing</issuance>
+ <frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>12 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-04-17</identifier>
+<identifier type="local">P0b002ee1949ec365</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr17ap17</identifier>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2017-04-19</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2019-04-13</recordChangeDate>
+ <recordIdentifier source="DGPO">CREC-2017-04-17</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+ <docClass>CREC</docClass>
+ <accessId>CREC-2017-04-17</accessId>
+ <volume>163</volume>
+ <issue>67</issue>
+ <congress>115</congress>
+ <session>1</session>
+ <bookCount>1</bookCount>
+</extension>
+<relatedItem type="constituent" ID="id-CREC-2017-04-17-pt1-PgD435" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-04-17/CREC-2017-04-17-pt1-PgD435/mods.xml">
+ <titleInfo>
+  <title>Daily Digest/Senate</title>
+  <partName>Daily Digest</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgD435.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05de17a</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgD435.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05de1a4</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. D435</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgD435</identifier>
+ <identifier type="former granule identifier">cr17ap17-3</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgD435</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgD435.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgD435.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>D435</start>
+   <end>D435</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. D435</identifier>
+ <extension>
+  <searchTitle>Daily Digest/Senate; Congressional Record Vol. 163, No. 67</searchTitle>
+  <granuleClass>DAILYDIGEST</granuleClass>
+  <accessId>CREC-2017-04-17-pt1-PgD435</accessId>
+  <subGranuleClass>DDSCHAMBER</subGranuleClass>
+  <pagePrefix>D</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-04-17</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-04-17-pt1-PgD435-2" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-04-17/CREC-2017-04-17-pt1-PgD435-2/mods.xml">
+ <titleInfo>
+  <title>Daily Digest/Senate Committee Meetings</title>
+  <partName>Daily Digest</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgD435-2.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05de167</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgD435-2.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05de1a5</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. D435</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgD435-2</identifier>
+ <identifier type="former granule identifier">cr17ap17-4</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgD435-2</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgD435-2.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgD435-2.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>D435</start>
+   <end>D435</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. D435</identifier>
+ <extension>
+  <searchTitle>Daily Digest/Senate Committee Meetings; Congressional Record Vol. 163, No. 67</searchTitle>
+  <granuleClass>DAILYDIGEST</granuleClass>
+  <accessId>CREC-2017-04-17-pt1-PgD435-2</accessId>
+  <subGranuleClass>DDSCMEETINGS</subGranuleClass>
+  <pagePrefix>D</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-04-17</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-04-17-pt1-PgD435-3" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-04-17/CREC-2017-04-17-pt1-PgD435-3/mods.xml">
+ <titleInfo>
+  <title>Daily Digest/House of Representatives</title>
+  <partName>Daily Digest</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgD435-3.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05de17b</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgD435-3.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05de19a</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. D435</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgD435-3</identifier>
+ <identifier type="former granule identifier">cr17ap17-5</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgD435-3</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgD435-3.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgD435-3.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>D435</start>
+   <end>D435</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. D435</identifier>
+ <extension>
+  <searchTitle>Daily Digest/House of Representatives; Congressional Record Vol. 163, No. 67</searchTitle>
+  <granuleClass>DAILYDIGEST</granuleClass>
+  <accessId>CREC-2017-04-17-pt1-PgD435-3</accessId>
+  <subGranuleClass>DDHCHAMBER</subGranuleClass>
+  <pagePrefix>D</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-04-17</granuleDate>
+  <bill congress="115" context="OTHER" number="2101" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="2103" type="HR"></bill>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 2101 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 2101</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 2103 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 2103</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-04-17-pt1-PgD435-4" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-04-17/CREC-2017-04-17-pt1-PgD435-4/mods.xml">
+ <titleInfo>
+  <title>Daily Digest/House Committee Meetings</title>
+  <partName>Daily Digest</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgD435-4.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05de171</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgD435-4.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05de194</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. D435</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgD435-4</identifier>
+ <identifier type="former granule identifier">cr17ap17-6</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgD435-4</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgD435-4.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgD435-4.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>D435</start>
+   <end>D435</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. D435</identifier>
+ <extension>
+  <searchTitle>Daily Digest/House Committee Meetings; Congressional Record Vol. 163, No. 67</searchTitle>
+  <granuleClass>DAILYDIGEST</granuleClass>
+  <accessId>CREC-2017-04-17-pt1-PgD435-4</accessId>
+  <subGranuleClass>DDHCMEETINGS</subGranuleClass>
+  <pagePrefix>D</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-04-17</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-04-17-pt1-PgD435-5" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-04-17/CREC-2017-04-17-pt1-PgD435-5/mods.xml">
+ <titleInfo>
+  <title>Daily Digest/COMMITTEE MEETINGS FOR 2017-04-20</title>
+  <partName>Daily Digest</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgD435-5.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05de169</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgD435-5.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05de19c</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. D435</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgD435-5</identifier>
+ <identifier type="former granule identifier">cr17ap17-7</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgD435-5</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgD435-5.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgD435-5.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>D435</start>
+   <end>D435</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. D435</identifier>
+ <extension>
+  <searchTitle>Daily Digest/COMMITTEE MEETINGS FOR 2017-04-20; Congressional Record Vol. 163, No. 67</searchTitle>
+  <granuleClass>DAILYDIGEST</granuleClass>
+  <accessId>CREC-2017-04-17-pt1-PgD435-5</accessId>
+  <subGranuleClass>DDCOMMITTEEMEETINGS</subGranuleClass>
+  <pagePrefix>D</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <granuleDate>2017-04-17</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-04-17-pt1-PgD435-6" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-04-17/CREC-2017-04-17-pt1-PgD435-6/mods.xml">
+ <titleInfo>
+  <title>Daily Digest/Next Meeting of the SENATE + Next Meeting of the HOUSE OF REPRESENTATIVES + Other End Matter</title>
+  <partName>Daily Digest</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgD435-6.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05de16a</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgD435-6.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05de19b</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. D435</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgD435-6</identifier>
+ <identifier type="former granule identifier">cr17ap17-8</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgD435-6</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgD435-6.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgD435-6.htm</url>
+</location>
+ <physicalDescription>
+  <extent>2 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>D435</start>
+   <end>D436</end>
+</extent>
+</part>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart></namePart>
+  <namePart>Joint Committee on Printing</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. D435</identifier>
+ <extension>
+  <searchTitle>Daily Digest/Next Meeting of the SENATE + Next Meeting of the HOUSE OF REPRESENTATIVES + Other End Matter; Congressional Record Vol. 163, No. 67</searchTitle>
+  <granuleClass>DAILYDIGEST</granuleClass>
+  <accessId>CREC-2017-04-17-pt1-PgD435-6</accessId>
+  <subGranuleClass>DDENDMATTER</subGranuleClass>
+  <pagePrefix>D</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-04-17</granuleDate>
+  <congCommittee authorityId="jspr00" chamber="J" congress="115" type="J">
+                           <name type="authority-standard">Joint Committee on Printing</name>
+                           <name type="authority-short">Joint Printing</name>
+                    </congCommittee>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-04-17-pt1-PgE511-2" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-04-17/CREC-2017-04-17-pt1-PgE511-2/mods.xml">
+ <titleInfo>
+  <title>REMEMBERING MARY PEARSON</title>
+  <partName>Extensions of Remarks</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgE511-2.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05de16c</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgE511-2.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05de181</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. E511</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgE511-2</identifier>
+ <identifier type="former granule identifier">cr17ap17-12</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgE511-2</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgE511-2.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgE511-2.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>E511</start>
+   <end>E511</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>Mark Sanford</namePart>
+  <affiliation>United States House of Representatives</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. E511</identifier>
+ <extension>
+  <searchTitle>REMEMBERING MARY PEARSON; Congressional Record Vol. 163, No. 67</searchTitle>
+  <granuleClass>EXTENSIONS</granuleClass>
+  <accessId>CREC-2017-04-17-pt1-PgE511-2</accessId>
+  <subGranuleClass>ALLOTHER</subGranuleClass>
+  <pagePrefix>E</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-04-17</granuleDate>
+  <congMember authorityId="1012" bioGuideId="S000051" chamber="H" congress="115" party="R" role="SPEAKING" state="SC">
+                           <name type="parsed">Mr. SANFORD</name>
+                           <name type="authority-fnf">Mark Sanford</name>
+                           <name type="authority-lnf">Sanford, Mark</name>
+                    </congMember>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-04-17-pt1-PgE511-3" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-04-17/CREC-2017-04-17-pt1-PgE511-3/mods.xml">
+ <titleInfo>
+  <title>CONGRATULATING CAROL STREAM</title>
+  <partName>Extensions of Remarks</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgE511-3.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05de177</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgE511-3.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05de19f</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. E511</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgE511-3</identifier>
+ <identifier type="former granule identifier">cr17ap17-13</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgE511-3</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgE511-3.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgE511-3.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>E511</start>
+   <end>E511</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>Peter J. Roskam</namePart>
+  <affiliation>United States House of Representatives</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. E511</identifier>
+ <extension>
+  <searchTitle>CONGRATULATING CAROL STREAM; Congressional Record Vol. 163, No. 67</searchTitle>
+  <granuleClass>EXTENSIONS</granuleClass>
+  <accessId>CREC-2017-04-17-pt1-PgE511-3</accessId>
+  <subGranuleClass>CONGRATULATIONS</subGranuleClass>
+  <pagePrefix>E</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-04-17</granuleDate>
+  <congMember authorityId="1848" bioGuideId="R000580" chamber="H" congress="115" gpoId="7926" party="R" role="SPEAKING" state="IL">
+                           <name type="parsed">Mr. ROSKAM</name>
+                           <name type="authority-fnf">Peter J. Roskam</name>
+                           <name type="authority-lnf">Roskam, Peter J.</name>
+                           <name type="authority-other">Mr. Peter Roskam</name>
+                    </congMember>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-04-17-pt1-PgE511-4" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-04-17/CREC-2017-04-17-pt1-PgE511-4/mods.xml">
+ <titleInfo>
+  <title>SENATE COMMITTEE MEETINGS</title>
+  <partName>Extensions of Remarks</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgE511-4.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05de16b</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgE511-4.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05de195</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. E511</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgE511-4</identifier>
+ <identifier type="former granule identifier">cr17ap17-14</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgE511-4</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgE511-4.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgE511-4.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>E511</start>
+   <end>E511</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. E511</identifier>
+ <extension>
+  <searchTitle>SENATE COMMITTEE MEETINGS; Congressional Record Vol. 163, No. 67</searchTitle>
+  <granuleClass>EXTENSIONS</granuleClass>
+  <accessId>CREC-2017-04-17-pt1-PgE511-4</accessId>
+  <subGranuleClass>ESENATECOMMITTEE</subGranuleClass>
+  <pagePrefix>E</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-04-17</granuleDate>
+  <bill congress="115" context="FIRSTPARAGRAPH" number="4" type="SRES"></bill>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Senate Resolution 4 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">S. Res. 4</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-04-17-pt1-PgH-FrontMatter" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH-FrontMatter/mods.xml">
+ <titleInfo>
+  <title>CONGRESSIONAL RECORD</title>
+  <partName>House</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgH-FrontMatter.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05de175</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgH-FrontMatter.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05de193</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. H2807</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH-FrontMatter</identifier>
+ <identifier type="former granule identifier">cr17ap17-15</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH-FrontMatter</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgH-FrontMatter.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgH-FrontMatter.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>H2807</start>
+   <end>H2807</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. H2807</identifier>
+ <extension>
+  <searchTitle>CONGRESSIONAL RECORD; Congressional Record Vol. 163, No. 67</searchTitle>
+  <granuleClass>HOUSE</granuleClass>
+  <accessId>CREC-2017-04-17-pt1-PgH-FrontMatter</accessId>
+  <subGranuleClass>FRONTMATTER</subGranuleClass>
+  <pagePrefix>H</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-04-17</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-04-17-pt1-PgH2807" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2807/mods.xml">
+ <titleInfo>
+  <title>House of Representatives</title>
+  <partName>House</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgH2807.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05de173</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgH2807.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05de1a7</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. H2807</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2807</identifier>
+ <identifier type="former granule identifier">cr17ap17-16</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2807</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgH2807.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgH2807.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>H2807</start>
+   <end>H2807</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. H2807</identifier>
+ <extension>
+  <searchTitle>House of Representatives; Congressional Record Vol. 163, No. 67</searchTitle>
+  <granuleClass>HOUSE</granuleClass>
+  <accessId>CREC-2017-04-17-pt1-PgH2807</accessId>
+  <subGranuleClass>CALLTOORDER</subGranuleClass>
+  <pagePrefix>H</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-04-17</granuleDate>
+  <time from="11:00:00" to="11:00:00"></time>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-04-17-pt1-PgH2807-2" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2807-2/mods.xml">
+ <titleInfo>
+  <title>DESIGNATION OF SPEAKER PRO TEMPORE</title>
+  <partName>House</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgH2807-2.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05de176</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgH2807-2.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05de1a8</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. H2807</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2807-2</identifier>
+ <identifier type="former granule identifier">cr17ap17-17</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2807-2</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgH2807-2.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgH2807-2.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>H2807</start>
+   <end>H2807</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. H2807</identifier>
+ <extension>
+  <searchTitle>DESIGNATION OF SPEAKER PRO TEMPORE; Congressional Record Vol. 163, No. 67</searchTitle>
+  <granuleClass>HOUSE</granuleClass>
+  <accessId>CREC-2017-04-17-pt1-PgH2807-2</accessId>
+  <subGranuleClass>ALLOTHER</subGranuleClass>
+  <pagePrefix>H</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-04-17</granuleDate>
+  <time from="11:00:00" to="11:00:00"></time>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-04-17-pt1-PgH2807-3" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2807-3/mods.xml">
+ <titleInfo>
+  <title>PRAYER</title>
+  <partName>House</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgH2807-3.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05de174</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgH2807-3.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05de183</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. H2807</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2807-3</identifier>
+ <identifier type="former granule identifier">cr17ap17-18</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2807-3</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgH2807-3.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgH2807-3.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>H2807</start>
+   <end>H2807</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. H2807</identifier>
+ <extension>
+  <searchTitle>PRAYER; Congressional Record Vol. 163, No. 67</searchTitle>
+  <granuleClass>HOUSE</granuleClass>
+  <accessId>CREC-2017-04-17-pt1-PgH2807-3</accessId>
+  <subGranuleClass>PRAYER</subGranuleClass>
+  <pagePrefix>H</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-04-17</granuleDate>
+  <time from="11:00:00" to="11:00:00"></time>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-04-17-pt1-PgH2807-4" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2807-4/mods.xml">
+ <titleInfo>
+  <title>THE JOURNAL</title>
+  <partName>House</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgH2807-4.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05de15a</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgH2807-4.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05de1a6</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. H2807</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2807-4</identifier>
+ <identifier type="former granule identifier">cr17ap17-19</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2807-4</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgH2807-4.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgH2807-4.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>H2807</start>
+   <end>H2807</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. H2807</identifier>
+ <extension>
+  <searchTitle>THE JOURNAL; Congressional Record Vol. 163, No. 67</searchTitle>
+  <granuleClass>HOUSE</granuleClass>
+  <accessId>CREC-2017-04-17-pt1-PgH2807-4</accessId>
+  <subGranuleClass>HJOURNAL</subGranuleClass>
+  <pagePrefix>H</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-04-17</granuleDate>
+  <time from="11:00:00" to="11:00:00"></time>
+  <bill congress="115" context="FIRSTPARAGRAPH" number="242" type="HRES"></bill>
+  <bill congress="115" context="OTHER" number="242" type="HRES"></bill>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Resolution 242 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H. Res. 242</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Resolution 242 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H. Res. 242</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-04-17-pt1-PgH2807-5" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2807-5/mods.xml">
+ <titleInfo>
+  <title>PLEDGE OF ALLEGIANCE</title>
+  <partName>House</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgH2807-5.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05de17e</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgH2807-5.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05de19e</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. H2807</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2807-5</identifier>
+ <identifier type="former granule identifier">cr17ap17-20</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2807-5</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgH2807-5.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgH2807-5.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>H2807</start>
+   <end>H2807</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. H2807</identifier>
+ <extension>
+  <searchTitle>PLEDGE OF ALLEGIANCE; Congressional Record Vol. 163, No. 67</searchTitle>
+  <granuleClass>HOUSE</granuleClass>
+  <accessId>CREC-2017-04-17-pt1-PgH2807-5</accessId>
+  <subGranuleClass>PLEDGE</subGranuleClass>
+  <pagePrefix>H</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-04-17</granuleDate>
+  <time from="11:00:00" to="11:00:00"></time>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-04-17-pt1-PgH2807-6" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2807-6/mods.xml">
+ <titleInfo>
+  <title>ADJOURNMENT</title>
+  <partName>House</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgH2807-6.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05de159</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgH2807-6.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05de19d</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. H2807</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2807-6</identifier>
+ <identifier type="former granule identifier">cr17ap17-21</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2807-6</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgH2807-6.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgH2807-6.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>H2807</start>
+   <end>H2807</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. H2807</identifier>
+ <extension>
+  <searchTitle>ADJOURNMENT; Congressional Record Vol. 163, No. 67</searchTitle>
+  <granuleClass>HOUSE</granuleClass>
+  <accessId>CREC-2017-04-17-pt1-PgH2807-6</accessId>
+  <subGranuleClass>ADJOURNMENT</subGranuleClass>
+  <pagePrefix>H</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-04-17</granuleDate>
+  <time from="11:00:00" to="11:00:00"></time>
+  <bill congress="115" context="FIRSTPARAGRAPH" number="242" type="HRES"></bill>
+  <bill congress="115" context="OTHER" number="242" type="HRES"></bill>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Resolution 242 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H. Res. 242</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Resolution 242 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H. Res. 242</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-04-17-pt1-PgH2807-7" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2807-7/mods.xml">
+ <titleInfo>
+  <title>EXECUTIVE COMMUNICATIONS, ETC.</title>
+  <partName>House</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgH2807-7.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05de17d</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgH2807-7.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05de198</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. H2807</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2807-7</identifier>
+ <identifier type="former granule identifier">cr17ap17-22</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2807-7</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgH2807-7.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgH2807-7.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>H2807</start>
+   <end>H2807</end>
+</extent>
+</part>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>House of Representatives</namePart>
+  <namePart>Committee on Energy and Commerce</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. H2807</identifier>
+ <extension>
+  <searchTitle>EXECUTIVE COMMUNICATIONS, ETC.; Congressional Record Vol. 163, No. 67</searchTitle>
+  <granuleClass>HOUSE</granuleClass>
+  <accessId>CREC-2017-04-17-pt1-PgH2807-7</accessId>
+  <subGranuleClass>EXECUTIVECOMM</subGranuleClass>
+  <pagePrefix>H</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-04-17</granuleDate>
+  <time from="11:00:00" to="11:00:00"></time>
+  <congCommittee authorityId="hsif00" chamber="H" congress="115" type="S">
+                           <name type="authority-standard">Committee on Energy and Commerce</name>
+                           <name type="authority-short">Energy and Commerce</name>
+                    </congCommittee>
+  <law congress="104" isPrivate="false" number="121"></law>
+  <USCode title="5">
+                           <section detail="(a)(1)(A)" number="801"></section>
+                    </USCode>
+  <statuteAtLarge volume="110">
+                           <pages pages="868"></pages>
+                    </statuteAtLarge>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Code</title>
+   <partNumber>Title 5 Section 801(a)(1)(A)</partNumber>
+</titleInfo>
+  <identifier type="USC citation">5 U.S.C. 801(a)(1)(A)</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Statutes at Large</title>
+   <partNumber>Volume 110 Page 868</partNumber>
+</titleInfo>
+  <identifier type="Statute citation">110 Stat. 868</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Public Law 121 (104th Congress)</title>
+</titleInfo>
+  <identifier type="public law citation">Public Law 104-121</identifier>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-04-17-pt1-PgH2807-8" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2807-8/mods.xml">
+ <titleInfo>
+  <title>PUBLIC BILLS AND RESOLUTIONS</title>
+  <partName>House</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgH2807-8.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05de16f</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgH2807-8.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05de192</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. H2807</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2807-8</identifier>
+ <identifier type="former granule identifier">cr17ap17-23</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2807-8</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgH2807-8.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgH2807-8.htm</url>
+</location>
+ <physicalDescription>
+  <extent>2 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>H2807</start>
+   <end>H2808</end>
+</extent>
+</part>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>House of Representatives</namePart>
+  <namePart>Committee on House Administration</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>House of Representatives</namePart>
+  <namePart>Committee on Financial Services</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>House of Representatives</namePart>
+  <namePart>Committee on Veterans&apos; Affairs</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. H2807</identifier>
+ <extension>
+  <searchTitle>PUBLIC BILLS AND RESOLUTIONS; Congressional Record Vol. 163, No. 67</searchTitle>
+  <granuleClass>HOUSE</granuleClass>
+  <accessId>CREC-2017-04-17-pt1-PgH2807-8</accessId>
+  <subGranuleClass>HPUBBILLS</subGranuleClass>
+  <pagePrefix>H</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-04-17</granuleDate>
+  <time from="11:00:00" to="11:00:00"></time>
+  <bill congress="115" context="OTHER" number="2101" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="2102" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="2103" type="HR"></bill>
+  <congCommittee authorityId="hsha00" chamber="H" congress="115" type="S">
+                           <name type="authority-standard">Committee on House Administration</name>
+                           <name type="authority-short">House Administration</name>
+                    </congCommittee>
+  <congCommittee authorityId="hsba00" chamber="H" congress="115" type="S">
+                           <name type="authority-standard">Committee on Financial Services</name>
+                           <name type="authority-short">Financial Services</name>
+                    </congCommittee>
+  <congCommittee authorityId="hsvr00" chamber="H" congress="115" type="S">
+                           <name type="authority-standard">Committee on Veterans&apos; Affairs</name>
+                           <name type="authority-short">Veterans&apos; Affairs</name>
+                    </congCommittee>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 2101 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 2101</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 2102 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 2102</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 2103 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 2103</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-04-17-pt1-PgH2808" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2808/mods.xml">
+ <titleInfo>
+  <title>Constitutional Authority Statement</title>
+  <partName>House</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgH2808.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05de16e</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgH2808.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05de1a9</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. H2808</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2808</identifier>
+ <identifier type="former granule identifier">cr17ap17-24</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2808</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgH2808.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgH2808.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>H2808</start>
+   <end>H2808</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. H2808</identifier>
+ <extension>
+  <searchTitle>Constitutional Authority Statement; Congressional Record Vol. 163, No. 67</searchTitle>
+  <granuleClass>HOUSE</granuleClass>
+  <accessId>CREC-2017-04-17-pt1-PgH2808</accessId>
+  <subGranuleClass>CASTATEMENT</subGranuleClass>
+  <pagePrefix>H</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-04-17</granuleDate>
+  <time from="11:00:00" to="11:00:00"></time>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-04-17-pt1-PgH2808-2" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2808-2/mods.xml">
+ <titleInfo>
+  <title>Constitutional Authority Statement for H.R. 2101</title>
+  <partName>House</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgH2808-2.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05de179</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgH2808-2.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05de1a2</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. H2808</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2808-2</identifier>
+ <identifier type="former granule identifier">cr17ap17-25</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2808-2</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgH2808-2.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgH2808-2.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>H2808</start>
+   <end>H2808</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. H2808</identifier>
+ <extension>
+  <searchTitle>Constitutional Authority Statement for H.R. 2101; Congressional Record Vol. 163, No. 67</searchTitle>
+  <granuleClass>HOUSE</granuleClass>
+  <accessId>CREC-2017-04-17-pt1-PgH2808-2</accessId>
+  <subGranuleClass>CASTATEMENT</subGranuleClass>
+  <pagePrefix>H</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-04-17</granuleDate>
+  <time from="11:00:00" to="11:00:00"></time>
+  <bill congress="115" context="TITLE" number="2101" type="HR"></bill>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 2101 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 2101</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>TITLE</context>
+</extension>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-04-17-pt1-PgH2808-3" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2808-3/mods.xml">
+ <titleInfo>
+  <title>Constitutional Authority Statement for H.R. 2102</title>
+  <partName>House</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgH2808-3.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05de16d</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgH2808-3.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05de1a1</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. H2808</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2808-3</identifier>
+ <identifier type="former granule identifier">cr17ap17-26</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2808-3</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgH2808-3.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgH2808-3.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>H2808</start>
+   <end>H2808</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. H2808</identifier>
+ <extension>
+  <searchTitle>Constitutional Authority Statement for H.R. 2102; Congressional Record Vol. 163, No. 67</searchTitle>
+  <granuleClass>HOUSE</granuleClass>
+  <accessId>CREC-2017-04-17-pt1-PgH2808-3</accessId>
+  <subGranuleClass>CASTATEMENT</subGranuleClass>
+  <pagePrefix>H</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-04-17</granuleDate>
+  <time from="11:00:00" to="11:00:00"></time>
+  <bill congress="115" context="TITLE" number="2102" type="HR"></bill>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 2102 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 2102</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>TITLE</context>
+</extension>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-04-17-pt1-PgH2808-4" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2808-4/mods.xml">
+ <titleInfo>
+  <title>Constitutional Authority Statement for H.R. 2103</title>
+  <partName>House</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgH2808-4.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05de17c</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgH2808-4.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05de199</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. H2808</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2808-4</identifier>
+ <identifier type="former granule identifier">cr17ap17-27</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2808-4</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgH2808-4.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgH2808-4.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>H2808</start>
+   <end>H2808</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. H2808</identifier>
+ <extension>
+  <searchTitle>Constitutional Authority Statement for H.R. 2103; Congressional Record Vol. 163, No. 67</searchTitle>
+  <granuleClass>HOUSE</granuleClass>
+  <accessId>CREC-2017-04-17-pt1-PgH2808-4</accessId>
+  <subGranuleClass>CASTATEMENT</subGranuleClass>
+  <pagePrefix>H</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-04-17</granuleDate>
+  <time from="11:00:00" to="11:00:00"></time>
+  <bill congress="115" context="TITLE" number="2103" type="HR"></bill>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 2103 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 2103</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>TITLE</context>
+</extension>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-04-17-pt1-PgH2808-5" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2808-5/mods.xml">
+ <titleInfo>
+  <title>ADDITIONAL SPONSORS</title>
+  <partName>House</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgH2808-5.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05de168</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgH2808-5.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05de197</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. H2808</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2808-5</identifier>
+ <identifier type="former granule identifier">cr17ap17-28</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgH2808-5</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgH2808-5.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgH2808-5.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>H2808</start>
+   <end>H2808</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. H2808</identifier>
+ <extension>
+  <searchTitle>ADDITIONAL SPONSORS; Congressional Record Vol. 163, No. 67</searchTitle>
+  <granuleClass>HOUSE</granuleClass>
+  <accessId>CREC-2017-04-17-pt1-PgH2808-5</accessId>
+  <subGranuleClass>HADDSPONSORS</subGranuleClass>
+  <pagePrefix>H</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-04-17</granuleDate>
+  <time from="11:00:00" to="11:00:00"></time>
+  <bill congress="115" context="OTHER" number="36" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="37" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="51" type="HJRES"></bill>
+  <bill congress="115" context="OTHER" number="85" type="HJRES"></bill>
+  <bill congress="115" context="OTHER" number="95" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="113" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="128" type="HRES"></bill>
+  <bill congress="115" context="OTHER" number="218" type="HRES"></bill>
+  <bill congress="115" context="OTHER" number="305" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="676" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="741" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="828" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="849" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="873" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="931" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="1057" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="1098" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="1120" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="1268" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="1270" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="1318" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="1464" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="1478" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="1625" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="1661" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="1677" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="1698" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="1895" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="1987" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="2000" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="2001" type="HR"></bill>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 36 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 36</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 37 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 37</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Joint Resolution 51 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.J. Res. 51</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Joint Resolution 85 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.J. Res. 85</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 95 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 95</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 113 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 113</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Resolution 128 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H. Res. 128</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Resolution 218 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H. Res. 218</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 305 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 305</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 676 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 676</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 741 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 741</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 828 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 828</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 849 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 849</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 873 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 873</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 931 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 931</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 1057 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 1057</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 1098 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 1098</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 1120 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 1120</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 1268 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 1268</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 1270 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 1270</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 1318 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 1318</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 1464 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 1464</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 1478 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 1478</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 1625 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 1625</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 1661 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 1661</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 1677 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 1677</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 1698 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 1698</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 1895 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 1895</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 1987 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 1987</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 2000 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 2000</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 2001 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 2001</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-04-17-pt1-PgS-FrontMatter" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-04-17/CREC-2017-04-17-pt1-PgS-FrontMatter/mods.xml">
+ <titleInfo>
+  <title>CONGRESSIONAL RECORD</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgS-FrontMatter.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05de172</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgS-FrontMatter.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05de196</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S2469</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgS-FrontMatter</identifier>
+ <identifier type="former granule identifier">cr17ap17-29</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgS-FrontMatter</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgS-FrontMatter.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgS-FrontMatter.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S2469</start>
+   <end>S2469</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. S2469</identifier>
+ <extension>
+  <searchTitle>CONGRESSIONAL RECORD; Congressional Record Vol. 163, No. 67</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-04-17-pt1-PgS-FrontMatter</accessId>
+  <subGranuleClass>FRONTMATTER</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-04-17</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-04-17-pt1-PgS2469" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-04-17/CREC-2017-04-17-pt1-PgS2469/mods.xml">
+ <titleInfo>
+  <title>Senate</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgS2469.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05de178</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgS2469.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05de182</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S2469</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgS2469</identifier>
+ <identifier type="former granule identifier">cr17ap17-30</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgS2469</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgS2469.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgS2469.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S2469</start>
+   <end>S2469</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. S2469</identifier>
+ <extension>
+  <searchTitle>Senate; Congressional Record Vol. 163, No. 67</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-04-17-pt1-PgS2469</accessId>
+  <subGranuleClass>CALLTOORDER</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-04-17</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-04-17-pt1-PgS2469-2" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-04-17/CREC-2017-04-17-pt1-PgS2469-2/mods.xml">
+ <titleInfo>
+  <title>APPOINTMENT OF ACTING PRESIDENT PRO TEMPORE</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgS2469-2.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05de166</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgS2469-2.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05de1a0</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S2469</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgS2469-2</identifier>
+ <identifier type="former granule identifier">cr17ap17-31</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgS2469-2</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgS2469-2.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgS2469-2.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S2469</start>
+   <end>S2469</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. S2469</identifier>
+ <extension>
+  <searchTitle>APPOINTMENT OF ACTING PRESIDENT PRO TEMPORE; Congressional Record Vol. 163, No. 67</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-04-17-pt1-PgS2469-2</accessId>
+  <subGranuleClass>ALLOTHER</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-04-17</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-04-17-pt1-PgS2469-3" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-04-17/CREC-2017-04-17-pt1-PgS2469-3/mods.xml">
+ <titleInfo>
+  <title>ADJOURNMENT UNTIL THURSDAY, APRIL 20, 2017, AT 7:20 P.M.</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgS2469-3.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05de170</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgS2469-3.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05de1a3</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S2469</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgS2469-3</identifier>
+ <identifier type="former granule identifier">cr17ap17-32</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-04-17/CREC-2017-04-17-pt1-PgS2469-3</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/pdf/CREC-2017-04-17-pt1-PgS2469-3.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-04-17/html/CREC-2017-04-17-pt1-PgS2469-3.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S2469</start>
+   <end>S2469</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. S2469</identifier>
+ <extension>
+  <searchTitle>ADJOURNMENT UNTIL THURSDAY, APRIL 20, 2017, AT 7:20 P.M.; Congressional Record Vol. 163, No. 67</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-04-17-pt1-PgS2469-3</accessId>
+  <subGranuleClass>ADJOURNMENT</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-04-17</granuleDate>
+</extension>
+</relatedItem>
+</mods>

@@ -1,0 +1,3089 @@
+<mods xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" ID="P0b002ee196d17a5f">
+<name type="corporate">
+ <namePart>United States Government Publishing Office</namePart>
+ <role>
+  <roleTerm authority="marcrelator" type="text">publisher</roleTerm>
+  <roleTerm authority="marcrelator" type="code">pbl</roleTerm>
+</role>
+ <role>
+  <roleTerm authority="marcrelator" type="text">distributor</roleTerm>
+  <roleTerm authority="marcrelator" type="code">dst</roleTerm>
+</role>
+</name>
+<name type="corporate">
+ <namePart>United States</namePart>
+ <namePart>Congress</namePart>
+ <role>
+  <roleTerm authority="marcrelator" type="text">author</roleTerm>
+  <roleTerm authority="marcrelator" type="code">aut</roleTerm>
+</role>
+ <description>Government Organization</description>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">government publication</genre>
+<language>
+ <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</language>
+<extension>
+ <collectionCode>CREC</collectionCode>
+ <category>Proceedings of Congress and General Congressional Publications</category>
+ <waisDatabaseName>2017_record</waisDatabaseName>
+ <branch>legislative</branch>
+ <dateIngested>2017-09-02</dateIngested>
+</extension>
+<titleInfo>
+ <title>Congressional Record</title>
+ <partNumber>Vol. 163, no. 141</partNumber>
+</titleInfo>
+<location>
+ <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01</url>
+ <url displayLabel="PDF rendition" access="raw object">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01.pdf</url>
+</location>
+<part type="issue">
+ <extent unit="pages">
+  <start>H6631</start>
+  <end>H6632</end>
+</extent>
+ <extent unit="pages">
+  <start>S4915</start>
+  <end>S4915</end>
+</extent>
+ <extent unit="pages">
+  <start>E1151</start>
+  <end>E1154</end>
+</extent>
+ <extent unit="pages">
+  <start>D909</start>
+  <end>D910</end>
+</extent>
+</part>
+<originInfo>
+ <publisher>U.S. Government Publishing Office</publisher>
+ <dateIssued encoding="w3cdtf">2017-09-01</dateIssued>
+ <issuance>continuing</issuance>
+ <frequency authority="marcfrequency">daily</frequency>
+</originInfo>
+<physicalDescription>
+ <note type="source content type">deposited</note>
+ <digitalOrigin>born digital</digitalOrigin>
+ <extent>18 p.</extent>
+</physicalDescription>
+<classification authority="sudocs">X 1.1/A:</classification>
+<classification authority="sudocs">X/A.</classification>
+<identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01</identifier>
+<identifier type="local">P0b002ee196d17a5f</identifier>
+<identifier type="stock number">752-002-00000-2</identifier>
+<identifier type="ILS system id">000568013</identifier>
+<identifier type="former package identifier">cr01se17</identifier>
+<recordInfo>
+ <recordContentSource authority="marcorg">DGPO</recordContentSource>
+ <recordCreationDate encoding="w3cdtf">2017-09-02</recordCreationDate>
+ <recordChangeDate encoding="w3cdtf">2019-04-13</recordChangeDate>
+ <recordIdentifier source="DGPO">CREC-2017-09-01</recordIdentifier>
+ <recordOrigin>machine generated</recordOrigin>
+ <languageOfCataloging>
+  <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+</languageOfCataloging>
+</recordInfo>
+<accessCondition type="GPO scope determination">fdlp</accessCondition>
+<extension>
+ <docClass>CREC</docClass>
+ <accessId>CREC-2017-09-01</accessId>
+ <volume>163</volume>
+ <issue>141</issue>
+ <congress>115</congress>
+ <session>1</session>
+ <bookCount>1</bookCount>
+</extension>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgD909" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgD909/mods.xml">
+ <titleInfo>
+  <title>Daily Digest/Senate</title>
+  <partName>Daily Digest</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgD909.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cbd</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgD909.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4ce7</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. D909</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgD909</identifier>
+ <identifier type="former granule identifier">cr01se17-3</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgD909</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgD909.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgD909.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>D909</start>
+   <end>D909</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. D909</identifier>
+ <extension>
+  <searchTitle>Daily Digest/Senate; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>DAILYDIGEST</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgD909</accessId>
+  <subGranuleClass>DDSCHAMBER</subGranuleClass>
+  <pagePrefix>D</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgD909-2" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgD909-2/mods.xml">
+ <titleInfo>
+  <title>Daily Digest/Senate Committee Meetings</title>
+  <partName>Daily Digest</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgD909-2.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4c9b</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgD909-2.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cce</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. D909</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgD909-2</identifier>
+ <identifier type="former granule identifier">cr01se17-4</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgD909-2</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgD909-2.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgD909-2.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>D909</start>
+   <end>D909</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. D909</identifier>
+ <extension>
+  <searchTitle>Daily Digest/Senate Committee Meetings; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>DAILYDIGEST</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgD909-2</accessId>
+  <subGranuleClass>DDSCMEETINGS</subGranuleClass>
+  <pagePrefix>D</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgD909-3" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgD909-3/mods.xml">
+ <titleInfo>
+  <title>Daily Digest/House of Representatives</title>
+  <partName>Daily Digest</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgD909-3.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cba</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgD909-3.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cee</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. D909</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgD909-3</identifier>
+ <identifier type="former granule identifier">cr01se17-5</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgD909-3</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgD909-3.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgD909-3.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>D909</start>
+   <end>D909</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. D909</identifier>
+ <extension>
+  <searchTitle>Daily Digest/House of Representatives; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>DAILYDIGEST</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgD909-3</accessId>
+  <subGranuleClass>DDHCHAMBER</subGranuleClass>
+  <pagePrefix>D</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+  <congReport congress="115" context="OTHER" number="283" type="H"></congReport>
+  <congReport congress="115" context="OTHER" number="284" type="H"></congReport>
+  <congReport congress="115" context="OTHER" number="285" type="H"></congReport>
+  <bill congress="115" context="OTHER" number="69" type="HCONRES"></bill>
+  <bill congress="115" context="OTHER" number="3202" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="3284" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="3668" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="3671" type="HR"></bill>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Concurrent Resolution 69 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H. Con. Res. 69</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3202 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3202</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3284 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3284</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3668 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3668</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3671 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3671</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Report 283 (115th Congress)</title>
+</titleInfo>
+  <identifier type="congressional report citation">H. Rept. 115-283</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Report 284 (115th Congress)</title>
+</titleInfo>
+  <identifier type="congressional report citation">H. Rept. 115-284</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Report 285 (115th Congress)</title>
+</titleInfo>
+  <identifier type="congressional report citation">H. Rept. 115-285</identifier>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgD909-4" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgD909-4/mods.xml">
+ <titleInfo>
+  <title>Daily Digest/House Committee Meetings</title>
+  <partName>Daily Digest</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgD909-4.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4caa</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgD909-4.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cd0</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. D909</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgD909-4</identifier>
+ <identifier type="former granule identifier">cr01se17-6</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgD909-4</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgD909-4.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgD909-4.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>D909</start>
+   <end>D909</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. D909</identifier>
+ <extension>
+  <searchTitle>Daily Digest/House Committee Meetings; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>DAILYDIGEST</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgD909-4</accessId>
+  <subGranuleClass>DDHCMEETINGS</subGranuleClass>
+  <pagePrefix>D</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgD909-5" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgD909-5/mods.xml">
+ <titleInfo>
+  <title>Daily Digest/COMMITTEE MEETINGS FOR 2017-09-05</title>
+  <partName>Daily Digest</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgD909-5.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4c99</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgD909-5.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cf6</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. D909</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgD909-5</identifier>
+ <identifier type="former granule identifier">cr01se17-7</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgD909-5</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgD909-5.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgD909-5.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>D909</start>
+   <end>D909</end>
+</extent>
+</part>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>House of Representatives</namePart>
+  <namePart>Committee on Rules</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. D909</identifier>
+ <extension>
+  <searchTitle>Daily Digest/COMMITTEE MEETINGS FOR 2017-09-05; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>DAILYDIGEST</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgD909-5</accessId>
+  <subGranuleClass>DDCOMMITTEEMEETINGS</subGranuleClass>
+  <pagePrefix>D</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <granuleDate>2017-09-01</granuleDate>
+  <bill congress="115" context="OTHER" number="3354" type="HR"></bill>
+  <congCommittee authorityId="hsru00" chamber="H" congress="115" type="S">
+                           <name type="authority-standard">Committee on Rules</name>
+                           <name type="authority-short">Rules</name>
+                    </congCommittee>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3354 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3354</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgD909-6" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgD909-6/mods.xml">
+ <titleInfo>
+  <title>Daily Digest/Next Meeting of the SENATE + Next Meeting of the HOUSE OF REPRESENTATIVES + Other End Matter</title>
+  <partName>Daily Digest</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgD909-6.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4c98</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgD909-6.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4ccc</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. D909</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgD909-6</identifier>
+ <identifier type="former granule identifier">cr01se17-8</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgD909-6</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgD909-6.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgD909-6.htm</url>
+</location>
+ <physicalDescription>
+  <extent>2 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>D909</start>
+   <end>D910</end>
+</extent>
+</part>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart></namePart>
+  <namePart>Joint Committee on Printing</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. D909</identifier>
+ <extension>
+  <searchTitle>Daily Digest/Next Meeting of the SENATE + Next Meeting of the HOUSE OF REPRESENTATIVES + Other End Matter; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>DAILYDIGEST</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgD909-6</accessId>
+  <subGranuleClass>DDENDMATTER</subGranuleClass>
+  <pagePrefix>D</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+  <congCommittee authorityId="jspr00" chamber="J" congress="115" type="J">
+                           <name type="authority-standard">Joint Committee on Printing</name>
+                           <name type="authority-short">Joint Printing</name>
+                    </congCommittee>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgE1151-2" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1151-2/mods.xml">
+ <titleInfo>
+  <title>IN RECOGNITION OF THE SACRAMENTO JAPANESE AMERICAN CITIZENS LEAGUE SCHOLARSHIP AWARD RECIPIENTS</title>
+  <partName>Extensions of Remarks</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgE1151-2.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4861</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgE1151-2.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cec</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. E1151</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1151-2</identifier>
+ <identifier type="former granule identifier">cr01se17-12</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1151-2</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgE1151-2.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgE1151-2.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>E1151</start>
+   <end>E1151</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>Doris O. Matsui</namePart>
+  <affiliation>United States House of Representatives</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. E1151</identifier>
+ <extension>
+  <searchTitle>IN RECOGNITION OF THE SACRAMENTO JAPANESE AMERICAN CITIZENS LEAGUE SCHOLARSHIP AWARD RECIPIENTS; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>EXTENSIONS</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgE1151-2</accessId>
+  <subGranuleClass>RECOGNIZING</subGranuleClass>
+  <pagePrefix>E</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+  <congMember authorityId="1814" bioGuideId="M001163" chamber="H" congress="115" gpoId="7810" party="D" role="SPEAKING" state="CA">
+                           <name type="parsed">Ms. MATSUI</name>
+                           <name type="authority-fnf">Doris O. Matsui</name>
+                           <name type="authority-lnf">Matsui, Doris O.</name>
+                           <name type="authority-other">Ms. Doris Matsui</name>
+                    </congMember>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgE1151-3" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1151-3/mods.xml">
+ <titleInfo>
+  <title>IN HONOR OF SERGEANT ERIC SOSSOMAN&apos;S SERVICE TO OUR COMMUNITY WITH THE CABARRUS COUNTY SHERIFF&apos;S DEPARTMENT</title>
+  <partName>Extensions of Remarks</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgE1151-3.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4ca3</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgE1151-3.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cda</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. E1151</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1151-3</identifier>
+ <identifier type="former granule identifier">cr01se17-13</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1151-3</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgE1151-3.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgE1151-3.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>E1151</start>
+   <end>E1151</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>Richard Hudson</namePart>
+  <affiliation>United States House of Representatives</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. E1151</identifier>
+ <extension>
+  <searchTitle>IN HONOR OF SERGEANT ERIC SOSSOMAN&apos;S SERVICE TO OUR COMMUNITY WITH THE CABARRUS COUNTY SHERIFF&apos;S DEPARTMENT; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>EXTENSIONS</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgE1151-3</accessId>
+  <subGranuleClass>HONORING</subGranuleClass>
+  <pagePrefix>E</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+  <congMember authorityId="2140" bioGuideId="H001067" chamber="H" congress="115" party="R" role="SPEAKING" state="NC">
+                           <name type="parsed">Mr. HUDSON</name>
+                           <name type="authority-fnf">Richard Hudson</name>
+                           <name type="authority-lnf">Hudson, Richard</name>
+                    </congMember>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgE1151-4" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1151-4/mods.xml">
+ <titleInfo>
+  <title>HONORING THE 40TH ANNIVERSARY OF SERVICE BY REVEREND DR. AMOS C. BROWN</title>
+  <partName>Extensions of Remarks</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgE1151-4.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cac</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgE1151-4.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cf7</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. E1151</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1151-4</identifier>
+ <identifier type="former granule identifier">cr01se17-14</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1151-4</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgE1151-4.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgE1151-4.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>E1151</start>
+   <end>E1151</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>Nancy Pelosi</namePart>
+  <affiliation>United States House of Representatives</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. E1151</identifier>
+ <extension>
+  <searchTitle>HONORING THE 40TH ANNIVERSARY OF SERVICE BY REVEREND DR. AMOS C. BROWN; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>EXTENSIONS</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgE1151-4</accessId>
+  <subGranuleClass>HONORING</subGranuleClass>
+  <pagePrefix>E</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+  <congMember authorityId="905" bioGuideId="P000197" chamber="H" congress="115" gpoId="7813" party="D" role="SPEAKING" state="CA">
+                           <name type="parsed">Ms. PELOSI</name>
+                           <name type="authority-fnf">Nancy Pelosi</name>
+                           <name type="authority-lnf">Pelosi, Nancy</name>
+                    </congMember>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgE1151-5" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1151-5/mods.xml">
+ <titleInfo>
+  <title>HONORING THE CRANE FAMILY</title>
+  <partName>Extensions of Remarks</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgE1151-5.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cb9</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgE1151-5.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4ce9</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. E1151</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1151-5</identifier>
+ <identifier type="former granule identifier">cr01se17-15</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1151-5</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgE1151-5.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgE1151-5.htm</url>
+</location>
+ <physicalDescription>
+  <extent>2 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>E1151</start>
+   <end>E1152</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>Mike Thompson</namePart>
+  <affiliation>United States House of Representatives</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. E1151</identifier>
+ <extension>
+  <searchTitle>HONORING THE CRANE FAMILY; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>EXTENSIONS</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgE1151-5</accessId>
+  <subGranuleClass>HONORING</subGranuleClass>
+  <pagePrefix>E</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+  <congMember authorityId="1593" bioGuideId="T000460" chamber="H" congress="115" gpoId="7806" party="D" role="SPEAKING" state="CA">
+                           <name type="parsed">Mr. THOMPSON of California</name>
+                           <name type="authority-fnf">Mike Thompson</name>
+                           <name type="authority-lnf">Thompson, Mike</name>
+                    </congMember>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgE1152" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1152/mods.xml">
+ <titleInfo>
+  <title>EXPRESSING SOLIDARITY WITH THE PEOPLE OF TEXAS AFFECTED BY HURRICANE HARVEY</title>
+  <partName>Extensions of Remarks</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgE1152.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cbf</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgE1152.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4ce1</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. E1152</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1152</identifier>
+ <identifier type="former granule identifier">cr01se17-16</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1152</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgE1152.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgE1152.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>E1152</start>
+   <end>E1152</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>Sheila Jackson Lee</namePart>
+  <affiliation>United States House of Representatives</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. E1152</identifier>
+ <extension>
+  <searchTitle>EXPRESSING SOLIDARITY WITH THE PEOPLE OF TEXAS AFFECTED BY HURRICANE HARVEY; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>EXTENSIONS</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgE1152</accessId>
+  <subGranuleClass>ALLOTHER</subGranuleClass>
+  <pagePrefix>E</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+  <congMember authorityId="588" bioGuideId="J000032" chamber="H" congress="115" gpoId="8174" party="D" role="SPEAKING" state="TX">
+                           <name type="parsed">Ms. JACKSON LEE</name>
+                           <name type="authority-fnf">Sheila Jackson Lee</name>
+                           <name type="authority-lnf">Jackson Lee, Sheila</name>
+                    </congMember>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgE1152-2" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1152-2/mods.xml">
+ <titleInfo>
+  <title>HONORING MS. LEE PAULSEN</title>
+  <partName>Extensions of Remarks</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgE1152-2.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4c9a</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgE1152-2.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4ce6</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. E1152</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1152-2</identifier>
+ <identifier type="former granule identifier">cr01se17-17</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1152-2</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgE1152-2.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgE1152-2.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>E1152</start>
+   <end>E1152</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>Elizabeth H. Esty</namePart>
+  <affiliation>United States House of Representatives</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. E1152</identifier>
+ <extension>
+  <searchTitle>HONORING MS. LEE PAULSEN; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>EXTENSIONS</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgE1152-2</accessId>
+  <subGranuleClass>HONORING</subGranuleClass>
+  <pagePrefix>E</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+  <congMember authorityId="2114" bioGuideId="E000293" chamber="H" congress="115" party="D" role="SPEAKING" state="CT">
+                           <name type="parsed">Ms. ESTY of Connecticut</name>
+                           <name type="authority-fnf">Elizabeth H. Esty</name>
+                           <name type="authority-lnf">Esty, Elizabeth H.</name>
+                           <name type="authority-other">Ms. Elizabeth Esty</name>
+                    </congMember>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgE1152-3" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1152-3/mods.xml">
+ <titleInfo>
+  <title>L. RAFAEL REIF AND THE DEFERRED ACTION FOR CHILDHOOD ARRIVALS PROGRAM</title>
+  <partName>Extensions of Remarks</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgE1152-3.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cbb</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgE1152-3.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cf1</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. E1152</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1152-3</identifier>
+ <identifier type="former granule identifier">cr01se17-18</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1152-3</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgE1152-3.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgE1152-3.htm</url>
+</location>
+ <physicalDescription>
+  <extent>2 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>E1152</start>
+   <end>E1153</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>Michael E. Capuano</namePart>
+  <affiliation>United States House of Representatives</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. E1152</identifier>
+ <extension>
+  <searchTitle>L. RAFAEL REIF AND THE DEFERRED ACTION FOR CHILDHOOD ARRIVALS PROGRAM; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>EXTENSIONS</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgE1152-3</accessId>
+  <subGranuleClass>ALLOTHER</subGranuleClass>
+  <pagePrefix>E</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+  <congMember authorityId="1564" bioGuideId="C001037" chamber="H" congress="115" gpoId="7973" party="D" role="SPEAKING" state="MA">
+                           <name type="parsed">Mr. CAPUANO</name>
+                           <name type="authority-fnf">Michael E. Capuano</name>
+                           <name type="authority-lnf">Capuano, Michael E.</name>
+                           <name type="authority-other">Michael Capuano</name>
+                    </congMember>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgE1153" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1153/mods.xml">
+ <titleInfo>
+  <title>IN RECOGNITION OF THE 75TH ANNIVERSARY OF MARINES LANDING AT GUADALCANAL</title>
+  <partName>Extensions of Remarks</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgE1153.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cae</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgE1153.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cc1</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. E1153</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1153</identifier>
+ <identifier type="former granule identifier">cr01se17-19</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1153</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgE1153.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgE1153.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>E1153</start>
+   <end>E1153</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>Doris O. Matsui</namePart>
+  <affiliation>United States House of Representatives</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. E1153</identifier>
+ <extension>
+  <searchTitle>IN RECOGNITION OF THE 75TH ANNIVERSARY OF MARINES LANDING AT GUADALCANAL; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>EXTENSIONS</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgE1153</accessId>
+  <subGranuleClass>RECOGNIZING</subGranuleClass>
+  <pagePrefix>E</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+  <congMember authorityId="1814" bioGuideId="M001163" chamber="H" congress="115" gpoId="7810" party="D" role="SPEAKING" state="CA">
+                           <name type="parsed">Ms. MATSUI</name>
+                           <name type="authority-fnf">Doris O. Matsui</name>
+                           <name type="authority-lnf">Matsui, Doris O.</name>
+                           <name type="authority-other">Ms. Doris Matsui</name>
+                    </congMember>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgE1153-2" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1153-2/mods.xml">
+ <titleInfo>
+  <title>HONORING SOPHIA BOQUIST</title>
+  <partName>Extensions of Remarks</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgE1153-2.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4c9d</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgE1153-2.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cf0</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. E1153</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1153-2</identifier>
+ <identifier type="former granule identifier">cr01se17-20</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1153-2</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgE1153-2.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgE1153-2.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>E1153</start>
+   <end>E1153</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>Brian K. Fitzpatrick</namePart>
+  <affiliation>United States House of Representatives</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. E1153</identifier>
+ <extension>
+  <searchTitle>HONORING SOPHIA BOQUIST; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>EXTENSIONS</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgE1153-2</accessId>
+  <subGranuleClass>HONORING</subGranuleClass>
+  <pagePrefix>E</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+  <congMember authorityId="2345" bioGuideId="F000466" chamber="H" congress="115" party="R" role="SPEAKING" state="PA">
+                           <name type="parsed">Mr. FITZPATRICK</name>
+                           <name type="authority-fnf">Brian K. Fitzpatrick</name>
+                           <name type="authority-lnf">Fitzpatrick, Brian K.</name>
+                           <name type="authority-other">Mr. Brian Fitzpatrick</name>
+                    </congMember>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgE1153-3" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1153-3/mods.xml">
+ <titleInfo>
+  <title>IN SUPPORT OF H. RES. 274</title>
+  <partName>Extensions of Remarks</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgE1153-3.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4c95</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgE1153-3.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4ccf</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. E1153</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1153-3</identifier>
+ <identifier type="former granule identifier">cr01se17-21</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1153-3</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgE1153-3.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgE1153-3.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>E1153</start>
+   <end>E1153</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>Ted Lieu</namePart>
+  <affiliation>United States House of Representatives</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. E1153</identifier>
+ <extension>
+  <searchTitle>IN SUPPORT OF H. RES. 274; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>EXTENSIONS</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgE1153-3</accessId>
+  <subGranuleClass>ALLOTHER</subGranuleClass>
+  <pagePrefix>E</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+  <bill congress="115" context="TITLE" number="274" type="HRES"></bill>
+  <bill congress="115" context="OTHER" number="274" type="HRES"></bill>
+  <congMember authorityId="2230" bioGuideId="L000582" chamber="H" congress="115" party="D" role="SPEAKING" state="CA">
+                           <name type="parsed">Mr. TED LIEU of California</name>
+                           <name type="authority-fnf">Ted Lieu</name>
+                           <name type="authority-lnf">Lieu, Ted</name>
+                    </congMember>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Resolution 274 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H. Res. 274</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>TITLE</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Resolution 274 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H. Res. 274</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgE1153-4" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1153-4/mods.xml">
+ <titleInfo>
+  <title>REMEMBERING JOSEPH CALABRIA</title>
+  <partName>Extensions of Remarks</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgE1153-4.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cbc</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgE1153-4.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cea</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. E1153</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1153-4</identifier>
+ <identifier type="former granule identifier">cr01se17-22</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1153-4</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgE1153-4.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgE1153-4.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>E1153</start>
+   <end>E1153</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>Daniel M. Donovan, Jr.</namePart>
+  <affiliation>United States House of Representatives</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. E1153</identifier>
+ <extension>
+  <searchTitle>REMEMBERING JOSEPH CALABRIA; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>EXTENSIONS</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgE1153-4</accessId>
+  <subGranuleClass>ALLOTHER</subGranuleClass>
+  <pagePrefix>E</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+  <congMember authorityId="2293" bioGuideId="D000625" chamber="H" congress="115" party="R" role="SPEAKING" state="NY">
+                           <name type="parsed">Mr. DONOVAN</name>
+                           <name type="authority-fnf">Daniel M. Donovan, Jr.</name>
+                           <name type="authority-lnf">Donovan, Daniel M., Jr.</name>
+                           <name type="authority-other">Mr. Daniel Donovan Jr.</name>
+                    </congMember>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgE1153-5" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1153-5/mods.xml">
+ <titleInfo>
+  <title>CONGRATULATING THE JEFFERSON CITY JAYS&apos; BASEBALL TEAM</title>
+  <partName>Extensions of Remarks</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgE1153-5.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cb8</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgE1153-5.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4ce0</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. E1153</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1153-5</identifier>
+ <identifier type="former granule identifier">cr01se17-23</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1153-5</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgE1153-5.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgE1153-5.htm</url>
+</location>
+ <physicalDescription>
+  <extent>2 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>E1153</start>
+   <end>E1154</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>Blaine Luetkemeyer</namePart>
+  <affiliation>United States House of Representatives</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. E1153</identifier>
+ <extension>
+  <searchTitle>CONGRATULATING THE JEFFERSON CITY JAYS&apos; BASEBALL TEAM; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>EXTENSIONS</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgE1153-5</accessId>
+  <subGranuleClass>CONGRATULATIONS</subGranuleClass>
+  <pagePrefix>E</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+  <congMember authorityId="1931" bioGuideId="L000569" chamber="H" congress="115" gpoId="8017" party="R" role="SPEAKING" state="MO">
+                           <name type="parsed">Mr. LUETKEMEYER</name>
+                           <name type="authority-fnf">Blaine Luetkemeyer</name>
+                           <name type="authority-lnf">Luetkemeyer, Blaine</name>
+                    </congMember>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgE1154" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1154/mods.xml">
+ <titleInfo>
+  <title>RECOGNIZING WHITE OAKS MALL&apos;S 40TH ANNIVERSARY</title>
+  <partName>Extensions of Remarks</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgE1154.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4c9c</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgE1154.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cef</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. E1154</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1154</identifier>
+ <identifier type="former granule identifier">cr01se17-24</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1154</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgE1154.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgE1154.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>E1154</start>
+   <end>E1154</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>Darin LaHood</namePart>
+  <affiliation>United States House of Representatives</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. E1154</identifier>
+ <extension>
+  <searchTitle>RECOGNIZING WHITE OAKS MALL&apos;S 40TH ANNIVERSARY; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>EXTENSIONS</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgE1154</accessId>
+  <subGranuleClass>RECOGNIZING</subGranuleClass>
+  <pagePrefix>E</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+  <congMember authorityId="2295" bioGuideId="L000585" chamber="H" congress="115" party="R" role="SPEAKING" state="IL">
+                           <name type="parsed">Mr. LaHOOD</name>
+                           <name type="authority-fnf">Darin LaHood</name>
+                           <name type="authority-lnf">LaHood, Darin</name>
+                    </congMember>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgE1154-2" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1154-2/mods.xml">
+ <titleInfo>
+  <title>RECOGNIZING THE CONTRIBUTIONS OF THE NATIONAL SOCIETY DAUGHTERS OF THE AMERICAN REVOLUTION, SARAH BARTON MURPHY CHAPTER</title>
+  <partName>Extensions of Remarks</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgE1154-2.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4ca9</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgE1154-2.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4ce4</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. E1154</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1154-2</identifier>
+ <identifier type="former granule identifier">cr01se17-25</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1154-2</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgE1154-2.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgE1154-2.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>E1154</start>
+   <end>E1154</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>Jason Smith</namePart>
+  <affiliation>United States House of Representatives</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. E1154</identifier>
+ <extension>
+  <searchTitle>RECOGNIZING THE CONTRIBUTIONS OF THE NATIONAL SOCIETY DAUGHTERS OF THE AMERICAN REVOLUTION, SARAH BARTON MURPHY CHAPTER; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>EXTENSIONS</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgE1154-2</accessId>
+  <subGranuleClass>RECOGNIZING</subGranuleClass>
+  <pagePrefix>E</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+  <congMember authorityId="2191" bioGuideId="S001195" chamber="H" congress="115" party="R" role="SPEAKING" state="MO">
+                           <name type="parsed">Mr. SMITH of Missouri</name>
+                           <name type="authority-fnf">Jason Smith</name>
+                           <name type="authority-lnf">Smith, Jason</name>
+                    </congMember>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgE1154-3" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1154-3/mods.xml">
+ <titleInfo>
+  <title>IN RECOGNITION OF MARJORIE BENBOW AND HER APPOINTMENT TO THE NORTH CAROLINA STATE BOARD OF COMMUNITY COLLEGES</title>
+  <partName>Extensions of Remarks</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgE1154-3.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4c9f</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgE1154-3.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cf8</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. E1154</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1154-3</identifier>
+ <identifier type="former granule identifier">cr01se17-26</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1154-3</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgE1154-3.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgE1154-3.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>E1154</start>
+   <end>E1154</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>Richard Hudson</namePart>
+  <affiliation>United States House of Representatives</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. E1154</identifier>
+ <extension>
+  <searchTitle>IN RECOGNITION OF MARJORIE BENBOW AND HER APPOINTMENT TO THE NORTH CAROLINA STATE BOARD OF COMMUNITY COLLEGES; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>EXTENSIONS</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgE1154-3</accessId>
+  <subGranuleClass>RECOGNIZING</subGranuleClass>
+  <pagePrefix>E</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+  <congMember authorityId="2140" bioGuideId="H001067" chamber="H" congress="115" party="R" role="SPEAKING" state="NC">
+                           <name type="parsed">Mr. HUDSON</name>
+                           <name type="authority-fnf">Richard Hudson</name>
+                           <name type="authority-lnf">Hudson, Richard</name>
+                    </congMember>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgE1154-4" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1154-4/mods.xml">
+ <titleInfo>
+  <title>REMEMBERING MR. MARIO GUTIERREZ</title>
+  <partName>Extensions of Remarks</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgE1154-4.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4c92</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgE1154-4.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4ce8</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. E1154</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1154-4</identifier>
+ <identifier type="former granule identifier">cr01se17-27</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgE1154-4</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgE1154-4.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgE1154-4.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>E1154</start>
+   <end>E1154</end>
+</extent>
+</part>
+ <name type="personal">
+  <namePart>Doris O. Matsui</namePart>
+  <affiliation>United States House of Representatives</affiliation>
+  <role>
+   <roleTerm type="text">speaking</roleTerm>
+</role>
+  <description>United States Congress Member</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. E1154</identifier>
+ <extension>
+  <searchTitle>REMEMBERING MR. MARIO GUTIERREZ; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>EXTENSIONS</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgE1154-4</accessId>
+  <subGranuleClass>ALLOTHER</subGranuleClass>
+  <pagePrefix>E</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+  <congMember authorityId="1814" bioGuideId="M001163" chamber="H" congress="115" gpoId="7810" party="D" role="SPEAKING" state="CA">
+                           <name type="parsed">Ms. MATSUI</name>
+                           <name type="authority-fnf">Doris O. Matsui</name>
+                           <name type="authority-lnf">Matsui, Doris O.</name>
+                           <name type="authority-other">Ms. Doris Matsui</name>
+                    </congMember>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgH-FrontMatter" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH-FrontMatter/mods.xml">
+ <titleInfo>
+  <title>CONGRESSIONAL RECORD</title>
+  <partName>House</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgH-FrontMatter.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4ca0</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgH-FrontMatter.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4ccb</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. H6631</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH-FrontMatter</identifier>
+ <identifier type="former granule identifier">cr01se17-28</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH-FrontMatter</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgH-FrontMatter.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgH-FrontMatter.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>H6631</start>
+   <end>H6631</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. H6631</identifier>
+ <extension>
+  <searchTitle>CONGRESSIONAL RECORD; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>HOUSE</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgH-FrontMatter</accessId>
+  <subGranuleClass>FRONTMATTER</subGranuleClass>
+  <pagePrefix>H</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgH6631" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6631/mods.xml">
+ <titleInfo>
+  <title>House of Representatives</title>
+  <partName>House</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgH6631.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4c96</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgH6631.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cdf</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. H6631</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6631</identifier>
+ <identifier type="former granule identifier">cr01se17-29</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6631</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgH6631.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgH6631.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>H6631</start>
+   <end>H6631</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. H6631</identifier>
+ <extension>
+  <searchTitle>House of Representatives; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>HOUSE</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgH6631</accessId>
+  <subGranuleClass>CALLTOORDER</subGranuleClass>
+  <pagePrefix>H</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+  <time from="13:00:00" to="13:00:00"></time>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgH6631-2" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6631-2/mods.xml">
+ <titleInfo>
+  <title>DESIGNATION OF THE SPEAKER PRO TEMPORE</title>
+  <partName>House</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgH6631-2.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4c91</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgH6631-2.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cc9</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. H6631</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6631-2</identifier>
+ <identifier type="former granule identifier">cr01se17-30</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6631-2</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgH6631-2.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgH6631-2.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>H6631</start>
+   <end>H6631</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. H6631</identifier>
+ <extension>
+  <searchTitle>DESIGNATION OF THE SPEAKER PRO TEMPORE; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>HOUSE</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgH6631-2</accessId>
+  <subGranuleClass>HDESIGNATION</subGranuleClass>
+  <pagePrefix>H</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+  <time from="13:00:00" to="13:00:00"></time>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgH6631-3" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6631-3/mods.xml">
+ <titleInfo>
+  <title>PRAYER</title>
+  <partName>House</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgH6631-3.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4c94</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgH6631-3.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4ce3</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. H6631</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6631-3</identifier>
+ <identifier type="former granule identifier">cr01se17-31</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6631-3</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgH6631-3.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgH6631-3.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>H6631</start>
+   <end>H6631</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. H6631</identifier>
+ <extension>
+  <searchTitle>PRAYER; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>HOUSE</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgH6631-3</accessId>
+  <subGranuleClass>PRAYER</subGranuleClass>
+  <pagePrefix>H</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+  <time from="13:00:00" to="13:00:00"></time>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgH6631-4" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6631-4/mods.xml">
+ <titleInfo>
+  <title>THE JOURNAL</title>
+  <partName>House</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgH6631-4.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4caf</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgH6631-4.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cdd</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. H6631</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6631-4</identifier>
+ <identifier type="former granule identifier">cr01se17-32</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6631-4</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgH6631-4.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgH6631-4.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>H6631</start>
+   <end>H6631</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. H6631</identifier>
+ <extension>
+  <searchTitle>THE JOURNAL; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>HOUSE</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgH6631-4</accessId>
+  <subGranuleClass>HJOURNAL</subGranuleClass>
+  <pagePrefix>H</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+  <time from="13:00:00" to="13:00:00"></time>
+  <bill congress="115" context="FIRSTPARAGRAPH" number="481" type="HRES"></bill>
+  <bill congress="115" context="OTHER" number="481" type="HRES"></bill>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Resolution 481 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H. Res. 481</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Resolution 481 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H. Res. 481</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgH6631-5" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6631-5/mods.xml">
+ <titleInfo>
+  <title>PLEDGE OF ALLEGIANCE</title>
+  <partName>House</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgH6631-5.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4862</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgH6631-5.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cde</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. H6631</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6631-5</identifier>
+ <identifier type="former granule identifier">cr01se17-33</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6631-5</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgH6631-5.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgH6631-5.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>H6631</start>
+   <end>H6631</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. H6631</identifier>
+ <extension>
+  <searchTitle>PLEDGE OF ALLEGIANCE; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>HOUSE</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgH6631-5</accessId>
+  <subGranuleClass>PLEDGE</subGranuleClass>
+  <pagePrefix>H</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+  <time from="13:00:00" to="13:00:00"></time>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgH6631-6" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6631-6/mods.xml">
+ <titleInfo>
+  <title>ADJOURNMENT</title>
+  <partName>House</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgH6631-6.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cab</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgH6631-6.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cf2</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. H6631</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6631-6</identifier>
+ <identifier type="former granule identifier">cr01se17-34</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6631-6</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgH6631-6.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgH6631-6.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>H6631</start>
+   <end>H6631</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. H6631</identifier>
+ <extension>
+  <searchTitle>ADJOURNMENT; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>HOUSE</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgH6631-6</accessId>
+  <subGranuleClass>ADJOURNMENT</subGranuleClass>
+  <pagePrefix>H</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+  <time from="13:00:00" to="13:00:00"></time>
+  <bill congress="115" context="FIRSTPARAGRAPH" number="481" type="HRES"></bill>
+  <bill congress="115" context="OTHER" number="481" type="HRES"></bill>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Resolution 481 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H. Res. 481</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>FIRSTPARAGRAPH</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Resolution 481 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H. Res. 481</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgH6631-7" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6631-7/mods.xml">
+ <titleInfo>
+  <title>EXECUTIVE COMMUNICATIONS, ETC.</title>
+  <partName>House</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgH6631-7.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4ca4</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgH6631-7.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cf5</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. H6631</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6631-7</identifier>
+ <identifier type="former granule identifier">cr01se17-35</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6631-7</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgH6631-7.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgH6631-7.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>H6631</start>
+   <end>H6631</end>
+</extent>
+</part>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>House of Representatives</namePart>
+  <namePart>Committee on Armed Services</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>House of Representatives</namePart>
+  <namePart>Committee on Foreign Affairs</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>House of Representatives</namePart>
+  <namePart>Committee on Oversight and Government Reform</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. H6631</identifier>
+ <extension>
+  <searchTitle>EXECUTIVE COMMUNICATIONS, ETC.; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>HOUSE</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgH6631-7</accessId>
+  <subGranuleClass>EXECUTIVECOMM</subGranuleClass>
+  <pagePrefix>H</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+  <time from="13:00:00" to="13:00:00"></time>
+  <congCommittee authorityId="hsas00" chamber="H" congress="115" type="S">
+                           <name type="authority-standard">Committee on Armed Services</name>
+                           <name type="authority-short">Armed Services</name>
+                    </congCommittee>
+  <congCommittee authorityId="hsfa00" chamber="H" congress="115" type="S">
+                           <name type="authority-standard">Committee on Foreign Affairs</name>
+                           <name type="authority-short">Foreign Affairs</name>
+                    </congCommittee>
+  <congCommittee authorityId="hsgo00" chamber="H" congress="115" type="S">
+                           <name type="authority-standard">Committee on Oversight and Government Reform</name>
+                           <name type="authority-short">Oversight and Government Reform</name>
+                    </congCommittee>
+  <law congress="89" isPrivate="false" number="554"></law>
+  <law congress="94" isPrivate="false" number="412"></law>
+  <law congress="95" isPrivate="false" number="223"></law>
+  <law congress="96" isPrivate="false" number="342"></law>
+  <law congress="101" isPrivate="false" number="509"></law>
+  <USCode title="5">
+                           <section detail="(b)(1)(A)" number="5303"></section>
+                           <section detail="(a)" number="5304a"></section>
+                    </USCode>
+  <USCode title="37">
+                           <section detail="(e)(1)" number="1009"></section>
+                    </USCode>
+  <USCode title="50">
+                           <section detail="(c)" number="1641"></section>
+                           <section detail="(c)" number="1703"></section>
+                    </USCode>
+  <statuteAtLarge volume="90">
+                           <pages pages="1257"></pages>
+                    </statuteAtLarge>
+  <statuteAtLarge volume="91">
+                           <pages pages="1627"></pages>
+                    </statuteAtLarge>
+  <statuteAtLarge volume="94">
+                           <pages pages="1091"></pages>
+                    </statuteAtLarge>
+  <statuteAtLarge volume="104">
+                           <pages pages="1436"></pages>
+                    </statuteAtLarge>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Code</title>
+   <partNumber>Title 5 Section 5303(b)(1)(A)</partNumber>
+   <partNumber>Title 5 Section 5304a(a)</partNumber>
+</titleInfo>
+  <identifier type="USC citation">5 U.S.C. 5303(b)(1)(A)</identifier>
+  <identifier type="USC citation">5 U.S.C. 5304a(a)</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Code</title>
+   <partNumber>Title 37 Section 1009(e)(1)</partNumber>
+</titleInfo>
+  <identifier type="USC citation">37 U.S.C. 1009(e)(1)</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Code</title>
+   <partNumber>Title 50 Section 1641(c)</partNumber>
+   <partNumber>Title 50 Section 1703(c)</partNumber>
+</titleInfo>
+  <identifier type="USC citation">50 U.S.C. 1641(c)</identifier>
+  <identifier type="USC citation">50 U.S.C. 1703(c)</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Statutes at Large</title>
+   <partNumber>Volume 90 Page 1257</partNumber>
+</titleInfo>
+  <identifier type="Statute citation">90 Stat. 1257</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Statutes at Large</title>
+   <partNumber>Volume 91 Page 1627</partNumber>
+</titleInfo>
+  <identifier type="Statute citation">91 Stat. 1627</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Statutes at Large</title>
+   <partNumber>Volume 94 Page 1091</partNumber>
+</titleInfo>
+  <identifier type="Statute citation">94 Stat. 1091</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Statutes at Large</title>
+   <partNumber>Volume 104 Page 1436</partNumber>
+</titleInfo>
+  <identifier type="Statute citation">104 Stat. 1436</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Public Law 554 (89th Congress)</title>
+</titleInfo>
+  <identifier type="public law citation">Public Law 89-554</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Public Law 412 (94th Congress)</title>
+</titleInfo>
+  <identifier type="public law citation">Public Law 94-412</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Public Law 223 (95th Congress)</title>
+</titleInfo>
+  <identifier type="public law citation">Public Law 95-223</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Public Law 342 (96th Congress)</title>
+</titleInfo>
+  <identifier type="public law citation">Public Law 96-342</identifier>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States Public Law 509 (101st Congress)</title>
+</titleInfo>
+  <identifier type="public law citation">Public Law 101-509</identifier>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgH6631-8" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6631-8/mods.xml">
+ <titleInfo>
+  <title>REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS</title>
+  <partName>House</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgH6631-8.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4ca2</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgH6631-8.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4ceb</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. H6631</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6631-8</identifier>
+ <identifier type="former granule identifier">cr01se17-36</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6631-8</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgH6631-8.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgH6631-8.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>H6631</start>
+   <end>H6631</end>
+</extent>
+</part>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>House of Representatives</namePart>
+  <namePart>Committee on Homeland Security</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>House of Representatives</namePart>
+  <namePart>Committee on Transportation and Infrastructure</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. H6631</identifier>
+ <extension>
+  <searchTitle>REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>HOUSE</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgH6631-8</accessId>
+  <subGranuleClass>HPUBCOMMREPORT</subGranuleClass>
+  <pagePrefix>H</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+  <time from="13:00:00" to="13:00:00"></time>
+  <bill congress="115" context="OTHER" number="69" type="HCONRES"></bill>
+  <bill congress="115" context="OTHER" number="3202" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="3284" type="HR"></bill>
+  <congCommittee authorityId="hshm00" chamber="H" congress="115" type="S">
+                           <name type="authority-standard">Committee on Homeland Security</name>
+                           <name type="authority-short">Homeland Security</name>
+                    </congCommittee>
+  <congCommittee authorityId="hspw00" chamber="H" congress="115" type="S">
+                           <name type="authority-standard">Committee on Transportation and Infrastructure</name>
+                           <name type="authority-short">Transportation and Infrastructure</name>
+                    </congCommittee>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Concurrent Resolution 69 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H. Con. Res. 69</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3202 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3202</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3284 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3284</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgH6631-9" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6631-9/mods.xml">
+ <titleInfo>
+  <title>PUBLIC BILLS AND RESOLUTIONS</title>
+  <partName>House</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgH6631-9.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4860</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgH6631-9.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cca</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. H6631</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6631-9</identifier>
+ <identifier type="former granule identifier">cr01se17-37</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6631-9</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgH6631-9.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgH6631-9.htm</url>
+</location>
+ <physicalDescription>
+  <extent>2 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>H6631</start>
+   <end>H6632</end>
+</extent>
+</part>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>House of Representatives</namePart>
+  <namePart>Committee on Natural Resources</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>House of Representatives</namePart>
+  <namePart>Committee on Homeland Security</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>House of Representatives</namePart>
+  <namePart>Committee on Ways and Means</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>House of Representatives</namePart>
+  <namePart>Committee on Energy and Commerce</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <name type="corporate">
+  <namePart>United States</namePart>
+  <namePart>Congress</namePart>
+  <namePart>House of Representatives</namePart>
+  <namePart>Committee on Oversight and Government Reform</namePart>
+  <role>
+   <roleTerm authority="marcrelator" type="text">associated name</roleTerm>
+   <roleTerm authority="marcrelator" type="code">asn</roleTerm>
+</role>
+  <description>Government Organization</description>
+</name>
+ <identifier type="preferred citation">163 Cong. Rec. H6631</identifier>
+ <extension>
+  <searchTitle>PUBLIC BILLS AND RESOLUTIONS; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>HOUSE</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgH6631-9</accessId>
+  <subGranuleClass>HPUBBILLS</subGranuleClass>
+  <pagePrefix>H</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+  <time from="13:00:00" to="13:00:00"></time>
+  <bill congress="115" context="OTHER" number="499" type="HRES"></bill>
+  <bill congress="115" context="OTHER" number="3668" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="3669" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="3670" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="3671" type="HR"></bill>
+  <congCommittee authorityId="hsii00" chamber="H" congress="115" type="S">
+                           <name type="authority-standard">Committee on Natural Resources</name>
+                           <name type="authority-short">Natural Resources</name>
+                    </congCommittee>
+  <congCommittee authorityId="hshm00" chamber="H" congress="115" type="S">
+                           <name type="authority-standard">Committee on Homeland Security</name>
+                           <name type="authority-short">Homeland Security</name>
+                    </congCommittee>
+  <congCommittee authorityId="hswm00" chamber="H" congress="115" type="S">
+                           <name type="authority-standard">Committee on Ways and Means</name>
+                           <name type="authority-short">Ways and Means</name>
+                    </congCommittee>
+  <congCommittee authorityId="hsif00" chamber="H" congress="115" type="S">
+                           <name type="authority-standard">Committee on Energy and Commerce</name>
+                           <name type="authority-short">Energy and Commerce</name>
+                    </congCommittee>
+  <congCommittee authorityId="hsgo00" chamber="H" congress="115" type="S">
+                           <name type="authority-standard">Committee on Oversight and Government Reform</name>
+                           <name type="authority-short">Oversight and Government Reform</name>
+                    </congCommittee>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Resolution 499 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H. Res. 499</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3668 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3668</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3669 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3669</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3670 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3670</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3671 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3671</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgH6632" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6632/mods.xml">
+ <titleInfo>
+  <title>Constitutional Authority Statement</title>
+  <partName>House</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgH6632.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4ca6</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgH6632.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cc8</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. H6632</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6632</identifier>
+ <identifier type="former granule identifier">cr01se17-38</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6632</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgH6632.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgH6632.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>H6632</start>
+   <end>H6632</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. H6632</identifier>
+ <extension>
+  <searchTitle>Constitutional Authority Statement; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>HOUSE</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgH6632</accessId>
+  <subGranuleClass>CASTATEMENT</subGranuleClass>
+  <pagePrefix>H</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+  <time from="13:00:00" to="13:00:00"></time>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgH6632-2" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6632-2/mods.xml">
+ <titleInfo>
+  <title>Constitutional Authority Statement for H.R. 3668</title>
+  <partName>House</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgH6632-2.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cbe</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgH6632-2.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cdb</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. H6632</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6632-2</identifier>
+ <identifier type="former granule identifier">cr01se17-39</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6632-2</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgH6632-2.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgH6632-2.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>H6632</start>
+   <end>H6632</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. H6632</identifier>
+ <extension>
+  <searchTitle>Constitutional Authority Statement for H.R. 3668; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>HOUSE</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgH6632-2</accessId>
+  <subGranuleClass>CASTATEMENT</subGranuleClass>
+  <pagePrefix>H</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+  <time from="13:00:00" to="13:00:00"></time>
+  <bill congress="115" context="TITLE" number="3668" type="HR"></bill>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3668 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3668</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>TITLE</context>
+</extension>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgH6632-3" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6632-3/mods.xml">
+ <titleInfo>
+  <title>Constitutional Authority Statement for H.R. 3669</title>
+  <partName>House</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgH6632-3.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4c9e</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgH6632-3.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cdc</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. H6632</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6632-3</identifier>
+ <identifier type="former granule identifier">cr01se17-40</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6632-3</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgH6632-3.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgH6632-3.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>H6632</start>
+   <end>H6632</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. H6632</identifier>
+ <extension>
+  <searchTitle>Constitutional Authority Statement for H.R. 3669; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>HOUSE</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgH6632-3</accessId>
+  <subGranuleClass>CASTATEMENT</subGranuleClass>
+  <pagePrefix>H</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+  <time from="13:00:00" to="13:00:00"></time>
+  <bill congress="115" context="TITLE" number="3669" type="HR"></bill>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3669 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3669</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>TITLE</context>
+</extension>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgH6632-4" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6632-4/mods.xml">
+ <titleInfo>
+  <title>Constitutional Authority Statement for H.R. 3670</title>
+  <partName>House</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgH6632-4.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4c97</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgH6632-4.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4ced</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. H6632</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6632-4</identifier>
+ <identifier type="former granule identifier">cr01se17-41</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6632-4</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgH6632-4.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgH6632-4.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>H6632</start>
+   <end>H6632</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. H6632</identifier>
+ <extension>
+  <searchTitle>Constitutional Authority Statement for H.R. 3670; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>HOUSE</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgH6632-4</accessId>
+  <subGranuleClass>CASTATEMENT</subGranuleClass>
+  <pagePrefix>H</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+  <time from="13:00:00" to="13:00:00"></time>
+  <bill congress="115" context="TITLE" number="3670" type="HR"></bill>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3670 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3670</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>TITLE</context>
+</extension>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgH6632-5" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6632-5/mods.xml">
+ <titleInfo>
+  <title>Constitutional Authority Statement for H.R. 3671</title>
+  <partName>House</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgH6632-5.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d485f</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgH6632-5.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4ce5</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. H6632</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6632-5</identifier>
+ <identifier type="former granule identifier">cr01se17-42</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6632-5</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgH6632-5.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgH6632-5.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>H6632</start>
+   <end>H6632</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. H6632</identifier>
+ <extension>
+  <searchTitle>Constitutional Authority Statement for H.R. 3671; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>HOUSE</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgH6632-5</accessId>
+  <subGranuleClass>CASTATEMENT</subGranuleClass>
+  <pagePrefix>H</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+  <time from="13:00:00" to="13:00:00"></time>
+  <bill congress="115" context="TITLE" number="3671" type="HR"></bill>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3671 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3671</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>TITLE</context>
+</extension>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgH6632-6" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6632-6/mods.xml">
+ <titleInfo>
+  <title>ADDITIONAL SPONSORS</title>
+  <partName>House</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgH6632-6.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4ca1</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgH6632-6.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cc7</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. H6632</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6632-6</identifier>
+ <identifier type="former granule identifier">cr01se17-43</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgH6632-6</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgH6632-6.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgH6632-6.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>H6632</start>
+   <end>H6632</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. H6632</identifier>
+ <extension>
+  <searchTitle>ADDITIONAL SPONSORS; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>HOUSE</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgH6632-6</accessId>
+  <subGranuleClass>HADDSPONSORS</subGranuleClass>
+  <pagePrefix>H</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>HOUSE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+  <time from="13:00:00" to="13:00:00"></time>
+  <bill congress="115" context="OTHER" number="8" type="HCONRES"></bill>
+  <bill congress="115" context="OTHER" number="38" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="63" type="HCONRES"></bill>
+  <bill congress="115" context="OTHER" number="77" type="HCONRES"></bill>
+  <bill congress="115" context="OTHER" number="129" type="HRES"></bill>
+  <bill congress="115" context="OTHER" number="256" type="HRES"></bill>
+  <bill congress="115" context="OTHER" number="401" type="HRES"></bill>
+  <bill congress="115" context="OTHER" number="434" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="496" type="HRES"></bill>
+  <bill congress="115" context="OTHER" number="644" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="767" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="785" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="849" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="949" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="1243" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="1247" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="1267" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="1291" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="1299" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="1318" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="1322" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="1374" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="1406" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="1556" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="1635" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="1727" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="1861" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="2147" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="2230" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="2242" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="2472" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="2723" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="2901" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="2929" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="2938" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="3167" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="3192" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="3222" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="3239" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="3324" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="3379" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="3548" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="3591" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="3617" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="3643" type="HR"></bill>
+  <bill congress="115" context="OTHER" number="3660" type="HR"></bill>
+</extension>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Concurrent Resolution 8 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H. Con. Res. 8</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 38 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 38</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Concurrent Resolution 63 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H. Con. Res. 63</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Concurrent Resolution 77 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H. Con. Res. 77</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Resolution 129 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H. Res. 129</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Resolution 256 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H. Res. 256</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Resolution 401 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H. Res. 401</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 434 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 434</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Resolution 496 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H. Res. 496</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 644 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 644</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 767 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 767</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 785 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 785</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 849 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 849</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 949 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 949</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 1243 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 1243</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 1247 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 1247</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 1267 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 1267</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 1291 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 1291</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 1299 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 1299</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 1318 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 1318</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 1322 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 1322</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 1374 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 1374</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 1406 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 1406</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 1556 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 1556</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 1635 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 1635</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 1727 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 1727</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 1861 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 1861</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 2147 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 2147</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 2230 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 2230</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 2242 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 2242</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 2472 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 2472</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 2723 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 2723</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 2901 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 2901</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 2929 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 2929</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 2938 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 2938</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3167 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3167</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3192 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3192</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3222 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3222</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3239 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3239</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3324 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3324</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3379 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3379</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3548 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3548</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3591 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3591</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3617 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3617</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3643 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3643</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+ <relatedItem type="isReferencedBy">
+  <titleInfo>
+   <title>United States House Bill 3660 (115th Congress)</title>
+</titleInfo>
+  <identifier type="Congressional Bill citation">H.R. 3660</identifier>
+  <extension>
+   <congress>115</congress>
+   <context>OTHER</context>
+</extension>
+</relatedItem>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgS-FrontMatter" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgS-FrontMatter/mods.xml">
+ <titleInfo>
+  <title>CONGRESSIONAL RECORD</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgS-FrontMatter.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cad</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgS-FrontMatter.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4ce2</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S4915</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgS-FrontMatter</identifier>
+ <identifier type="former granule identifier">cr01se17-44</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgS-FrontMatter</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgS-FrontMatter.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgS-FrontMatter.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S4915</start>
+   <end>S4915</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. S4915</identifier>
+ <extension>
+  <searchTitle>CONGRESSIONAL RECORD; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgS-FrontMatter</accessId>
+  <subGranuleClass>FRONTMATTER</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgS4915" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgS4915/mods.xml">
+ <titleInfo>
+  <title>Senate</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgS4915.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4ca8</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgS4915.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cf3</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S4915</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgS4915</identifier>
+ <identifier type="former granule identifier">cr01se17-45</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgS4915</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgS4915.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgS4915.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S4915</start>
+   <end>S4915</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. S4915</identifier>
+ <extension>
+  <searchTitle>Senate; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgS4915</accessId>
+  <subGranuleClass>CALLTOORDER</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgS4915-2" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgS4915-2/mods.xml">
+ <titleInfo>
+  <title>APPOINTMENT OF ACTING PRESIDENT PRO TEMPORE</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgS4915-2.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4c93</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgS4915-2.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4ccd</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S4915</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgS4915-2</identifier>
+ <identifier type="former granule identifier">cr01se17-46</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgS4915-2</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgS4915-2.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgS4915-2.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S4915</start>
+   <end>S4915</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. S4915</identifier>
+ <extension>
+  <searchTitle>APPOINTMENT OF ACTING PRESIDENT PRO TEMPORE; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgS4915-2</accessId>
+  <subGranuleClass>ALLOTHER</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+</extension>
+</relatedItem>
+<relatedItem type="constituent" ID="id-CREC-2017-09-01-pt1-PgS4915-3" xlink:href="https://www.govinfo.gov/metadata/granule/CREC-2017-09-01/CREC-2017-09-01-pt1-PgS4915-3/mods.xml">
+ <titleInfo>
+  <title>ADJOURNMENT UNTIL TUESDAY, SEPTEMBER 5, 2017, AT 3 P.M.</title>
+  <partName>Senate</partName>
+</titleInfo>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgS4915-3.htm">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4ca7</identifier>
+</relatedItem>
+ <relatedItem type="otherFormat" xlink:href="https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgS4915-3.pdf">
+  <identifier type="FDsys Unique ID">D09002ee1a05d4cf4</identifier>
+</relatedItem>
+ <identifier type="congressional record citation">163 Cong. Rec. S4915</identifier>
+ <identifier type="uri">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgS4915-3</identifier>
+ <identifier type="former granule identifier">cr01se17-47</identifier>
+ <location>
+  <url displayLabel="Content Detail" access="object in context">https://www.govinfo.gov/app/details/CREC-2017-09-01/CREC-2017-09-01-pt1-PgS4915-3</url>
+  <url access="raw object" displayLabel="PDF rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/pdf/CREC-2017-09-01-pt1-PgS4915-3.pdf</url>
+  <url access="raw object" displayLabel="HTML rendition">https://www.govinfo.gov/content/pkg/CREC-2017-09-01/html/CREC-2017-09-01-pt1-PgS4915-3.htm</url>
+</location>
+ <physicalDescription>
+  <extent>1 p.</extent>
+</physicalDescription>
+ <part type="article">
+  <extent unit="pages">
+   <start>S4915</start>
+   <end>S4915</end>
+</extent>
+</part>
+ <identifier type="preferred citation">163 Cong. Rec. S4915</identifier>
+ <extension>
+  <searchTitle>ADJOURNMENT UNTIL TUESDAY, SEPTEMBER 5, 2017, AT 3 P.M.; Congressional Record Vol. 163, No. 141</searchTitle>
+  <granuleClass>SENATE</granuleClass>
+  <accessId>CREC-2017-09-01-pt1-PgS4915-3</accessId>
+  <subGranuleClass>ADJOURNMENT</subGranuleClass>
+  <pagePrefix>S</pagePrefix>
+  <bookNumber>1</bookNumber>
+  <chamber>SENATE</chamber>
+  <granuleDate>2017-09-01</granuleDate>
+</extension>
+</relatedItem>
+</mods>
