@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<congressPeople xmlns="https://example.com/maryse_and_joe_project/" xmlns:foaf="http://xmlns.com/foaf/0.1/" >
+<congressPeople xmlns:foaf="http://xmlns.com/foaf/0.1/" >
 
     <foaf:Person personId="jared_polis_house_co_democrat"> <!-- 2nd Class -->
         <foaf:firstName>Jared</foaf:firstName>
         <foaf:lastName>Polis</foaf:lastName>
         <chamber>House of Representatives</chamber>
         <state>CO</state>
-        <partyAffliation>Democrat</partyAffliation>
+        <partyAffiliation>Democrat</partyAffiliation>
     </foaf:Person>
 
     <foaf:Person personId="dina_titus_house_nv_democrat"> <!-- 2nd Class -->
@@ -14,7 +14,7 @@
         <foaf:lastName>Titus</foaf:lastName>
         <chamber>House of Representatives</chamber>
         <state>NV</state>
-        <partyAffliation>Democrat</partyAffliation>
+        <partyAffiliation>Democrat</partyAffiliation>
     </foaf:Person>
 
 </congressPeople>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<crIssues xmlns="https://example.com/maryse_and_joe_project/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<crIssues xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dc="http://purl.org/dc/elements/1.1/">
 
   <crIssue>
 
-    <!-- The next five pieces were nearly verbatim copied and pasted from the MODS XML metadata downloaded from the Congressional Record API, so we didn't create this syntax, but we thought it was the best syntax for this purpose. -->
+    <!-- The next five pieces were copied and pasted and modified from the MODS XML metadata downloaded from the Congressional Record API, so we didn't create this syntax, but we thought it was the best syntax for this purpose. -->
 
     <mods:identifier type="uri">https://www.govinfo.gov/app/details/CREC-2016-09-08</mods:identifier>
 
@@ -35,14 +35,9 @@
       <crSection>House</crSection>
       <text>
         <p>(Mr. POLIS asked and was given permission to address the House for 1 minute and to revise and extend his remarks.)</p>
-        <p>Mr. POLIS. Mr. Speaker, I rise today to call upon the House of Representatives to address our broken immigration system, one that serves our national security poorly, one that inhibits the ability of law enforcement to keep our communities safe
-          and replace it with comprehensive immigration reform so we know who is here, so that people who are here illegally will be required to register and get right with the law and pay a fine, that we provide a pathway to citizenship for people who are
-          here and playing a productive role in our economy, and that we can make sure that parents aren't taken away forcibly from their American citizen children.</p>
-        <p>It has been scored by the Congressional Budget Office that immigration reform would reduce our budget deficit by over $200 billion. There are people here today working, Mr. Speaker, and we don't even know if they are paying taxes. We need to make
-          sure that everybody who works in our country pays their just share of taxes, fulfills their responsibilities as legal residents or as citizens of our country, and the only way that we can do that is through congressional action.</p>
-        <p>
-          I am proud to support comprehensive immigration reform. I call upon Speaker Ryan and the Republican majority to put a bill forward that secures our border, reduces our deficit, and provides a way that people are required to get right with the law and
-          have workplace authentication.</p>
+        <p>Mr. POLIS. Mr. Speaker, I rise today to call upon the House of Representatives to address our broken immigration system, one that serves our national security poorly, one that inhibits the ability of law enforcement to keep our communities safe and replace it with comprehensive immigration reform so we know who is here, so that people who are here illegally will be required to register and get right with the law and pay a fine, that we provide a pathway to citizenship for people who are here and playing a productive role in our economy, and that we can make sure that parents aren't taken away forcibly from their American citizen children.</p>
+        <p>It has been scored by the Congressional Budget Office that immigration reform would reduce our budget deficit by over $200 billion. There are people here today working, Mr. Speaker, and we don't even know if they are paying taxes. We need to make sure that everybody who works in our country pays their just share of taxes, fulfills their responsibilities as legal residents or as citizens of our country, and the only way that we can do that is through congressional action.</p>
+        <p>I am proud to support comprehensive immigration reform. I call upon Speaker Ryan and the Republican majority to put a bill forward that secures our border, reduces our deficit, and provides a way that people are required to get right with the law and have workplace authentication.</p>
       </text>
     </document>
 
@@ -76,7 +71,7 @@
     <document dc:identifier="CREC-2016-12-01-01">
       <dc:type>Text</dc:type>
       <dc:title>Celebrating The Dreamers</dc:title>
-      <dc:creator personId="dina_titus_house_nv_democrat">Dina Titus</dc:creator>
+      <dc:creator dc:identifier="dina_titus_house_nv_democrat">Dina Titus</dc:creator>
       <crSection>Extension of Remarks</crSection>
       <text>
         <p>Ms. TITUS. Mr. Speaker, my office was overwhelmed with phone calls in the days following the election.</p>

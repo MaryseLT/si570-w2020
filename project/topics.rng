@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar
+  xmlns="http://relaxng.org/ns/structure/1.0"
+  xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+  datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes" 
+  xmlns:mods="http://www.loc.gov/mods/v3" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+    <start>
+        <element name="topics">
+            <oneOrMore>
+                <element name="dc:subject">
+                    <attribute name="subjectId">
+                        <data type="anyURI"/>
+                    </attribute>
+
+                    <element name="label">
+                        <data type="string"/>
+                    </element>
+    
+                    <element name="expressions">
+                        <oneOrMore>
+                            <element name="expression">
+                                <attribute name="regEx">
+                                    <data type="string"/>
+                                </attribute>
+                                <attribute name="totalFreq">
+                                    <data type="integer"/>
+                                </attribute>
+                            </element>
+                        </oneOrMore>
+                    </element>
+    
+                    <element name="documents">
+                        <oneOrMore>
+                            <element name="document">
+                                <attribute name="docId">
+                                    <data type="string"/>
+                                </attribute>
+                                <attribute name="docFreq">
+                                    <data type="float"/>
+                                </attribute>
+                                <attribute name="relevance">
+                                    <data type="float"/>
+                                </attribute>
+                            </element>
+                        </oneOrMore>
+                    </element>
+    
+    
+                </element>
+            </oneOrMore>
+        </element>    
+    </start>
+
+</grammar>
