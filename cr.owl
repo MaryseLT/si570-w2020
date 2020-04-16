@@ -1,0 +1,326 @@
+@prefix : <http://www.congressionalrecord.com/ontologies/cr.owl#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.congressionalrecord.com/ontologies/cr.owl> .
+
+<http://www.congressionalrecord.com/ontologies/cr.owl> rdf:type owl:Ontology ;
+                                                        rdfs:comment "Starting the Congressional Record ontology." .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#appearsIn
+:appearsIn rdf:type owl:ObjectProperty ;
+           rdfs:domain :topics ;
+           rdfs:range :issueDoc .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#hasAuthor
+:hasAuthor rdf:type owl:ObjectProperty ;
+           owl:inverseOf :isAuthorOf ;
+           rdf:type owl:TransitiveProperty ;
+           rdfs:domain :creator ;
+           rdfs:range :Person .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#isAuthorOf
+:isAuthorOf rdf:type owl:ObjectProperty ,
+                     owl:TransitiveProperty ;
+            rdfs:domain :Person ;
+            rdfs:range :creator .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#docFreq
+:docFreq rdf:type owl:DatatypeProperty ,
+                  owl:FunctionalProperty ;
+         rdfs:domain :document ;
+         rdfs:range xsd:float .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#docId
+:docId rdf:type owl:DatatypeProperty ,
+                owl:FunctionalProperty ;
+       rdfs:domain :document ;
+       rdfs:range xsd:string .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#identifier
+:identifier rdf:type owl:DatatypeProperty ,
+                     owl:FunctionalProperty ;
+            rdfs:domain :crIssue ,
+                        :issueDoc ;
+            rdfs:range xsd:anyURI ,
+                       xsd:string .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#personId
+:personId rdf:type owl:DatatypeProperty ,
+                   owl:FunctionalProperty ;
+          rdfs:domain :Person ;
+          rdfs:range xsd:string ;
+          rdfs:comment "Used for congressPerson" .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#regEx
+:regEx rdf:type owl:DatatypeProperty ,
+                owl:FunctionalProperty ;
+       rdfs:domain :expression ;
+       rdfs:range xsd:string .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#relevance
+:relevance rdf:type owl:DatatypeProperty ,
+                    owl:FunctionalProperty ;
+           rdfs:domain :document ;
+           rdfs:range xsd:float .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#subjectId
+:subjectId rdf:type owl:DatatypeProperty ,
+                    owl:FunctionalProperty ;
+           rdfs:domain :subject ;
+           rdfs:range xsd:string .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#totalFreq
+:totalFreq rdf:type owl:DatatypeProperty ,
+                    owl:FunctionalProperty ;
+           rdfs:domain :expression ;
+           rdfs:range xsd:integer .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#Person
+:Person rdf:type owl:Class ;
+        rdfs:subClassOf :congressPeople .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#chamber
+:chamber rdf:type owl:Class ;
+         rdfs:subClassOf :Person .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#congressPeople
+:congressPeople rdf:type owl:Class ;
+                owl:disjointWith :crIssues ,
+                                 :topics .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#crIssue
+:crIssue rdf:type owl:Class ;
+         rdfs:subClassOf :crIssues .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#crIssues
+:crIssues rdf:type owl:Class ;
+          owl:disjointWith :topics .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#crSection
+:crSection rdf:type owl:Class ;
+           rdfs:subClassOf :issueDoc .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#creator
+:creator rdf:type owl:Class ;
+         rdfs:subClassOf :issueDoc ,
+                         [ rdf:type owl:Restriction ;
+                           owl:onProperty :hasAuthor ;
+                           owl:someValuesFrom :congressPeople
+                         ] ;
+         rdfs:comment """Creator is the author > which is congressPerson
+
+Can be oneOrMore""" .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#dateIssued
+:dateIssued rdf:type owl:Class ;
+            rdfs:subClassOf :originInfo .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#docTitle
+:docTitle rdf:type owl:Class ;
+          rdfs:subClassOf :issueDoc ;
+          rdfs:comment "Can't have 2 entities named \"title\"" .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#document
+:document rdf:type owl:Class ;
+          rdfs:subClassOf :documents .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#documents
+:documents rdf:type owl:Class ;
+           rdfs:subClassOf :topics .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#end
+:end rdf:type owl:Class ;
+     rdfs:subClassOf :extent .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#expression
+:expression rdf:type owl:Class ;
+            rdfs:subClassOf :expressions .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#expressions
+:expressions rdf:type owl:Class ;
+             rdfs:subClassOf :topics .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#extent
+:extent rdf:type owl:Class ;
+        rdfs:subClassOf :part .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#firstName
+:firstName rdf:type owl:Class ;
+           rdfs:subClassOf :Person .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#identifier
+:identifier rdf:type owl:Class ;
+            rdfs:subClassOf :crIssue .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#issueDoc
+:issueDoc rdf:type owl:Class ;
+          rdfs:subClassOf :crIssue ;
+          rdfs:comment "Could not name have 2 entities named document" .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#label
+:label rdf:type owl:Class ;
+       rdfs:subClassOf :topics .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#lastName
+:lastName rdf:type owl:Class ;
+          rdfs:subClassOf :Person .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#originInfo
+:originInfo rdf:type owl:Class ;
+            rdfs:subClassOf :crIssue .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#paragraph
+:paragraph rdf:type owl:Class ;
+           rdfs:subClassOf :text .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#part
+:part rdf:type owl:Class ;
+      rdfs:subClassOf :crIssue .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#partNumber
+:partNumber rdf:type owl:Class ;
+            rdfs:subClassOf :titleInfo .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#partyAffiliation
+:partyAffiliation rdf:type owl:Class ;
+                  rdfs:subClassOf :Person .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#publisher
+:publisher rdf:type owl:Class ;
+           rdfs:subClassOf :originInfo .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#start
+:start rdf:type owl:Class ;
+       rdfs:subClassOf :extent .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#state
+:state rdf:type owl:Class ;
+       rdfs:subClassOf :Person .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#subject
+:subject rdf:type owl:Class ;
+         rdfs:subClassOf :topics .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#text
+:text rdf:type owl:Class ;
+      rdfs:subClassOf :issueDoc .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#title
+:title rdf:type owl:Class ;
+       rdfs:subClassOf :titleInfo .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#titleInfo
+:titleInfo rdf:type owl:Class ;
+           rdfs:subClassOf :crIssue .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#topics
+:topics rdf:type owl:Class ;
+        rdfs:subClassOf [ rdf:type owl:Restriction ;
+                          owl:onProperty :appearsIn ;
+                          owl:someValuesFrom :issueDoc
+                        ] .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#type
+:type rdf:type owl:Class ;
+      rdfs:subClassOf :issueDoc .
+
+
+###  http://www.congressionalrecord.com/ontologies/cr.owl#typeOfResource
+:typeOfResource rdf:type owl:Class ;
+                rdfs:subClassOf :crIssue .
+
+
+#################################################################
+#    General axioms
+#################################################################
+
+[ rdf:type owl:AllDisjointClasses ;
+  owl:members ( :chamber
+                :firstName
+                :lastName
+                :partyAffiliation
+                :state
+              )
+] .
+
+
+[ rdf:type owl:AllDisjointClasses ;
+  owl:members ( :documents
+                :expressions
+                :label
+                :subject
+              )
+] .
+
+
+[ rdf:type owl:AllDisjointClasses ;
+  owl:members ( :identifier
+                :issueDoc
+                :originInfo
+                :part
+                :titleInfo
+                :typeOfResource
+              )
+] .
+
+
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
